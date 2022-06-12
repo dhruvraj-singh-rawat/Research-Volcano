@@ -1,0 +1,1453 @@
+﻿Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+284110,Kita-Ioto,22447,Confirmed Eruption,,,,,2022,,3,,27,,Observations: Reported,,2022,,3,,27,,25.424,141.284
+282110,Asosan,22424,Confirmed Eruption,,2,,,2021,,10,,14,,Observations: Reported,,2021,,10,,20,,32.884,131.104
+284096,Nishinoshima,22407,Confirmed Eruption,,2,,,2021,,8,,14,,Observations: Reported,,2021,,8,,15,,27.247,140.874
+284130,Fukutoku-Oka-no-Ba,22408,Confirmed Eruption,,4,,,2021,,8,,13,,Observations: Reported,,2021,,9,?,12,,24.285,141.481
+282060,Kikai,22374,Confirmed Eruption,,1,,,2020,,10,,6,,Observations: Reported,,2020,,10,,6,,30.793,130.305
+282050,Kuchinoerabujima,22391,Confirmed Eruption,,1,,,2020,,8,,29,,Observations: Reported,,2020,,8,,29,,30.443,130.217
+282060,Kikai,22359,Confirmed Eruption,,1,,,2020,,4,,29,,Observations: Reported,,2020,,4,,29,,30.793,130.305
+282050,Kuchinoerabujima,22345,Confirmed Eruption,,3,,,2020,,1,,11,,Observations: Reported,,2020,,5,,13,,30.443,130.217
+284096,Nishinoshima,22340,Confirmed Eruption,,1,,,2019,,12,,5,,Observations: Reported,,2020,,8,,27,,27.247,140.874
+282060,Kikai,22339,Confirmed Eruption,,2,,,2019,,11,,2,,Observations: Reported,,2019,,11,,2,,30.793,130.305
+283110,Asamayama,22326,Confirmed Eruption,,2,,,2019,,8,,7,,Observations: Reported,,2019,,8,,25,,36.406,138.523
+282110,Asosan,22317,Confirmed Eruption,,2,,,2019,,4,,16,,Observations: Reported,,2020,,6,,16,,32.884,131.104
+282050,Kuchinoerabujima,22296,Confirmed Eruption,,3,,,2018,,10,,21,,Observations: Reported,,2019,,2,,3,,30.443,130.217
+284096,Nishinoshima,22280,Confirmed Eruption,,1,,,2018,,7,,12,,Observations: Reported,,2018,,7,,21,,27.247,140.874
+282090,Kirishimayama,22257,Confirmed Eruption,Shinmoedake,3,,,2018,,3,,1,,Observations: Reported,,2018,,6,,27,,31.934,130.862
+283120,Kusatsu-Shiranesan,22258,Confirmed Eruption,Motoshiranesan,1,,,2018,,1,,23,,Observations: Reported,,2018,,1,,23,,36.618,138.528
+282090,Kirishimayama,22242,Confirmed Eruption,Shinmoedake,2,,,2017,,10,,11,,Observations: Reported,,2017,,10,,17,,31.934,130.862
+284096,Nishinoshima,22207,Confirmed Eruption,,2,,,2017,,4,,18,1,Observations: Reported,,2017,,8,,17,6,27.247,140.874
+282080,Aira,22203,Confirmed Eruption,Minamidake summit crater,1,,,2017,,3,,25,,Observations: Reported,>,2022,,6,,3,,31.593,130.657
+282110,Asosan,22174,Confirmed Eruption,,3,,,2016,,10,,7,,Observations: Reported,,2016,,11,,12,,32.884,131.104
+283020,Hakoneyama,21080,Confirmed Eruption,,1,,,2015,,6,,29,,Observations: Reported,,2015,,7,,1,,35.233,139.021
+283110,Asamayama,21081,Confirmed Eruption,,1,,,2015,,6,,16,,Observations: Reported,,2015,,6,,16,,36.406,138.523
+282050,Kuchinoerabujima,21073,Confirmed Eruption,,3,,,2015,,5,,29,,Observations: Reported,,2015,,6,,19,,30.443,130.217
+283040,Ontakesan,20964,Confirmed Eruption,Summit crater,3,,,2014,,9,,27,,Observations: Reported,,2014,,10,,14,,35.893,137.48
+282110,Asosan,20960,Confirmed Eruption,Naka-dake,2,,,2014,,8,,30,,Observations: Reported,,2016,,5,,1,,32.884,131.104
+282050,Kuchinoerabujima,20952,Confirmed Eruption,Shindake,1,,,2014,,8,,3,,Observations: Reported,,2014,,8,,3,,30.443,130.217
+282110,Asosan,20935,Confirmed Eruption,Naka-dake,1,,,2014,,1,,13,,Observations: Reported,,2014,,2,,19,,32.884,131.104
+284096,Nishinoshima,20916,Confirmed Eruption,Offshore to the SE (Niijima),2,,,2013,,11,,20,,Observations: Reported,,2015,,11,?,17,,27.247,140.874
+282060,Kikai,20781,Confirmed Eruption,,1,,,2013,,6,,4,,Observations: Reported,,2013,,6,,4,,30.793,130.305
+284120,Ioto,20772,Confirmed Eruption,Asodai,1,,,2012,,2,,10,,Observations: Reported,,2012,,5,,2,,24.751,141.289
+282110,Asosan,20753,Confirmed Eruption,Naka-dake,1,,,2011,,5,,15,,Observations: Reported,,2011,,6,,9,,32.884,131.104
+282090,Kirishimayama,20782,Confirmed Eruption,Shinmoe-dake,2,,,2011,,1,,19,,Observations: Reported,,2011,,9,,7,,31.934,130.862
+284040,Miyakejima,18282,Confirmed Eruption,,1,,,2010,,4,,11,,Observations: Reported,,2010,,7,,21,,34.094,139.526
+282090,Kirishimayama,17165,Confirmed Eruption,Shinmoe-dake,1,,,2010,,3,,30,,Observations: Reported,,2010,,7,,10,,31.934,130.862
+284130,Fukutoku-Oka-no-Ba,18469,Confirmed Eruption,,1,,,2010,,2,,3,,Observations: Reported,,2010,,4,?,8,,24.285,141.481
+284040,Miyakejima,18281,Confirmed Eruption,,1,,,2009,,4,,1,,Observations: Reported,,2009,,4,,1,,34.094,139.526
+283110,Asamayama,17812,Confirmed Eruption,,2,,,2009,,1,,21,,Observations: Reported,,2009,,5,,2,,36.406,138.523
+285070,Akan,18707,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,2008,,11,,18,,Observations: Reported,,2008,,11,,28,,43.384,144.013
+282090,Kirishimayama,17163,Confirmed Eruption,Shinmoe-dake crater and W flank,1,,,2008,,8,,22,,Observations: Reported,,2008,,8,,22,,31.934,130.862
+283110,Asamayama,17811,Confirmed Eruption,,1,,,2008,,8,,10,,Observations: Reported,,2008,,8,,14,,36.406,138.523
+284040,Miyakejima,18280,Confirmed Eruption,,1,,,2008,,5,,8,,Observations: Reported,,2008,,5,,8,,34.094,139.526
+282110,Asosan,17351,Confirmed Eruption,Naka-dake,1,,,2008,,2,,17,,Observations: Reported,,2008,,2,,17,,32.884,131.104
+284040,Miyakejima,18279,Confirmed Eruption,,1,,,2008,,1,,7,,Observations: Reported,,2008,,1,,7,,34.094,139.526
+283040,Ontakesan,20962,Confirmed Eruption,1979 Crater #7,0,,,2007,,3,,24,7,Observations: Reported,,,,,,,,35.893,137.48
+284040,Miyakejima,18278,Confirmed Eruption,,1,,,2006,,8,,23,,Observations: Reported,,2006,,8,,23,,34.094,139.526
+285070,Akan,18704,Confirmed Eruption,NE flank of Me-Akan,1,,,2006,,3,,21,,Observations: Reported,,2006,,3,,21,,43.384,144.013
+284040,Miyakejima,18277,Confirmed Eruption,,1,,,2006,,2,,17,,Observations: Reported,,2006,,2,,17,,34.094,139.526
+284130,Fukutoku-Oka-no-Ba,18467,Confirmed Eruption,,1,,,2005,,7,,2,,Observations: Reported,,2005,,7,?,21,,24.285,141.481
+282110,Asosan,17350,Confirmed Eruption,Naka-dake,1,,,2005,,4,,14,,Observations: Reported,,2005,,8,,16,15,32.884,131.104
+284040,Miyakejima,18276,Confirmed Eruption,,1,,,2005,,4,,12,,Observations: Reported,,2005,,5,,18,,34.094,139.526
+284040,Miyakejima,18275,Confirmed Eruption,,1,,,2004,,11,,30,,Observations: Reported,,2004,,12,,9,,34.094,139.526
+282030,Suwanosejima,16947,Confirmed Eruption,O-take,2,,,2004,,10,,23,,Observations: Reported,>,2022,,6,,3,,29.638,129.714
+283110,Asamayama,17810,Confirmed Eruption,,2,,,2004,,9,,1,,Observations: Reported,,2004,,12,,9,,36.406,138.523
+282060,Kikai,17003,Confirmed Eruption,Iwo-dake,2,,,2004,,3,,5,,Observations: Reported,,2004,,10,,16,15,30.793,130.305
+285050,Tokachidake,18661,Confirmed Eruption,1962-II Crater,1,?,,2004,,2,,25,,Observations: Reported,,2004,,4,,19,,43.418,142.686
+282110,Asosan,17349,Confirmed Eruption,Naka-dake,1,,,2004,,1,,14,,Observations: Reported,,2004,,1,,14,,32.884,131.104
+282110,Asosan,17348,Confirmed Eruption,Naka-dake,1,,,2003,,7,,10,,Observations: Reported,,2003,,7,,14,,32.884,131.104
+282060,Kikai,17002,Confirmed Eruption,Iwo-dake,2,,,2003,,2,?,16,15,Observations: Reported,,2003,,10,,16,15,30.793,130.305
+283110,Asamayama,17809,Confirmed Eruption,,1,,,2003,,2,,6,,Observations: Reported,,2003,,4,,18,,36.406,138.523
+284090,Izu-Torishima,18372,Confirmed Eruption,Iwo-yama,2,,,2002,,8,,12,,Observations: Reported,,2002,,8,,20,,30.484,140.303
+282060,Kikai,17001,Confirmed Eruption,Iwo-dake,2,,,2002,,5,,11,,Observations: Reported,,2002,,7,,16,15,30.793,130.305
+284120,Ioto,18421,Confirmed Eruption,Off SE coast and Idogahama (NW coast),1,,,2001,,9,,21,,Observations: Reported,,2001,,10,,23,,24.751,141.289
+284040,Miyakejima,18274,Confirmed Eruption,,2,,,2001,,1,,11,,Observations: Reported,,2002,,11,,24,,34.094,139.526
+282030,Suwanosejima,16946,Confirmed Eruption,O-take (Upper NE flank),3,?,,2000,,12,,19,,Observations: Reported,,2004,,7,?,5,,29.638,129.714
+282060,Kikai,17000,Confirmed Eruption,Iwo-dake,1,,,2000,,10,,16,15,Observations: Reported,,2001,,12,,16,15,30.793,130.305
+285020,Hokkaido-Komagatake,18582,Confirmed Eruption,,1,,,2000,,9,,4,,Observations: Reported,,2000,,11,,8,,42.063,140.677
+284040,Miyakejima,18273,Confirmed Eruption,Summit and submarine western flank,3,,,2000,,6,,27,,Observations: Reported,,2000,,9,,28,,34.094,139.526
+285030,Toya,18602,Confirmed Eruption,Usu N flank (Kompira-yama & W Nishi-yama),2,,,2000,,3,,31,,Observations: Reported,,2001,,9,,15,5,42.544,140.839
+282030,Suwanosejima,16945,Confirmed Eruption,O-take,2,?,,2000,,2,,24,4,Observations: Reported,,2000,,2,,24,4,29.638,129.714
+282060,Kikai,16999,Confirmed Eruption,Iwo-dake,2,?,,2000,,1,,16,15,Observations: Reported,,2000,,3,,16,15,30.793,130.305
+284120,Ioto,18420,Confirmed Eruption,Asodai area,1,,,1999,,9,,10,,Observations: Reported,,1999,,9,,10,,24.751,141.289
+282030,Suwanosejima,16944,Confirmed Eruption,O-take,1,?,,1999,,6,,15,5,Observations: Reported,,1999,,6,,30,4,29.638,129.714
+282030,Suwanosejima,16943,Confirmed Eruption,O-take,1,?,,1999,,1,,5,5,Observations: Reported,,1999,,2,,24,4,29.638,129.714
+285070,Akan,18703,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,1998,,11,,9,,Observations: Reported,,1998,,11,,9,,43.384,144.013
+285020,Hokkaido-Komagatake,18581,Confirmed Eruption,1996 crater,2,,,1998,,10,,25,,Observations: Reported,,1998,,10,,25,,42.063,140.677
+282060,Kikai,16998,Confirmed Eruption,Iwo-dake,2,,,1998,,4,,25,,Observations: Reported,,1999,,8,,16,15,30.793,130.305
+283090,Niigata-Yakeyama,17551,Confirmed Eruption,Upper east flank,1,,,1998,,3,,30,,Observations: Reported,,,,,,,,36.921,138.036
+283090,Niigata-Yakeyama,17550,Confirmed Eruption,Upper east flank,1,,,1997,,10,,29,,Observations: Reported,,1997,,12,,10,,36.921,138.036
+283260,Akita-Yakeyama,18090,Confirmed Eruption,Kare-numa,1,,,1997,,8,,16,,Observations: Reported,,1997,,8,,16,,39.964,140.757
+282060,Kikai,16997,Confirmed Eruption,Iwo-dake,1,?,,1997,,7,,2,182,Observations: Reported,,,,,,,,30.793,130.305
+283260,Akita-Yakeyama,18089,Confirmed Eruption,NE flank (Sumikawa-Onsen),1,,,1997,,5,,11,,Observations: Reported,,1997,,5,,11,,39.964,140.757
+282030,Suwanosejima,16942,Confirmed Eruption,O-take,1,,,1996,,12,,26,,Observations: Reported,,1997,,4,,17,,29.638,129.714
+285070,Akan,18702,Confirmed Eruption,Me-Akan (Ponmachineshiri crater no. 4),1,,,1996,,11,,21,,Observations: Reported,,1996,,11,,21,,43.384,144.013
+283170,Adatarayama,17913,Confirmed Eruption,Numanotaira,1,,,1996,,9,,1,,Observations: Reported,,1996,,9,,1,,37.647,140.281
+285020,Hokkaido-Komagatake,18580,Confirmed Eruption,1929 crater and summit crater fissure,1,,,1996,,3,,5,,Observations: Reported,,1996,,3,?,12,,42.063,140.677
+282100,Unzendake,17182,Confirmed Eruption,Fugen-dake,2,,,1996,,2,,10,,Observations: Reported,,1996,,5,,1,,32.761,130.299
+282120,Kujusan,17365,Confirmed Eruption,Hosho lava dome (east flank),1,,,1995,,10,,11,,Observations: Reported,,1996,,3,,24,,33.086,131.249
+283070,Yakedake,17524,Confirmed Eruption,SE flank (Azusa-gawa),1,,,1995,,2,,11,,Observations: Reported,,1995,,2,,11,,36.227,137.587
+284120,Ioto,18419,Confirmed Eruption,NE side,1,,,1994,,8,,22,,Observations: Reported,,1994,,8,,22,,24.751,141.289
+282110,Asosan,17347,Confirmed Eruption,Naka-dake,2,,,1994,,5,,2,,Observations: Reported,,1995,,11,,16,15,32.884,131.104
+284130,Fukutoku-Oka-no-Ba,18458,Confirmed Eruption,,1,,,1992,,11,,10,,Observations: Reported,,1993,,9,?,9,,24.285,141.481
+282110,Asosan,17346,Confirmed Eruption,Naka-dake,2,,,1992,,4,,23,,Observations: Reported,,1993,,6,?,10,,32.884,131.104
+282090,Kirishimayama,17162,Confirmed Eruption,Shinmoe-dake,1,,,1991,,12,,1,,Observations: Reported,,1992,,4,,19,,31.934,130.862
+283040,Ontakesan,20963,Confirmed Eruption,1979 Crater #7,0,,,1991,,5,,13,,Observations: Reported,,1991,,5,,16,,35.893,137.48
+282100,Unzendake,17181,Confirmed Eruption,Fugen-dake,1,,,1990,,11,,17,,Observations: Reported,,1995,,2,,16,15,32.761,130.299
+284010,Izu-Oshima,18244,Confirmed Eruption,Mihara-yama (1987 summit crater),2,,,1990,,10,,4,,Observations: Reported,,1990,,10,,4,,34.724,139.394
+283110,Asamayama,17808,Confirmed Eruption,,2,,,1990,,7,,20,,Observations: Reported,,1990,,7,,20,,36.406,138.523
+282030,Suwanosejima,16941,Confirmed Eruption,O-take,2,,,1990,,4,,16,15,Observations: Reported,,1996,,7,,14,,29.638,129.714
+283010,Izu-Tobu,17379,Confirmed Eruption,Teishi-kaikyu (4 km NE of Ito City),1,,,1989,,7,,13,,Observations: Reported,,1989,,7,,13,,34.9,139.098
+283090,Niigata-Yakeyama,17549,Confirmed Eruption,Upper East flank,1,,,1989,,4,,19,,Observations: Reported,,1989,,4,,26,,36.921,138.036
+282110,Asosan,17345,Confirmed Eruption,Naka-dake,2,,,1989,,4,,5,,Observations: Reported,,1991,,2,,9,,32.884,131.104
+285050,Tokachidake,18660,Confirmed Eruption,1962 Crater,2,,,1988,,12,?,10,,Observations: Reported,,1989,,5,,16,15,43.418,142.686
+282110,Asosan,17344,Confirmed Eruption,Naka-dake,1,,,1988,,5,,26,5,Observations: Reported,,1989,,1,,16,15,32.884,131.104
+282060,Kikai,16996,Confirmed Eruption,Iwo-dake,1,,,1988,,1,,18,,Observations: Reported,,1988,,1,,18,,30.793,130.305
+282030,Suwanosejima,16940,Confirmed Eruption,O-take,2,,,1988,,1,,16,15,Observations: Reported,,1989,,12,,16,15,29.638,129.714
+285070,Akan,18701,Confirmed Eruption,Me-Akan (SE rim of Ponmachineshiri),1,,,1988,,1,,5,,Observations: Reported,,1988,,2,?,18,,43.384,144.013
+284010,Izu-Oshima,18243,Confirmed Eruption,Mihara-yama,2,,,1987,,11,,16,,Observations: Reported,,1988,,1,,27,,34.724,139.394
+284130,Fukutoku-Oka-no-Ba,17602,Confirmed Eruption,,0,,,1987,,7,,14,,Observations: Reported,,1987,,8,?,30,,24.285,141.481
+283090,Niigata-Yakeyama,17548,Confirmed Eruption,,1,,,1987,,4,,25,5,Observations: Reported,,,,,,,,36.921,138.036
+284010,Izu-Oshima,18242,Confirmed Eruption,"Mihara-yama, N part and NW of caldera",3,,,1986,,11,,15,,Observations: Reported,,1986,,12,,18,,34.724,139.394
+284130,Fukutoku-Oka-no-Ba,17600,Confirmed Eruption,,2,,,1986,,1,,18,,Observations: Reported,,1986,,3,?,28,,24.285,141.481
+282030,Suwanosejima,16939,Confirmed Eruption,O-take,2,,,1985,,9,,16,15,Observations: Reported,,1987,,6,,16,15,29.638,129.714
+285050,Tokachidake,18659,Confirmed Eruption,East wall of 1962 crater,1,,,1985,,6,,19,,Observations: Reported,,1985,,6,,22,,43.418,142.686
+282030,Suwanosejima,16938,Confirmed Eruption,O-take,2,,,1984,,10,,16,15,Observations: Reported,,1984,,10,,16,15,29.638,129.714
+285070,Akan,18700,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,1984,,5,,1,,Observations: Reported,,1984,,5,,1,,43.384,144.013
+282110,Asosan,17343,Confirmed Eruption,Naka-dake,1,,,1984,,4,,13,3,Observations: Reported,,1985,,6,,24,,32.884,131.104
+284100,Kaitoku Seamount,18374,Confirmed Eruption,Higashi-Kaitokuba,0,,,1984,,3,,8,,Observations: Reported,,1984,,3,?,26,,26.127,141.102
+284040,Miyakejima,18272,Confirmed Eruption,SW flank (4.5 km long NE-SW fissure),3,,,1983,,10,,3,,Observations: Reported,,1983,,10,,4,,34.094,139.526
+283120,Kusatsu-Shiranesan,17844,Confirmed Eruption,"Yu-gama, Kara-gama",1,,,1983,,7,,26,,Observations: Reported,,1983,,12,,21,,36.618,138.528
+282110,Asosan,17342,Confirmed Eruption,Naka-dake,1,,,1983,,7,,16,15,Observations: Reported,,1983,,10,,16,15,32.884,131.104
+283090,Niigata-Yakeyama,17547,Confirmed Eruption,,1,,,1983,,4,?,14,,Observations: Reported,,1983,,4,?,15,,36.921,138.036
+283110,Asamayama,17807,Confirmed Eruption,,2,,,1983,,4,,8,,Observations: Reported,,1983,,4,,8,,36.406,138.523
+284120,Ioto,18417,Confirmed Eruption,West side (Asodai),1,,,1982,,11,,28,,Observations: Reported,,1982,,12,?,16,15,24.751,141.289
+283120,Kusatsu-Shiranesan,17843,Confirmed Eruption,"Kara-gama, Yu-gama",1,,,1982,,10,,26,,Observations: Reported,,1982,,12,,29,,36.618,138.528
+283110,Asamayama,17806,Confirmed Eruption,,1,,,1982,,10,,2,,Observations: Reported,,1982,,10,,2,,36.406,138.523
+283110,Asamayama,17805,Confirmed Eruption,,2,,,1982,,4,,26,,Observations: Reported,,1982,,4,,26,,36.406,138.523
+284120,Ioto,18416,Confirmed Eruption,NW side (Idogahama beach),1,,,1982,,3,,9,,Observations: Reported,,1982,,3,,10,,24.751,141.289
+282110,Asosan,17341,Confirmed Eruption,Naka-dake,1,,,1981,,6,,15,,Observations: Reported,,1981,,6,,15,,32.884,131.104
+285040,Shikotsu,18633,Confirmed Eruption,Tarumai,1,,,1981,,2,,27,,Observations: Reported,,1981,,2,,27,,42.688,141.38
+282050,Kuchinoerabujima,16979,Confirmed Eruption,NNE-SSW fissure on E side of Shindake,2,,,1980,,9,,28,,Observations: Reported,,1980,,9,,28,,30.443,130.217
+282110,Asosan,17340,Confirmed Eruption,Naka-dake,1,,,1980,,9,,24,,Observations: Reported,,1980,,9,,24,,32.884,131.104
+284120,Ioto,18415,Confirmed Eruption,Kitanohara,1,,,1980,,3,,13,,Observations: Reported,,1980,,3,,13,,24.751,141.289
+283040,Ontakesan,17457,Confirmed Eruption,200 m SW of Kengamine,2,,,1979,,10,,28,,Observations: Reported,,1980,,4,,25,,35.893,137.48
+282110,Asosan,17339,Confirmed Eruption,Naka-dake,2,,,1979,,6,,5,4,Observations: Reported,,1980,,3,,8,,32.884,131.104
+282090,Kirishimayama,17161,Confirmed Eruption,Shinmoe-dake,1,,,1979,,2,,16,60,Observations: Reported,,,,,,,,31.934,130.862
+285040,Shikotsu,18632,Confirmed Eruption,Tarumai (SE foot of summit dome),1,,,1978,,12,,12,,Observations: Reported,,1979,,5,,11,,42.688,141.38
+284120,Ioto,18414,Confirmed Eruption,West side (Asodai),1,,,1978,,12,,11,,Observations: Reported,,1978,,12,,11,,24.751,141.289
+285040,Shikotsu,18631,Confirmed Eruption,Tarumai (SE foot of summit dome),1,,,1978,,5,,14,,Observations: Reported,,1978,,5,,17,,42.688,141.38
+283180,Azumayama,17937,Confirmed Eruption,Issaikyo (Oana),1,,,1977,,12,,7,,Observations: Reported,,1977,,12,,7,,37.735,140.244
+285030,Toya,18601,Confirmed Eruption,Usu-Shinzan,3,,,1977,,8,,7,,Observations: Reported,,1982,,3,,16,15,42.544,140.839
+282110,Asosan,17338,Confirmed Eruption,Naka-dake,2,,,1977,,4,,11,,Observations: Reported,,1978,,8,,16,15,32.884,131.104
+282050,Kuchinoerabujima,16978,Confirmed Eruption,Shindake,2,,,1976,,4,,2,,Observations: Reported,,1976,,4,,2,,30.443,130.217
+283120,Kusatsu-Shiranesan,17842,Confirmed Eruption,NE corner of Mizu-gama Crater,1,,,1976,,3,,2,,Observations: Reported,,1976,,3,,2,,36.618,138.528
+284120,Ioto,18413,Confirmed Eruption,West side (Asodai),1,,,1976,,1,,16,15,Observations: Reported,,,,,,,,24.751,141.289
+282110,Asosan,17337,Confirmed Eruption,Naka-dake,1,,,1975,,10,,16,15,Observations: Reported,,1976,,1,,13,,32.884,131.104
+284090,Izu-Torishima,18371,Confirmed Eruption,9 km S of Torishima,2,,,1975,,10,,2,,Observations: Reported,,,,,,,,30.484,140.303
+284131,Minami-Hiyoshi,18424,Confirmed Eruption,23.50 N 141.92 E,0,,,1975,,8,,25,,Observations: Reported,,,,,,,,23.5,141.935
+284130,Fukutoku-Oka-no-Ba,17598,Confirmed Eruption,,2,,,1974,,12,,24,,Observations: Reported,?,1975,,11,,13,,24.285,141.481
+283090,Niigata-Yakeyama,17546,Confirmed Eruption,WNW and NNE side of lava dome,2,,,1974,,7,,28,,Observations: Reported,,1974,,7,,28,,36.921,138.036
+282050,Kuchinoerabujima,16977,Confirmed Eruption,Shindake,1,,,1974,,6,,3,,Observations: Reported,,1974,,6,,3,,30.443,130.217
+283220,Chokaisan,18034,Confirmed Eruption,"E side of Shinzan, W of Kojin-yama",1,,,1974,,3,,1,,Observations: Reported,,1974,,4,,30,,39.099,140.049
+284010,Izu-Oshima,18241,Confirmed Eruption,Mihara-yama,1,,,1974,,2,,28,,Observations: Reported,,1974,,6,,20,,34.724,139.394
+284130,Fukutoku-Oka-no-Ba,17597,Confirmed Eruption,3.8 km NNE of Minami-Iwo-jima,2,,,1973,,12,,18,,Observations: Reported,,1974,,2,,16,,24.285,141.481
+282050,Kuchinoerabujima,16976,Confirmed Eruption,Shindake,2,,,1973,,11,,5,,Observations: Reported,,1973,,11,,19,,30.443,130.217
+284096,Nishinoshima,18358,Confirmed Eruption,East of Nishino-shima,2,,,1973,,4,,12,,Observations: Reported,,1974,,5,,5,4,27.247,140.874
+283110,Asamayama,17804,Confirmed Eruption,,2,,,1973,,2,,1,,Observations: Reported,,1973,,5,,24,,36.406,138.523
+282110,Asosan,17336,Confirmed Eruption,Naka-dake,2,,,1973,,1,,16,15,Observations: Reported,,1975,,6,,16,15,32.884,131.104
+282050,Kuchinoerabujima,16975,Confirmed Eruption,Shindake,2,,,1972,,9,,2,,Observations: Reported,,1972,,9,,2,,30.443,130.217
+282090,Kirishimayama,17160,Confirmed Eruption,"North foot, near Tearai hot springs",1,,,1971,,8,,5,,Observations: Reported,,1971,,8,,5,,31.934,130.862
+284010,Izu-Oshima,18240,Confirmed Eruption,Mihara-yama,1,,,1971,,4,,5,,Observations: Reported,,1971,,4,,5,,34.724,139.394
+283230,Akita-Komagatake,18053,Confirmed Eruption,Me-dake,2,,,1970,,9,,18,,Observations: Reported,,1971,,1,,26,,39.761,140.799
+284010,Izu-Oshima,18239,Confirmed Eruption,Mihara-yama,1,,,1970,,6,,30,,Observations: Reported,,1970,,11,,12,,34.724,139.394
+282110,Asosan,17335,Confirmed Eruption,Naka-dake,2,,,1970,,4,,21,,Observations: Reported,,1972,,9,,16,15,32.884,131.104
+284070,Myojinsho,18323,Confirmed Eruption,Myojinsho,2,,,1970,,1,,29,,Observations: Reported,,1970,,6,,16,15,31.888,139.918
+284010,Izu-Oshima,18238,Confirmed Eruption,Mihara-yama,1,,,1970,,1,,26,,Observations: Reported,,1970,,1,,31,,34.724,139.394
+284120,Ioto,18411,Confirmed Eruption,,1,,,1969,,12,,1,30,Observations: Reported,,1969,,12,,1,30,24.751,141.289
+284010,Izu-Oshima,18237,Confirmed Eruption,Mihara-yama,1,,,1969,,1,,19,,Observations: Reported,,1969,,7,,16,15,34.724,139.394
+284120,Ioto,18410,Confirmed Eruption,West side (Asodai),1,,,1969,,1,?,12,,Observations: Reported,,1969,,1,?,21,,24.751,141.289
+282050,Kuchinoerabujima,16974,Confirmed Eruption,Shindake,3,,,1968,,12,,21,,Observations: Reported,,1969,,3,,10,,30.443,130.217
+284010,Izu-Oshima,18236,Confirmed Eruption,Mihara-yama,1,,,1968,,7,,28,,Observations: Reported,,1968,,7,,28,,34.724,139.394
+282020,Io-Torishima,16920,Confirmed Eruption,,1,,,1968,,7,,18,,Observations: Reported,,1968,,7,,18,,27.881,128.223
+284010,Izu-Oshima,18235,Confirmed Eruption,Mihara-yama,1,,,1968,,1,,19,,Observations: Reported,,1968,,1,,19,,34.724,139.394
+284120,Ioto,18409,Confirmed Eruption,West side (Asodai),1,,,1967,,12,,23,,Observations: Reported,,1967,,12,,23,,24.751,141.289
+282020,Io-Torishima,16919,Confirmed Eruption,,1,,,1967,,11,,25,5,Observations: Reported,,,,,,,,27.881,128.223
+284010,Izu-Oshima,18234,Confirmed Eruption,Mihara-yama,1,,,1967,,5,,16,15,Observations: Reported,,1967,,8,,16,15,34.724,139.394
+282110,Asosan,17334,Confirmed Eruption,Naka-dake,1,,,1967,,5,,16,15,Observations: Reported,,1969,,12,,16,15,32.884,131.104
+282050,Kuchinoerabujima,16973,Confirmed Eruption,Shindake,2,,,1966,,11,,22,,Observations: Reported,,1966,,11,,22,,30.443,130.217
+285070,Akan,18699,Confirmed Eruption,Me-Akan (Nakamachineshiri),1,,,1966,,6,,15,5,Observations: Reported,,1966,,6,,15,5,43.384,144.013
+284010,Izu-Oshima,18037,Confirmed Eruption,Mihara-yama,1,,,1965,,11,,25,,Observations: Reported,,1966,,6,,13,,34.724,139.394
+284090,Izu-Torishima,18370,Confirmed Eruption,,0,,,1965,,11,,13,,Observations: Hydrophonic,,1965,,12,,5,4,30.484,140.303
+283110,Asamayama,17803,Confirmed Eruption,,2,,,1965,,5,,23,,Observations: Reported,,1965,,5,,23,,36.406,138.523
+285070,Akan,18698,Confirmed Eruption,Me-Akan (Nakamachineshiri),1,,,1965,,5,,15,5,Observations: Reported,,1965,,5,,15,5,43.384,144.013
+282110,Asosan,17333,Confirmed Eruption,Naka-dake,2,,,1964,,10,,16,15,Observations: Reported,,1966,,12,,16,15,32.884,131.104
+285070,Akan,18697,Confirmed Eruption,Me-Akan (Nakamachineshiri),1,,,1964,,6,,18,,Observations: Reported,,1964,,7,?,4,,43.384,144.013
+282110,Asosan,17332,Confirmed Eruption,Naka-dake,1,,,1964,,5,,14,,Observations: Reported,,1964,,5,,14,,32.884,131.104
+283150,Nasudake,17886,Confirmed Eruption,Chausu-dake (west side),1,,,1963,,11,,20,,Observations: Reported,,1963,,11,,21,,37.125,139.963
+282110,Asosan,17331,Confirmed Eruption,Naka-dake,2,,,1963,,11,,10,,Observations: Reported,,1964,,1,,16,15,32.884,131.104
+283090,Niigata-Yakeyama,17545,Confirmed Eruption,,1,,,1963,,7,,10,,Observations: Reported,,1963,,9,,30,,36.921,138.036
+282110,Asosan,17330,Confirmed Eruption,Naka-dake,1,,,1963,,4,,21,,Observations: Reported,,1963,,7,,16,15,32.884,131.104
+283090,Niigata-Yakeyama,17544,Confirmed Eruption,,1,,,1963,,2,,14,,Observations: Reported,,,,,,,,36.921,138.036
+284040,Miyakejima,18271,Confirmed Eruption,NE flank,2,,,1962,,8,,24,,Observations: Reported,,1962,,8,,27,,34.094,139.526
+285050,Tokachidake,18658,Confirmed Eruption,South of Shin-funkako,3,,,1962,,6,,29,,Observations: Reported,,1962,,9,,16,15,43.418,142.686
+283070,Yakedake,17523,Confirmed Eruption,North flank (Kurodani and Nakao-toge),2,,,1962,,6,,17,,Observations: Reported,,1963,,6,,29,,36.227,137.587
+285070,Akan,18696,Confirmed Eruption,Me-Akan (Nakamachineshiri),1,,,1962,,4,,28,,Observations: Reported,,1962,,4,,28,,43.384,144.013
+283090,Niigata-Yakeyama,17543,Confirmed Eruption,,1,,,1962,,3,,14,,Observations: Reported,,1962,,3,,14,,36.921,138.036
+284010,Izu-Oshima,18233,Confirmed Eruption,Mihara-yama,1,,,1962,,1,,16,15,Observations: Reported,,1965,,5,,16,15,34.724,139.394
+283110,Asamayama,17802,Confirmed Eruption,,2,,,1961,,8,,18,,Observations: Reported,,1961,,11,,16,,36.406,138.523
+285050,Tokachidake,18657,Confirmed Eruption,NW of Kami-Horokamettoku-yama,1,,,1961,,8,,14,,Observations: Reported,,1961,,8,,14,,43.418,142.686
+283150,Nasudake,17884,Confirmed Eruption,Chausu-dake (50 m north of 1953 vent),1,,,1960,,10,?,10,,Observations: Reported,,,,,,,,37.125,139.963
+285070,Akan,18695,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,1960,,9,,16,15,Observations: Reported,,1960,,9,,16,15,43.384,144.013
+282110,Asosan,13845,Confirmed Eruption,Naka-dake,1,,,1960,,9,,16,15,Observations: Reported,,1962,,11,,16,15,32.884,131.104
+284070,Myojinsho,18322,Confirmed Eruption,Myojinsho,2,,,1960,,7,,21,,Observations: Reported,,,,,,,,31.888,139.918
+282030,Suwanosejima,16937,Confirmed Eruption,Submarine E flank (Suwanose-jima Oki),0,,?,1960,,7,,2,182,Observations: Reported,,,,,,,,29.638,129.714
+282110,Asosan,13844,Confirmed Eruption,Naka-dake,2,,,1960,,1,,16,15,Observations: Reported,,1960,,4,,9,,32.884,131.104
+284010,Izu-Oshima,18231,Confirmed Eruption,Mihara-yama,1,,,1959,,10,,16,15,Observations: Reported,,1960,,11,,16,15,34.724,139.394
+285050,Tokachidake,18656,Confirmed Eruption,NE of Shin-funkako (Showa Crater),1,,,1959,,8,,15,5,Observations: Reported,,1959,,11,,25,,43.418,142.686
+282110,Asosan,13843,Confirmed Eruption,Naka-dake,1,,,1959,,7,,16,15,Observations: Reported,,1959,,10,,2,,32.884,131.104
+284070,Myojinsho,18321,Confirmed Eruption,,0,,,1959,,7,,2,182,Observations: Reported,,,,,,,,31.888,139.918
+282020,Io-Torishima,16918,Confirmed Eruption,Iwo-dake,2,,,1959,,6,,8,,Observations: Reported,,1959,,7,,16,15,27.881,128.223
+285070,Akan,18694,Confirmed Eruption,Me-Akan (Naka- and Ponmachineshiri),1,,,1959,,5,,15,5,Observations: Reported,,1959,,10,,16,15,43.384,144.013
+282090,Kirishimayama,17159,Confirmed Eruption,Shinmoe-dake,2,,,1959,,2,,13,,Observations: Reported,,1959,,2,,17,,31.934,130.862
+284010,Izu-Oshima,18230,Confirmed Eruption,Mihara-yama,1,,,1959,,1,,16,15,Observations: Reported,,1959,,1,,16,15,34.724,139.394
+283120,Kusatsu-Shiranesan,17841,Confirmed Eruption,Yu-gama,1,,,1958,,12,,31,365,Observations: Reported,,,,,,,,36.618,138.528
+285050,Tokachidake,18655,Confirmed Eruption,NE of Shin-funkako (Showa Crater),1,,,1958,,10,,4,,Observations: Reported,,1958,,10,,4,,43.418,142.686
+283110,Asamayama,17801,Confirmed Eruption,,2,,,1958,,10,,3,,Observations: Reported,,1959,,8,,26,5,36.406,138.523
+284070,Myojinsho,18320,Confirmed Eruption,,0,,,1958,,7,,2,182,Observations: Reported,,,,,,,,31.888,139.918
+284010,Izu-Oshima,18229,Confirmed Eruption,Mihara-yama,1,,,1958,,4,,17,,Observations: Reported,,1958,,6,,13,,34.724,139.394
+285070,Akan,18693,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,1958,,2,,23,,Observations: Reported,,1958,,2,,23,,43.384,144.013
+282110,Asosan,13842,Confirmed Eruption,Naka-dake,2,,,1957,,10,,16,15,Observations: Reported,,1958,,12,,16,15,32.884,131.104
+284010,Izu-Oshima,18228,Confirmed Eruption,Mihara-yama,1,,,1957,,8,,16,15,Observations: Reported,,1957,,12,,16,15,34.724,139.394
+283260,Akita-Yakeyama,18088,Confirmed Eruption,,1,,,1957,,7,,2,182,Observations: Reported,,,,,,,,39.964,140.757
+284070,Myojinsho,18319,Confirmed Eruption,,0,,,1957,,5,,2,,Observations: Reported,,,,,,,,31.888,139.918
+282110,Asosan,13841,Confirmed Eruption,Naka-dake,1,,,1957,,4,,12,,Observations: Reported,,1957,,4,,12,,32.884,131.104
+284120,Ioto,18408,Confirmed Eruption,Chidoriga-hara,1,,,1957,,3,,28,,Observations: Reported,,1957,,3,,28,,24.751,141.289
+285070,Akan,18692,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,1957,,2,,26,,Observations: Reported,,1957,,9,,5,,43.384,144.013
+282110,Asosan,13840,Confirmed Eruption,Naka-dake,1,,,1956,,12,,21,,Observations: Reported,,1956,,12,,21,,32.884,131.104
+282030,Suwanosejima,16936,Confirmed Eruption,O-take,2,,,1956,,11,,16,15,Observations: Reported,,1984,,5,,16,15,29.638,129.714
+282110,Asosan,13839,Confirmed Eruption,Naka-dake,2,,,1956,,8,,16,15,Observations: Reported,,,,,,,,32.884,131.104
+285050,Tokachidake,18653,Confirmed Eruption,NE of Shin-funkako (Showa Crater),1,,,1956,,6,,16,15,Observations: Reported,,1956,,6,,16,15,43.418,142.686
+285070,Akan,18691,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,1956,,3,,18,,Observations: Reported,,1956,,10,,31,,43.384,144.013
+282110,Asosan,17329,Confirmed Eruption,Naka-dake,2,,,1956,,1,?,3,,Observations: Reported,,1956,,1,,13,,32.884,131.104
+284010,Izu-Oshima,18226,Confirmed Eruption,Mihara-yama,1,,,1956,,1,,3,,Observations: Reported,,1956,,1,,6,,34.724,139.394
+285070,Akan,18690,Confirmed Eruption,Me-Akan (Ponmachineshiri),1,,,1955,,11,,19,,Observations: Reported,,1955,,11,,19,,43.384,144.013
+282080,Aira,17088,Confirmed Eruption,Minami-dake and east flank (Showa crater),3,,,1955,,10,,13,,Observations: Reported,,2016,,8,,22,,31.593,130.657
+282110,Asosan,17328,Confirmed Eruption,Naka-dake,1,,,1955,,7,,25,,Observations: Reported,,1955,,7,,28,,32.884,131.104
+284070,Myojinsho,18318,Confirmed Eruption,4 km north of Bayonnaise Rocks,0,,,1955,,6,,25,,Observations: Reported,,,,,,,,31.888,139.918
+285040,Shikotsu,18630,Confirmed Eruption,Tarumai,1,,,1954,,11,,19,,Observations: Reported,,1955,,2,,14,,42.688,141.38
+284070,Myojinsho,18317,Confirmed Eruption,Myojinsho,0,,,1954,,11,,4,,Observations: Reported,,1954,,11,,5,,31.888,139.918
+285050,Tokachidake,18652,Confirmed Eruption,NE of Shin-funkako (Showa Crater),1,,,1954,,9,,16,15,Observations: Reported,,1954,,9,,16,15,43.418,142.686
+282030,Suwanosejima,16935,Confirmed Eruption,Submarine E flank (Suwanose-jima Oki),0,,?,1954,,7,,2,182,Observations: Reported,,,,,,,,29.638,129.714
+282110,Asosan,17327,Confirmed Eruption,Naka-dake,1,,,1954,,5,,26,,Observations: Reported,,1954,,5,,26,,32.884,131.104
+285040,Shikotsu,18629,Confirmed Eruption,Tarumai,1,,,1954,,5,,2,,Observations: Reported,,1954,,5,,2,,42.688,141.38
+285070,Akan,18689,Confirmed Eruption,Me-Akan (Nakamachineshiri),1,,,1954,,1,?,7,,Observations: Reported,,1954,,4,,13,,43.384,144.013
+283110,Asamayama,17799,Confirmed Eruption,,3,,,1953,,12,,27,,Observations: Reported,,1955,,8,,2,,36.406,138.523
+282110,Asosan,17326,Confirmed Eruption,Naka-dake,1,,,1953,,12,,16,15,Observations: Reported,,1953,,12,,16,15,32.884,131.104
+283150,Nasudake,17883,Confirmed Eruption,Chausu-dake (1881 crater),1,,,1953,,10,,24,,Observations: Reported,,1953,,10,,29,,37.125,139.963
+284010,Izu-Oshima,18225,Confirmed Eruption,Mihara-yama,1,,,1953,,10,,5,,Observations: Reported,,1954,,2,,8,,34.724,139.394
+285040,Shikotsu,18628,Confirmed Eruption,Tarumai,1,,,1953,,9,?,14,,Observations: Reported,,1953,,9,?,14,,42.688,141.38
+284121,Kita-Fukutokutai,18398,Confirmed Eruption,,0,,,1953,,7,,2,182,Observations: Reported,,1954,,7,,2,182,24.417,141.417
+282110,Asosan,17325,Confirmed Eruption,Naka-dake,2,,,1953,,4,,27,,Observations: Reported,,1953,,7,,30,,32.884,131.104
+284070,Myojinsho,18316,Confirmed Eruption,Myojinsho,2,,,1952,,9,,16,,Observations: Reported,,1953,,10,,16,15,31.888,139.918
+285050,Tokachidake,18651,Confirmed Eruption,NE of Shin-funkako (Showa Crater),,,,1952,,8,,17,,Observations: Reported,,,,,,,,43.418,142.686
+283140,Nikko-Shiranesan,17864,Confirmed Eruption,Shirane-san,2,,,1952,,7,,16,15,Observations: Reported,,1952,,9,,16,15,36.799,139.376
+283110,Asamayama,17798,Confirmed Eruption,,2,,,1952,,6,,7,,Observations: Reported,,1952,,6,,14,,36.406,138.523
+285040,Shikotsu,18627,Confirmed Eruption,Tarumai,2,,,1951,,7,,28,,Observations: Reported,,1951,,7,,28,,42.688,141.38
+282110,Asosan,17323,Confirmed Eruption,Naka-dake,2,,,1951,,5,,4,,Observations: Reported,,1951,,8,,16,15,32.884,131.104
+283260,Akita-Yakeyama,18087,Confirmed Eruption,Kare-numa,1,?,,1951,,2,,16,15,Observations: Reported,,,,,,,,39.964,140.757
+285040,Shikotsu,18626,Confirmed Eruption,Tarumai,2,,,1951,,1,,29,,Observations: Reported,,1951,,1,,29,,42.688,141.38
+282110,Asosan,17322,Confirmed Eruption,Naka-dake,2,,,1950,,11,,16,15,Observations: Reported,,1951,,1,,16,15,32.884,131.104
+283110,Asamayama,17796,Confirmed Eruption,,1,,,1950,,9,,23,,Observations: Reported,,1951,,6,,17,,36.406,138.523
+284010,Izu-Oshima,18224,Confirmed Eruption,"Mihara-yama, south rim",2,,,1950,,7,,16,,Observations: Reported,,1951,,6,,28,,34.724,139.394
+283260,Akita-Yakeyama,18086,Confirmed Eruption,Kare-numa,1,,,1950,,7,,2,182,Observations: Reported,,,,,,,,39.964,140.757
+282080,Aira,17086,Confirmed Eruption,Minami-dake,1,,,1950,,6,,29,,Observations: Reported,,1950,,9,,9,,31.593,130.657
+283180,Azumayama,17934,Confirmed Eruption,Issaikyo (Oana and NW of Oana),1,,,1950,,2,,10,,Observations: Reported,,1950,,2,,19,,37.735,140.244
+283210,Kurikomayama,18002,Confirmed Eruption,,2,,,1950,,1,,15,,Observations: Reported,,,,,,,,38.961,140.788
+282110,Asosan,17321,Confirmed Eruption,Naka-dake,2,,,1949,,12,,26,,Observations: Reported,,1950,,4,,15,,32.884,131.104
+282030,Suwanosejima,16934,Confirmed Eruption,O-take,2,,,1949,,10,,0,,Observations: Reported,,1954,,7,,2,182,29.638,129.714
+283260,Akita-Yakeyama,18085,Confirmed Eruption,Kare-numa,1,,,1949,,8,,30,,Observations: Reported,,1949,,9,,1,,39.964,140.757
+283110,Asamayama,17795,Confirmed Eruption,,2,,,1949,,3,,10,,Observations: Reported,,1949,,10,,24,,36.406,138.523
+283090,Niigata-Yakeyama,17542,Confirmed Eruption,"NE-SW fissures, both sides of summit",2,,,1949,,2,,5,,Observations: Reported,,1949,,9,,13,,36.921,138.036
+282080,Aira,17085,Confirmed Eruption,East flank of Minami-dake (750 m),1,,,1948,,7,,27,,Observations: Reported,,1948,,7,,27,,31.593,130.657
+282110,Asosan,17320,Confirmed Eruption,Naka-dake,1,,,1948,,4,,9,,Observations: Reported,,1948,,12,,0,,32.884,131.104
+283260,Akita-Yakeyama,18084,Confirmed Eruption,Kare-numa,1,?,,1948,,0,,0,,Observations: Reported,,,,,,,,39.964,140.757
+283110,Asamayama,17794,Confirmed Eruption,E corner of crater bottom,1,,,1947,,6,,0,,Observations: Reported,,1947,,8,,14,,36.406,138.523
+282110,Asosan,17319,Confirmed Eruption,Naka-dake,2,,,1947,,5,,26,,Observations: Reported,,1947,,9,,0,,32.884,131.104
+282110,Asosan,17318,Confirmed Eruption,Naka-dake,2,,,1946,,12,,30,,Observations: Reported,,1946,,12,,30,,32.884,131.104
+283210,Kurikomayama,18001,Confirmed Eruption,SE of Tsurugi-yama,2,,,1946,,11,,24,,Observations: Reported,,,,,,,,38.961,140.788
+283110,Asamayama,17793,Confirmed Eruption,,2,,,1946,,10,,29,,Observations: Reported,,1946,,10,,30,,36.406,138.523
+282110,Asosan,17317,Confirmed Eruption,Naka-dake,2,,,1946,,4,,29,,Observations: Reported,,1946,,6,,24,,32.884,131.104
+284070,Myojinsho,18315,Confirmed Eruption,Island at 31.95 N 140.02 E,2,,,1946,,2,,4,4,Observations: Reported,,,,,,,,31.888,139.918
+282080,Aira,17084,Confirmed Eruption,East flank of Minami-dake (750 m),2,,,1946,,1,,0,,Observations: Reported,,1946,,11,,0,,31.593,130.657
+282050,Kuchinoerabujima,16972,Confirmed Eruption,NNE-SSW fissure on E side of Shindake,2,,,1945,,11,,3,,Observations: Reported,,1945,,11,,3,,30.443,130.217
+282110,Asosan,17316,Confirmed Eruption,Naka-dake,2,,,1945,,9,,16,,Observations: Reported,,1945,,9,,19,,32.884,131.104
+284120,Ioto,18407,Confirmed Eruption,North and west sides near the coast,1,,,1944,,12,,0,,Observations: Reported,,,,,,,,24.751,141.289
+283210,Kurikomayama,18000,Confirmed Eruption,,1,,,1944,,11,,20,,Observations: Reported,,1944,,12,,0,,38.961,140.788
+285040,Shikotsu,17616,Confirmed Eruption,Tarumai,1,,,1944,,7,,2,,Observations: Reported,,1944,,7,,2,,42.688,141.38
+285030,Toya,18600,Confirmed Eruption,Usu East flank (Showa-Shinzan),2,,,1944,,6,,23,,Observations: Reported,,1945,,9,,19,,42.544,140.839
+283110,Asamayama,17792,Confirmed Eruption,,2,,,1944,,1,?,0,,Observations: Reported,,1945,,11,,0,,36.406,138.523
+282110,Asosan,17315,Confirmed Eruption,Naka-dake,2,,,1943,,12,,9,,Observations: Reported,,1944,,2,,0,,32.884,131.104
+282110,Asosan,17314,Confirmed Eruption,Naka-dake,2,,,1943,,6,,21,,Observations: Reported,,1943,,6,,24,,32.884,131.104
+285020,Hokkaido-Komagatake,18579,Confirmed Eruption,NW-SE 1.6-km fissure,3,,,1942,,11,,16,,Observations: Reported,,1942,,11,,18,,42.063,140.677
+282080,Aira,17083,Confirmed Eruption,East flank of Minami-dake (750 m),1,,,1942,,7,,16,,Observations: Reported,,1942,,7,,16,,31.593,130.657
+283120,Kusatsu-Shiranesan,17840,Confirmed Eruption,Fissure east and south of Yu-gama,1,,,1942,,2,,2,,Observations: Reported,,,,,,,,36.618,138.528
+282080,Aira,17082,Confirmed Eruption,East flank of Minami-dake (750 m),2,,,1941,,4,,28,,Observations: Reported,,1941,,8,,26,,31.593,130.657
+283120,Kusatsu-Shiranesan,17839,Confirmed Eruption,,1,?,,1941,,1,,19,,Observations: Reported,,1941,,1,,19,,36.618,138.528
+282030,Suwanosejima,16933,Confirmed Eruption,O-take,2,?,,1940,,11,,29,,Observations: Reported,,,,,,,,29.638,129.714
+284010,Izu-Oshima,18223,Confirmed Eruption,Mihara-yama,1,,,1940,,8,,18,,Observations: Reported,,1940,,8,,19,,34.724,139.394
+284040,Miyakejima,18270,Confirmed Eruption,"Oyama, NE flank",3,,,1940,,7,,12,,Observations: Reported,,1940,,8,,5,,34.094,139.526
+283190,Zaozan [Zaosan],17989,Confirmed Eruption,Okama,1,,,1940,,5,,18,,Observations: Reported,,1940,,5,,18,,38.144,140.44
+282080,Aira,17081,Confirmed Eruption,Minami-dake and east flank (750 m),2,,,1940,,4,,24,,Observations: Reported,,1940,,7,,9,,31.593,130.657
+282110,Asosan,17312,Confirmed Eruption,Naka-dake,2,,,1940,,4,,20,,Observations: Reported,,1941,,8,,8,,32.884,131.104
+283120,Kusatsu-Shiranesan,17838,Confirmed Eruption,,1,?,,1940,,4,,7,,Observations: Reported,,1940,,9,,13,,36.618,138.528
+282080,Aira,17080,Confirmed Eruption,East flank of Minami-dake (750 m),2,,,1939,,10,,26,,Observations: Reported,,1939,,11,?,12,,31.593,130.657
+284010,Izu-Oshima,18222,Confirmed Eruption,Mihara-yama,1,,,1939,,9,,1,,Observations: Reported,,1939,,9,,16,,34.724,139.394
+284090,Izu-Torishima,18369,Confirmed Eruption,North side of 1902 crater (Iwo-yama),3,,,1939,,8,,17,,Observations: Reported,,1939,,12,,26,5,30.484,140.303
+283070,Yakedake,17522,Confirmed Eruption,,2,,,1939,,6,,4,,Observations: Reported,,1939,,6,,4,,36.227,137.587
+283120,Kusatsu-Shiranesan,17837,Confirmed Eruption,Yu-gama,1,,,1939,,2,?,0,,Observations: Reported,,1939,,8,?,28,,36.618,138.528
+284010,Izu-Oshima,18221,Confirmed Eruption,Mihara-yama,1,?,,1939,,2,,0,,Observations: Reported,,1939,,2,,0,,34.724,139.394
+284010,Izu-Oshima,18220,Confirmed Eruption,Mihara-yama,1,,,1938,,8,,11,,Observations: Reported,,1938,,8,,11,,34.724,139.394
+283120,Kusatsu-Shiranesan,17836,Confirmed Eruption,Yu-gama,1,,,1938,,7,?,17,,Observations: Reported,,1938,,10,?,5,,36.618,138.528
+283110,Asamayama,17791,Confirmed Eruption,,1,,,1938,,3,,25,,Observations: Reported,,1942,,12,,0,,36.406,138.523
+282030,Suwanosejima,16932,Confirmed Eruption,O-take,2,?,,1938,,3,,11,,Observations: Reported,,1938,,3,,11,,29.638,129.714
+282080,Aira,17079,Confirmed Eruption,Minami-dake,2,,,1938,,2,,25,,Observations: Reported,,1938,,3,,31,,31.593,130.657
+282110,Asosan,17311,Confirmed Eruption,Naka-dake,2,,,1938,,0,,0,,Observations: Reported,,1939,,8,,11,,32.884,131.104
+283120,Kusatsu-Shiranesan,17835,Confirmed Eruption,Yu-gama,1,,,1937,,11,,27,,Observations: Reported,,1938,,2,?,16,,36.618,138.528
+284010,Izu-Oshima,18219,Confirmed Eruption,Mihara-yama,0,,,1937,,7,,17,,Observations: Reported,,1937,,8,,0,,34.724,139.394
+282110,Asosan,17310,Confirmed Eruption,Naka-dake,2,,,1937,,5,,7,,Observations: Reported,,1937,,5,,13,,32.884,131.104
+285020,Hokkaido-Komagatake,18578,Confirmed Eruption,,1,,,1937,,3,,17,,Observations: Reported,,1937,,3,,19,,42.063,140.677
+282110,Asosan,17309,Confirmed Eruption,Naka-dake,2,,,1937,,1,,13,,Observations: Reported,,1937,,1,,13,,32.884,131.104
+285040,Shikotsu,17615,Confirmed Eruption,Tarumai,1,,,1936,,11,,15,,Observations: Reported,,1936,,11,,26,,42.688,141.38
+282110,Asosan,17308,Confirmed Eruption,Naka-dake,2,,,1936,,8,,8,,Observations: Reported,,1936,,8,,14,,32.884,131.104
+285040,Shikotsu,17614,Confirmed Eruption,Tarumai,1,,,1936,,4,,19,,Observations: Reported,,1936,,4,,19,,42.688,141.38
+282110,Asosan,17307,Confirmed Eruption,Naka-dake,2,,,1936,,2,,5,,Observations: Reported,,1936,,2,,5,,32.884,131.104
+285090,Shiretoko-Iozan,18732,Confirmed Eruption,NW flank,1,,,1935,,12,,0,,Observations: Reported,,1936,,10,,0,,44.133,145.161
+282080,Aira,17078,Confirmed Eruption,Minami-dake,1,,,1935,,9,,20,,Observations: Reported,,1935,,9,,24,,31.593,130.657
+283070,Yakedake,17521,Confirmed Eruption,,2,,,1935,,9,,11,,Observations: Reported,,1935,,11,,12,,36.227,137.587
+284010,Izu-Oshima,18218,Confirmed Eruption,Mihara-yama,0,,,1935,,4,,26,,Observations: Reported,,1935,,5,?,6,,34.724,139.394
+282110,Asosan,17306,Confirmed Eruption,Naka-dake,2,,,1935,,1,,7,,Observations: Reported,,1935,,10,,8,,32.884,131.104
+284120,Ioto,18406,Confirmed Eruption,SW side at Chidoriga-hara,1,,,1935,,0,,0,,Observations: Reported,,,,,,,,24.751,141.289
+283110,Asamayama,17790,Confirmed Eruption,,3,,,1934,,11,,13,,Observations: Reported,,1937,,7,,0,,36.406,138.523
+282060,Kikai,16995,Confirmed Eruption,2 km east of Tokara-Iwo-Jima,2,,,1934,,9,,19,,Observations: Reported,,1935,,8,?,0,,30.793,130.305
+282110,Asosan,17305,Confirmed Eruption,Naka-dake,2,,,1934,,7,,16,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17789,Confirmed Eruption,,1,,,1934,,6,,0,,Observations: Reported,,1934,,6,,0,,36.406,138.523
+284070,Myojinsho,18314,Confirmed Eruption,9 km E of Bayonnaise Rocks,0,,,1934,,5,,0,,Observations: Reported,,,,,,,,31.888,139.918
+284010,Izu-Oshima,18216,Confirmed Eruption,Mihara-yama,0,,,1934,,4,,15,,Observations: Reported,,1934,,4,?,25,,34.724,139.394
+283110,Asamayama,17788,Confirmed Eruption,,1,,,1934,,1,,9,,Observations: Reported,,1934,,2,,11,,36.406,138.523
+283120,Kusatsu-Shiranesan,17834,Confirmed Eruption,,2,,,1934,,0,,0,,Observations: Reported,,,,,,,,36.618,138.528
+282050,Kuchinoerabujima,16971,Confirmed Eruption,Shindake,4,?,,1933,,12,,23,,Observations: Reported,,1934,,1,,12,,30.443,130.217
+285040,Shikotsu,17613,Confirmed Eruption,Tarumai (east-west summit fissure),2,,,1933,,12,,1,,Observations: Reported,,1933,,12,,14,,42.688,141.38
+284010,Izu-Oshima,18215,Confirmed Eruption,Mihara-yama,0,,,1933,,10,,14,,Observations: Reported,,1933,,11,,0,,34.724,139.394
+283110,Asamayama,17787,Confirmed Eruption,,2,,,1933,,1,,9,,Observations: Reported,,1933,,8,,3,,36.406,138.523
+283120,Kusatsu-Shiranesan,17832,Confirmed Eruption,"NE part of Yu-gama, SE outer rim",3,,,1932,,10,,1,,Observations: Reported,,1932,,11,,0,,36.618,138.528
+283230,Akita-Komagatake,18052,Confirmed Eruption,Ishibora (south flank of Me-dake),2,,,1932,,7,,21,,Observations: Reported,,1932,,7,,24,,39.761,140.799
+282110,Asosan,17304,Confirmed Eruption,Naka-dake,2,,,1932,,6,,0,,Observations: Reported,,1933,,9,,28,,32.884,131.104
+283070,Yakedake,17520,Confirmed Eruption,,2,,,1932,,2,,6,,Observations: Reported,,1932,,2,,6,,36.227,137.587
+285040,Shikotsu,17612,Confirmed Eruption,Tarumai,1,,,1931,,10,,11,,Observations: Reported,,1931,,10,,24,,42.688,141.38
+285050,Tokachidake,18650,Confirmed Eruption,,1,,,1931,,5,,16,,Observations: Reported,,1931,,5,,16,,43.418,142.686
+282050,Kuchinoerabujima,16969,Confirmed Eruption,SW flank of Shindake,3,?,,1931,,4,,2,,Observations: Reported,,1931,,6,,22,,30.443,130.217
+283110,Asamayama,17786,Confirmed Eruption,,3,,,1931,,3,,31,,Observations: Reported,,1932,,9,,21,,36.406,138.523
+283070,Yakedake,17519,Confirmed Eruption,,2,,,1931,,3,,26,,Observations: Reported,,1931,,6,,24,,36.227,137.587
+282110,Asosan,17302,Confirmed Eruption,Naka-dake,2,,,1930,,9,,3,,Observations: Reported,,1930,,9,,6,,32.884,131.104
+283110,Asamayama,17785,Confirmed Eruption,,2,,,1930,,4,,18,,Observations: Reported,,1930,,10,,17,,36.406,138.523
+283070,Yakedake,17518,Confirmed Eruption,Inkyo-ko,2,,,1930,,3,,13,,Observations: Reported,,1930,,5,?,11,,36.227,137.587
+284120,Ioto,18405,Confirmed Eruption,NW side near the coast,1,,?,1930,,0,,0,,Observations: Reported,,,,,,,,24.751,141.289
+284110,Kita-Ioto,18379,Confirmed Eruption,Funka-Asane,2,?,,1930,,0,,0,,Observations: Reported,,1945,,0,,0,,25.424,141.284
+283110,Asamayama,17784,Confirmed Eruption,,2,,,1929,,9,,18,,Observations: Reported,,1929,,11,,15,,36.406,138.523
+283260,Akita-Yakeyama,18083,Confirmed Eruption,,2,,,1929,,9,,0,,Observations: Reported,,,,,,,,39.964,140.757
+285020,Hokkaido-Komagatake,18575,Confirmed Eruption,SE and NE of Ansei Crater,4,,,1929,,6,,17,,Observations: Reported,,1929,,9,,6,,42.063,140.677
+283070,Yakedake,17517,Confirmed Eruption,"Summit (Inkyo-ko), NW flank (Kurodani)",2,,,1929,,4,,17,,Observations: Reported,,1929,,4,,19,,36.227,137.587
+283110,Asamayama,17783,Confirmed Eruption,,2,,,1929,,1,,22,,Observations: Reported,,1929,,4,,5,,36.406,138.523
+285050,Tokachidake,18649,Confirmed Eruption,Shin-funkako,1,,,1928,,12,,4,,Observations: Reported,,1928,,12,,25,,43.418,142.686
+282110,Asosan,17301,Confirmed Eruption,Naka-dake,2,,,1928,,9,,6,,Observations: Reported,,1929,,10,,23,,32.884,131.104
+285040,Shikotsu,17611,Confirmed Eruption,Tarumai,1,,,1928,,9,,6,,Observations: Reported,,1929,,2,,10,,42.688,141.38
+284010,Izu-Oshima,18214,Confirmed Eruption,Mihara-yama,2,,,1928,,8,,7,,Observations: Reported,,1928,,8,,8,,34.724,139.394
+285020,Hokkaido-Komagatake,18574,Confirmed Eruption,,1,,,1928,,3,,28,,Observations: Reported,,,,,,,,42.063,140.677
+285040,Shikotsu,17610,Confirmed Eruption,Tarumai,2,,,1928,,1,,7,,Observations: Reported,,1928,,1,,7,,42.688,141.38
+285050,Tokachidake,18648,Confirmed Eruption,Shin-funkako,1,,,1928,,1,,0,,Observations: Reported,,1928,,5,,23,,43.418,142.686
+283120,Kusatsu-Shiranesan,17831,Confirmed Eruption,"N Yu-gama & S outer rim (in 1927, not 1928)",2,,,1927,,12,,29,,Observations: Reported,,1927,,12,,31,,36.618,138.528
+283070,Yakedake,17516,Confirmed Eruption,"Summit (Inkyo-ko), NW flank (Kurodani)",2,,,1927,,12,,15,,Observations: Reported,,1927,,12,,15,,36.227,137.587
+283110,Asamayama,17782,Confirmed Eruption,,2,,,1927,,3,?,0,,Observations: Reported,,1928,,7,,25,,36.406,138.523
+283070,Yakedake,17515,Confirmed Eruption,"Summit (Inkyo-ko), NW flank (Kurodani)",2,,,1927,,1,,23,,Observations: Reported,,1927,,4,,29,,36.227,137.587
+285040,Shikotsu,17609,Confirmed Eruption,Tarumai,2,,,1926,,10,,19,,Observations: Reported,,1926,,10,,30,,42.688,141.38
+282110,Asosan,17300,Confirmed Eruption,Naka-dake,2,,,1926,,9,,21,,Observations: Reported,,1928,,1,,13,,32.884,131.104
+285050,Tokachidake,18647,Confirmed Eruption,Shin-funkako,3,,,1925,,11,,20,,Observations: Reported,,1927,,9,,0,,43.418,142.686
+282030,Suwanosejima,16930,Confirmed Eruption,O-take,2,?,,1925,,5,,13,,Observations: Reported,,,,,,,,29.638,129.714
+283120,Kusatsu-Shiranesan,17830,Confirmed Eruption,Northern part of Yu-gama,2,,,1925,,1,?,22,,Observations: Reported,,1925,,1,,30,,36.618,138.528
+282110,Asosan,17299,Confirmed Eruption,Naka-dake,2,,,1925,,1,,6,,Observations: Reported,,,,,,,,32.884,131.104
+283070,Yakedake,17514,Confirmed Eruption,"Summit (Inkyo-ko), NW flank (Kurodani)",2,,,1924,,11,,16,,Observations: Reported,,1926,,1,,27,,36.227,137.587
+282010,Submarine Volcano NNE of Iriomotejima,16910,Confirmed Eruption,,4,?,,1924,,10,,31,,Observations: Reported,,,,,,,,24.57,123.93
+283110,Asamayama,17781,Confirmed Eruption,,2,,,1924,,9,,7,,Observations: Reported,,1924,,9,,29,,36.406,138.523
+285020,Hokkaido-Komagatake,18573,Confirmed Eruption,,2,,,1924,,7,,31,,Observations: Reported,,,,,,,,42.063,140.677
+282090,Kirishimayama,17156,Confirmed Eruption,Ohachi,2,,,1923,,7,,0,,Observations: Reported,,1923,,7,,0,,31.934,130.862
+283070,Yakedake,17513,Confirmed Eruption,"NW flank (Kurodani Crater), Inkyo-ko",2,,,1923,,6,,26,,Observations: Reported,,1923,,8,,2,,36.227,137.587
+285020,Hokkaido-Komagatake,18572,Confirmed Eruption,,2,,,1923,,2,,27,,Observations: Reported,,1923,,3,,15,,42.063,140.677
+285040,Shikotsu,17608,Confirmed Eruption,Tarumai,1,,,1923,,2,,0,,Observations: Reported,,1923,,8,,23,,42.688,141.38
+282110,Asosan,17298,Confirmed Eruption,Naka-dake,2,,,1923,,1,,0,,Observations: Reported,,1923,,9,,17,,32.884,131.104
+284010,Izu-Oshima,18213,Confirmed Eruption,Mihara-yama,1,,,1922,,12,,8,,Observations: Reported,,1923,,1,,30,,34.724,139.394
+284120,Ioto,18404,Confirmed Eruption,West side (Asodai),1,,,1922,,7,,0,,Observations: Reported,,,,,,,,24.751,141.289
+285020,Hokkaido-Komagatake,18571,Confirmed Eruption,,2,,,1922,,5,,22,,Observations: Reported,,,,,,,,42.063,140.677
+283070,Yakedake,17512,Confirmed Eruption,"NW flank (Kurodani Crater), Inkyo-ko",1,?,,1922,,3,,10,,Observations: Reported,,1922,,3,,19,,36.227,137.587
+282030,Suwanosejima,16929,Confirmed Eruption,O-take,2,?,,1921,,12,,8,,Observations: Reported,,1922,,1,,26,,29.638,129.714
+285040,Shikotsu,17607,Confirmed Eruption,Tarumai,1,,,1921,,7,,6,,Observations: Reported,,1921,,7,,6,,42.688,141.38
+283070,Yakedake,17511,Confirmed Eruption,,,,,1921,,0,,0,,Observations: Reported,,,,,,,,36.227,137.587
+283110,Asamayama,17780,Confirmed Eruption,,2,,,1920,,12,,6,,Observations: Reported,,1922,,4,,5,,36.406,138.523
+285040,Shikotsu,17606,Confirmed Eruption,Tarumai,1,,,1920,,7,,17,,Observations: Reported,,1920,,7,,23,,42.688,141.38
+283070,Yakedake,17510,Confirmed Eruption,,,,,1920,,0,,0,,Observations: Reported,,,,,,,,36.227,137.587
+282110,Asosan,17180,Confirmed Eruption,Naka-dake,2,,,1920,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+283070,Yakedake,17509,Confirmed Eruption,NW flank (Kurodani Crater),2,,,1919,,11,,1,,Observations: Reported,,1919,,11,,1,,36.227,137.587
+283240,Iwatesan,18068,Confirmed Eruption,W side of Onigajo caldera (O-jigokudani),1,,,1919,,7,?,15,,Observations: Reported,,1919,,7,?,15,,39.853,141.001
+285020,Hokkaido-Komagatake,18570,Confirmed Eruption,SE of Ansei Crater,2,,,1919,,6,,17,,Observations: Reported,,1919,,7,,26,,42.063,140.677
+284010,Izu-Oshima,18211,Confirmed Eruption,Mihara-yama,0,,,1919,,5,,18,,Observations: Reported,,1919,,12,,23,,34.724,139.394
+285040,Shikotsu,17605,Confirmed Eruption,Tarumai,2,,,1919,,5,,4,,Observations: Reported,,1919,,5,,4,,42.688,141.38
+282110,Asosan,17179,Confirmed Eruption,Naka-dake,2,,,1919,,4,,0,,Observations: Reported,,1919,,5,,0,,32.884,131.104
+283110,Asamayama,17779,Confirmed Eruption,,2,,,1919,,3,,14,,Observations: Reported,,1919,,8,?,27,,36.406,138.523
+285040,Shikotsu,17604,Confirmed Eruption,Tarumai,1,,,1918,,6,,13,,Observations: Reported,,1918,,7,,31,,42.688,141.38
+282110,Asosan,13834,Confirmed Eruption,Naka-dake,2,,,1918,,1,,16,,Observations: Reported,,,,,,,,32.884,131.104
+283070,Yakedake,17508,Confirmed Eruption,Taisho crater,1,,,1918,,0,,0,,Observations: Reported,,,,,,,,36.227,137.587
+283110,Asamayama,17777,Confirmed Eruption,,1,,,1917,,5,?,3,,Observations: Reported,,1917,,7,?,31,,36.406,138.523
+285040,Shikotsu,18624,Confirmed Eruption,Tarumai (east-west summit fissure),2,,,1917,,4,,30,,Observations: Reported,,1917,,5,,12,,42.688,141.38
+283070,Yakedake,17507,Confirmed Eruption,Taisho Crater,1,,,1917,,0,,0,,Observations: Reported,,,,,,,,36.227,137.587
+284080,Sumisujima,18335,Confirmed Eruption,Just west of Smith Rock,0,,,1916,,6,,21,,Observations: Reported,,,,,,,,31.44,140.051
+283110,Asamayama,17776,Confirmed Eruption,,1,,,1916,,5,?,12,,Observations: Reported,,1916,,10,,2,,36.406,138.523
+282110,Asosan,13833,Confirmed Eruption,Naka-dake,2,,,1916,,4,,19,,Observations: Reported,,,,,,,,32.884,131.104
+283070,Yakedake,17506,Confirmed Eruption,"Taisho Crater, Inkyo-ko",2,,,1916,,3,,17,,Observations: Reported,,1916,,4,?,12,,36.227,137.587
+284010,Izu-Oshima,18210,Confirmed Eruption,Mihara-yama,2,,,1915,,10,,10,,Observations: Reported,,1915,,10,?,25,,34.724,139.394
+283070,Yakedake,17505,Confirmed Eruption,"1911 summit crater, SE flank (Taisho)",2,,,1915,,6,,6,,Observations: Reported,,1915,,7,,16,,36.227,137.587
+283110,Asamayama,17775,Confirmed Eruption,,1,,,1915,,5,?,13,,Observations: Reported,,1915,,8,,27,,36.406,138.523
+283070,Yakedake,17504,Confirmed Eruption,,2,?,,1915,,2,,0,,Observations: Reported,,1915,,2,,0,,36.227,137.587
+284070,Myojinsho,18313,Confirmed Eruption,"11 km east, 19 km NE, 4 km SW",0,,,1915,,2,,0,,Observations: Reported,,1915,,7,,0,,31.888,139.918
+283110,Asamayama,17774,Confirmed Eruption,,2,,,1914,,11,,12,,Observations: Reported,,1914,,12,,16,,36.406,138.523
+282090,Kirishimayama,17155,Confirmed Eruption,Ohachi,,,,1914,,11,,8,,Observations: Reported,,,,,,,,31.934,130.862
+284010,Izu-Oshima,18209,Confirmed Eruption,Mihara-yama,2,,,1914,,5,,15,,Observations: Reported,,1914,,5,,26,,34.724,139.394
+282110,Asosan,17279,Confirmed Eruption,Naka-dake,2,,,1914,,1,,13,,Observations: Reported,,,,,,,,32.884,131.104
+284130,Fukutoku-Oka-no-Ba,18447,Confirmed Eruption,Shin-Iwo-jima,3,,,1914,,1,,13,,Observations: Reported,,1914,,8,>,21,,24.285,141.481
+282080,Aira,17077,Confirmed Eruption,"West, east and SE flanks",4,,,1914,,1,,12,,Observations: Reported,,1915,,5,,0,,31.593,130.657
+282050,Kuchinoerabujima,16968,Confirmed Eruption,Shindake,2,?,,1914,,1,,5,,Observations: Reported,,,,,,,,30.443,130.217
+282040,Nakanoshima,16952,Confirmed Eruption,On-take,1,,,1914,,1,,0,,Observations: Reported,,,,,,,,29.859,129.857
+282090,Kirishimayama,17154,Confirmed Eruption,Ohachi,2,,,1913,,11,,8,,Observations: Reported,,1914,,1,,8,,31.934,130.862
+283070,Yakedake,17503,Confirmed Eruption,Inkyo-ko,2,,,1913,,9,?,1,,Observations: Reported,,1914,,1,,13,,36.227,137.587
+284010,Izu-Oshima,18208,Confirmed Eruption,Mihara-yama,1,,,1912,,2,,23,,Observations: Reported,,1913,,1,,25,,34.724,139.394
+283070,Yakedake,17502,Confirmed Eruption,,2,,,1912,,2,,11,,Observations: Reported,,1912,,9,?,0,,36.227,137.587
+283070,Yakedake,17501,Confirmed Eruption,New summit crater (Inkyo-ko),2,,,1911,,5,,6,,Observations: Reported,,1911,,8,?,23,,36.227,137.587
+282110,Asosan,17297,Confirmed Eruption,Naka-dake,2,,,1911,,0,,0,,Observations: Reported,,1912,,0,,0,,32.884,131.104
+284010,Izu-Oshima,18207,Confirmed Eruption,Mihara-yama,1,,,1910,,12,,0,,Observations: Reported,,,,,,,,34.724,139.394
+283070,Yakedake,17500,Confirmed Eruption,Summit crater (Shoga-ike),2,,,1910,,11,,11,,Observations: Reported,,1910,,11,,30,,36.227,137.587
+285030,Toya,18599,Confirmed Eruption,Usu North flank (Meiji-Shinzan),2,,,1910,,7,,25,,Observations: Reported,,1910,,11,,0,,42.544,140.839
+282110,Asosan,17296,Confirmed Eruption,Naka-dake,2,,,1910,,4,,3,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17295,Confirmed Eruption,Naka-dake,2,,,1909,,4,,0,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17773,Confirmed Eruption,,1,,,1909,,1,,29,,Observations: Reported,,1914,,6,,24,,36.406,138.523
+285040,Shikotsu,18623,Confirmed Eruption,Tarumai,3,,,1909,,1,,11,,Observations: Reported,,1909,,4,,22,,42.688,141.38
+283110,Asamayama,17772,Confirmed Eruption,,2,,,1908,,8,,5,,Observations: Reported,,1908,,9,,23,,36.406,138.523
+283110,Asamayama,17771,Confirmed Eruption,,2,,,1908,,2,?,13,,Observations: Reported,,1908,,2,,19,,36.406,138.523
+282110,Asosan,17294,Confirmed Eruption,Naka-dake,2,,,1908,,1,,17,,Observations: Reported,,1908,,1,?,29,,32.884,131.104
+282110,Asosan,17293,Confirmed Eruption,Naka-dake,2,,,1907,,12,,12,,Observations: Reported,,,,,,,,32.884,131.104
+283070,Yakedake,17499,Confirmed Eruption,Summit crater (Shoga-ike),2,,,1907,,12,,8,,Observations: Reported,,1909,,6,,1,,36.227,137.587
+283110,Asamayama,17770,Confirmed Eruption,,2,,,1907,,8,,24,,Observations: Reported,,1907,,8,,24,,36.406,138.523
+283110,Asamayama,17769,Confirmed Eruption,,2,,,1907,,1,,18,,Observations: Reported,,1907,,3,,28,,36.406,138.523
+282110,Asosan,17292,Confirmed Eruption,Naka-dake,3,,,1906,,6,,7,,Observations: Reported,,,,,,,,32.884,131.104
+284070,Myojinsho,18312,Confirmed Eruption,9-15 km SE of Bayonnaise Rocks,1,,,1906,,4,,7,,Observations: Reported,,1906,,4,,14,,31.888,139.918
+283110,Asamayama,17768,Confirmed Eruption,,2,,,1906,,4,,6,,Observations: Reported,,1906,,4,,6,,36.406,138.523
+283120,Kusatsu-Shiranesan,17829,Confirmed Eruption,Yu-gama,2,,,1905,,10,,0,,Observations: Reported,,1905,,10,,0,,36.618,138.528
+285020,Hokkaido-Komagatake,18569,Confirmed Eruption,South of Ansei Crater,2,,,1905,,8,,19,,Observations: Reported,,1905,,9,?,1,,42.063,140.677
+283190,Zaozan [Zaosan],17985,Confirmed Eruption,Okama,1,?,,1905,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+284130,Fukutoku-Oka-no-Ba,18446,Confirmed Eruption,Shin-Iwo-jima,3,,,1904,,11,,14,,Observations: Reported,,1905,,5,?,16,,24.285,141.481
+283110,Asamayama,17766,Confirmed Eruption,,2,,,1904,,8,,4,,Observations: Reported,,1904,,8,,4,,36.406,138.523
+282090,Kirishimayama,17153,Confirmed Eruption,Ohachi,2,,,1903,,8,,29,,Observations: Reported,,1903,,11,,25,,31.934,130.862
+282020,Io-Torishima,16917,Confirmed Eruption,,2,,,1903,,3,,15,5,Observations: Reported,,1903,,8,,26,5,27.881,128.223
+284090,Izu-Torishima,18368,Confirmed Eruption,"Komochi-yama, N & SW offshore flanks",3,,,1902,,8,,7,,Observations: Reported,,1902,,8,,24,,30.484,140.303
+283110,Asamayama,17764,Confirmed Eruption,,2,,,1902,,8,,5,,Observations: Reported,,1902,,8,?,20,,36.406,138.523
+283120,Kusatsu-Shiranesan,17827,Confirmed Eruption,North side of Yumi-ike,1,,,1902,,7,,15,,Observations: Reported,,1902,,9,,24,,36.618,138.528
+283110,Asamayama,17763,Confirmed Eruption,,2,,,1902,,2,,7,,Observations: Reported,,1902,,2,,7,,36.406,138.523
+283230,Akita-Komagatake,18051,Confirmed Eruption,Yoko-dake,1,?,,1902,,0,,0,,Observations: Reported,,,,,,,,39.761,140.799
+283120,Kusatsu-Shiranesan,17826,Confirmed Eruption,NE part of Yu-gama,1,,,1900,,10,,1,,Observations: Reported,,1900,,10,,1,,36.618,138.528
+283170,Adatarayama,17912,Confirmed Eruption,Numanotaira,2,,,1900,,7,,17,,Observations: Reported,,1900,,7,,17,,37.647,140.281
+283110,Asamayama,17762,Confirmed Eruption,,2,,,1900,,1,,22,,Observations: Reported,,1901,,10,,0,,36.406,138.523
+283170,Adatarayama,17911,Confirmed Eruption,Numanotaira,2,,,1899,,8,,24,,Observations: Reported,,1899,,11,,12,,37.647,140.281
+282090,Kirishimayama,17152,Confirmed Eruption,Ohachi,2,,,1899,,7,,28,,Observations: Reported,,1900,,2,,16,,31.934,130.862
+283110,Asamayama,17761,Confirmed Eruption,,2,,,1899,,7,,10,,Observations: Reported,,1899,,8,,7,,36.406,138.523
+283110,Asamayama,17760,Confirmed Eruption,,2,,,1899,,3,,11,,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,17151,Confirmed Eruption,Ohachi,2,,,1898,,12,,26,,Observations: Reported,,1898,,12,,30,,31.934,130.862
+285061,Maruyama,18663,Confirmed Eruption,Maru-yama (No. 1 crater),2,,,1898,,12,?,3,,Observations: Reported,,1898,,12,,6,,43.418,143.031
+282110,Asosan,17291,Confirmed Eruption,Naka-dake,2,,,1898,,8,?,0,,Observations: Reported,,1899,,4,>,0,,32.884,131.104
+282090,Kirishimayama,17150,Confirmed Eruption,Ohachi,2,,,1898,,2,,8,,Observations: Reported,,1898,,3,,11,,31.934,130.862
+283120,Kusatsu-Shiranesan,17825,Confirmed Eruption,NE part of Yu-gama,2,,,1897,,7,,8,,Observations: Reported,,1897,,8,,16,,36.618,138.528
+282090,Kirishimayama,17149,Confirmed Eruption,Ohachi,2,,,1897,,5,,3,,Observations: Reported,,1897,,9,,4,,31.934,130.862
+282110,Asosan,17290,Confirmed Eruption,Naka-dake,2,,,1897,,2,,24,4,Observations: Reported,,,,,,,,32.884,131.104
+282090,Kirishimayama,17148,Confirmed Eruption,Ohachi,2,,,1896,,12,,21,,Observations: Reported,,,,,,,,31.934,130.862
+283190,Zaozan [Zaosan],17982,Confirmed Eruption,Okama,1,,,1896,,3,,8,,Observations: Reported,,1896,,3,,8,,38.144,140.44
+284070,Myojinsho,18311,Confirmed Eruption,14 km north of Bayonnaise Rocks,2,,,1896,,0,,0,,Observations: Reported,,,,,,,,31.888,139.918
+283190,Zaozan [Zaosan],17981,Confirmed Eruption,Okama,2,,,1895,,8,,22,,Observations: Reported,,1895,,9,,28,,38.144,140.44
+282090,Kirishimayama,17147,Confirmed Eruption,Ohachi,2,,,1895,,7,,16,,Observations: Reported,,1896,,6,,26,,31.934,130.862
+283180,Azumayama,17931,Confirmed Eruption,Issaikyo (near Oana),1,,,1895,,3,,8,,Observations: Reported,,1895,,9,,13,,37.735,140.244
+283190,Zaozan [Zaosan],17980,Confirmed Eruption,Okama,1,,,1895,,2,,15,,Observations: Reported,,1895,,3,,22,,38.144,140.44
+285040,Shikotsu,18622,Confirmed Eruption,Tarumai,2,,,1894,,8,,17,,Observations: Reported,,1894,,8,,17,,42.688,141.38
+283190,Zaozan [Zaosan],17979,Confirmed Eruption,Okama,2,?,,1894,,7,,3,,Observations: Reported,,1894,,7,,3,,38.144,140.44
+283110,Asamayama,17759,Confirmed Eruption,,2,,,1894,,4,,6,,Observations: Reported,,1894,,6,,14,,36.406,138.523
+283180,Azumayama,17930,Confirmed Eruption,Issaikyo (near Oana),1,,,1894,,3,,16,,Observations: Reported,,1894,,4,,12,,37.735,140.244
+282110,Asosan,17289,Confirmed Eruption,Naka-dake,2,,,1894,,3,,6,,Observations: Reported,,1894,,8,,30,,32.884,131.104
+282090,Kirishimayama,17146,Confirmed Eruption,Ohachi,2,,,1894,,2,,25,,Observations: Reported,,1894,,2,?,28,,31.934,130.862
+285040,Shikotsu,18621,Confirmed Eruption,Tarumai,2,,,1894,,2,,8,,Observations: Reported,,1894,,2,,8,,42.688,141.38
+283180,Azumayama,17929,Confirmed Eruption,Issaikyo,1,,,1893,,11,,9,,Observations: Reported,,1893,,11,,10,,37.735,140.244
+283180,Azumayama,17928,Confirmed Eruption,Issaikyo (west of Oana),1,,,1893,,5,,19,,Observations: Reported,,1893,,7,,13,,37.735,140.244
+282090,Kirishimayama,17145,Confirmed Eruption,Ohachi,2,,,1891,,11,,10,,Observations: Reported,,1891,,11,?,20,,31.934,130.862
+283110,Asamayama,17757,Confirmed Eruption,,,,,1891,,10,?,0,,Observations: Reported,,1891,,11,?,0,,36.406,138.523
+282090,Kirishimayama,17144,Confirmed Eruption,Ohachi,2,?,,1891,,6,?,19,,Observations: Reported,,,,,,,,31.934,130.862
+283230,Akita-Komagatake,18050,Confirmed Eruption,,2,,,1890,,12,,0,,Observations: Reported,,1891,,1,,0,,39.761,140.799
+283260,Akita-Yakeyama,18082,Confirmed Eruption,,2,,,1890,,9,,23,,Observations: Reported,,,,,,,,39.964,140.757
+283140,Nikko-Shiranesan,17863,Confirmed Eruption,Shirane-san,1,,,1890,,8,,22,,Observations: Reported,,,,,,,,36.799,139.376
+285090,Shiretoko-Iozan,18731,Confirmed Eruption,NW flank,1,,,1890,,6,,15,,Observations: Reported,,,,,,,,44.133,145.161
+284120,Ioto,18403,Confirmed Eruption,Chidoriga-ana,1,,,1889,,12,,31,365,Observations: Reported,,,,,,,,24.751,141.289
+283110,Asamayama,17756,Confirmed Eruption,,2,,,1889,,12,,24,,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,13802,Confirmed Eruption,Ohachi,2,,,1889,,12,,10,,Observations: Reported,,1889,,12,,18,,31.934,130.862
+283140,Nikko-Shiranesan,17862,Confirmed Eruption,Shirane-san (west flank),1,,,1889,,12,,4,,Observations: Reported,,,,,,,,36.799,139.376
+282030,Suwanosejima,16926,Confirmed Eruption,O-take,4,,,1889,,10,,2,,Observations: Reported,,1889,,10,,13,,29.638,129.714
+285090,Shiretoko-Iozan,18730,Confirmed Eruption,NW flank,2,?,,1889,,8,,9,,Observations: Reported,,1889,,10,,7,7,44.133,145.161
+285050,Tokachidake,18646,Confirmed Eruption,Maru-yama (Yunuma),2,,,1889,,0,,0,,Observations: Reported,,,,,,,,43.418,142.686
+283160,Bandaisan,17900,Confirmed Eruption,Kobandai,4,,,1888,,7,,15,,Observations: Reported,,1888,,7,,15,,37.601,140.072
+285020,Hokkaido-Komagatake,18568,Confirmed Eruption,NW side of 1856 (Ansei) crater,2,,,1888,,4,,14,,Observations: Reported,,,,,,,,42.063,140.677
+282090,Kirishimayama,17076,Confirmed Eruption,Ohachi,2,,,1888,,2,,21,,Observations: Reported,,1888,,5,,9,,31.934,130.862
+285040,Shikotsu,18620,Confirmed Eruption,Tarumai,2,,,1887,,9,,3,,Observations: Reported,,1887,,10,,8,,42.688,141.38
+285050,Tokachidake,18645,Confirmed Eruption,Lower part of Maru-yama?,2,,,1887,,6,,0,,Observations: Reported,,,,,,,,43.418,142.686
+282090,Kirishimayama,17143,Confirmed Eruption,Ohachi,2,?,,1887,,5,,0,,Observations: Reported,,,,,,,,31.934,130.862
+283260,Akita-Yakeyama,18081,Confirmed Eruption,Karenuma,2,,,1887,,0,,0,,Observations: Reported,,,,,,,,39.964,140.757
+285040,Shikotsu,18619,Confirmed Eruption,Tarumai,2,,,1886,,4,,13,,Observations: Reported,,1886,,4,,28,,42.688,141.38
+285040,Shikotsu,18618,Confirmed Eruption,Tarumai,2,,,1885,,1,,4,,Observations: Reported,,1885,,3,,26,,42.688,141.38
+282030,Suwanosejima,16925,Confirmed Eruption,O-take,2,?,,1885,,1,,0,,Observations: Reported,,1885,,5,,0,,29.638,129.714
+282110,Asosan,17288,Confirmed Eruption,Naka-dake,2,,,1884,,3,,21,,Observations: Reported,,1884,,6,,0,,32.884,131.104
+282030,Suwanosejima,16924,Confirmed Eruption,Northeastern summit crater (O-take),1,,,1884,,0,,0,,Observations: Reported,,,,,,,,29.638,129.714
+285040,Shikotsu,18617,Confirmed Eruption,Tarumai,2,,,1883,,10,,7,,Observations: Reported,,1883,,11,,5,,42.688,141.38
+283120,Kusatsu-Shiranesan,17824,Confirmed Eruption,"Yu-gama, NE end of Kara-gama",2,,,1882,,8,,6,,Observations: Reported,,1882,,8,>,16,,36.618,138.528
+283150,Nasudake,17882,Confirmed Eruption,Chausu-dake (west and NW side of summit),1,?,,1881,,7,,1,,Observations: Reported,,,,,,,,37.125,139.963
+282090,Kirishimayama,17142,Confirmed Eruption,Ohachi,2,,,1880,,9,,0,,Observations: Reported,,,,,,,,31.934,130.862
+284110,Kita-Ioto,18378,Confirmed Eruption,Funka-Asane,0,,,1880,,0,,0,,Observations: Reported,,1889,,0,,0,,25.424,141.284
+283110,Asamayama,17755,Confirmed Eruption,,2,,,1879,,9,,27,,Observations: Reported,,1879,,9,,28,,36.406,138.523
+282030,Suwanosejima,16923,Confirmed Eruption,,4,?,,1877,,0,,0,,Observations: Reported,,,,,,,,29.638,129.714
+284010,Izu-Oshima,18206,Confirmed Eruption,Mihara-yama,2,,,1876,,12,,27,,Observations: Reported,,1877,,2,,5,,34.724,139.394
+285090,Shiretoko-Iozan,18728,Confirmed Eruption,NW flank,2,,,1876,,9,,23,,Observations: Reported,,1876,,9,,26,,44.133,145.161
+283110,Asamayama,17753,Confirmed Eruption,,2,,,1875,,6,,14,,Observations: Reported,,,,,,,,36.406,138.523
+284040,Miyakejima,18269,Confirmed Eruption,NNE flank (560 m),3,,,1874,,7,,3,,Observations: Reported,,1874,,7,?,17,,34.094,139.526
+285011,Esan,18552,Confirmed Eruption,,1,,,1874,,6,,8,,Observations: Reported,,,,,,,,41.805,141.166
+285040,Shikotsu,18616,Confirmed Eruption,Tarumai,3,,,1874,,2,,8,,Observations: Reported,,1874,,2,,16,,42.688,141.38
+282110,Asosan,17287,Confirmed Eruption,Naka-dake,2,,,1874,,2,,7,,Observations: Reported,,,,,,,,32.884,131.104
+283190,Zaozan [Zaosan],17977,Confirmed Eruption,Okama,1,?,,1873,,8,,0,,Observations: Reported,,1873,,9,,0,,38.144,140.44
+283140,Nikko-Shiranesan,17861,Confirmed Eruption,Shirane-san,1,,,1873,,3,,12,,Observations: Reported,,,,,,,,36.799,139.376
+282110,Asosan,17286,Confirmed Eruption,Naka-dake,3,,,1872,,12,,1,,Observations: Reported,,1873,,6,,8,,32.884,131.104
+283140,Nikko-Shiranesan,17860,Confirmed Eruption,Shirane-san (SW flank),2,,,1872,,5,,14,,Observations: Reported,,,,,,,,36.799,139.376
+284090,Izu-Torishima,18367,Confirmed Eruption,,0,,,1871,,4,,0,,Observations: Reported,,,,,,,,30.484,140.303
+284070,Myojinsho,18310,Confirmed Eruption,Volcano Uncertain,0,,,1871,,0,,0,,,,,,,,,,31.888,139.918
+284080,Sumisujima,18333,Confirmed Eruption,18 km SW of Smith Rock,2,,,1870,,5,,0,,Observations: Reported,,,,,,,,31.44,140.051
+284010,Izu-Oshima,18205,Confirmed Eruption,Mihara-yama,2,,,1870,,0,,0,,Observations: Reported,,,,,,,,34.724,139.394
+284070,Myojinsho,18309,Confirmed Eruption,Volcano Uncertain,0,,,1869,,5,,6,,,,,,,,,,31.888,139.918
+283110,Asamayama,17752,Confirmed Eruption,,2,,,1869,,5,,0,,Observations: Reported,,1869,,10,,23,,36.406,138.523
+282020,Io-Torishima,16916,Confirmed Eruption,,1,,,1868,,2,,0,,Observations: Reported,,1868,,4,,0,,27.881,128.223
+283190,Zaozan [Zaosan],17976,Confirmed Eruption,Okama,2,,,1867,,10,,21,,Observations: Reported,,,,,,,,38.144,140.44
+285040,Shikotsu,18614,Confirmed Eruption,Tarumai,2,,,1867,,9,,8,,Observations: Reported,,,,,,,,42.688,141.38
+283260,Akita-Yakeyama,18080,Confirmed Eruption,,,,,1867,,0,,0,,Observations: Reported,,,,,,,,39.964,140.757
+283270,Iwakisan,18128,Confirmed Eruption,,1,,,1863,,3,,23,,Observations: Reported,,,,,,,,40.656,140.303
+282080,Aira,17071,Confirmed Eruption,Minami-dake,1,,,1860,,0,,0,,Observations: Reported,,,,,,,,31.593,130.657
+285090,Shiretoko-Iozan,18727,Confirmed Eruption,,,,,1857,,0,,0,,Observations: Reported,,1858,,0,,0,,44.133,145.161
+285050,Tokachidake,18644,Confirmed Eruption,,2,,,1857,,0,,0,,Observations: Reported,,,,,,,,43.418,142.686
+285020,Hokkaido-Komagatake,18567,Confirmed Eruption,Ansei Crater,4,,,1856,,9,,25,,Observations: Reported,,,,,,,,42.063,140.677
+282110,Asosan,17285,Confirmed Eruption,Naka-dake,2,,,1856,,3,,18,,Observations: Reported,,1856,,6,,13,,32.884,131.104
+282020,Io-Torishima,16915,Confirmed Eruption,,2,,,1855,,3,,0,,Observations: Reported,,1855,,5,,0,,27.881,128.223
+282110,Asosan,17284,Confirmed Eruption,Naka-dake,2,,,1854,,2,,26,,Observations: Reported,,,,,,,,32.884,131.104
+283090,Niigata-Yakeyama,17541,Confirmed Eruption,NW flank,,,,1854,,0,,0,,Observations: Reported,,,,,,,,36.921,138.036
+285030,Toya,18598,Confirmed Eruption,O-Usu,4,,,1853,,4,,22,,Observations: Reported,,1853,,9,,0,,42.544,140.839
+283090,Niigata-Yakeyama,17540,Confirmed Eruption,NW flank,2,,,1852,,11,,1,,Observations: Reported,,1853,,5,?,0,,36.921,138.036
+285011,Esan,18551,Confirmed Eruption,,1,,,1846,,11,,18,,Observations: Reported,,,,,,,,41.805,141.166
+283150,Nasudake,17881,Confirmed Eruption,Chausu-dake,1,,,1846,,8,,0,,Observations: Reported,,,,,,,,37.125,139.963
+284010,Izu-Oshima,18203,Confirmed Eruption,Mihara-yama,2,,,1846,,0,,0,,Observations: Reported,,,,,,,,34.724,139.394
+283270,Iwakisan,18125,Confirmed Eruption,,2,,,1845,,4,,4,,Observations: Reported,,,,,,,,40.656,140.303
+283270,Iwakisan,18124,Confirmed Eruption,Summit and south flank?,2,,,1844,,4,,7,,Observations: Reported,,,,,,,,40.656,140.303
+282050,Kuchinoerabujima,16966,Confirmed Eruption,Shindake,2,,,1841,,5,,23,,Observations: Reported,,1841,,8,,1,,30.443,130.217
+282050,Kuchinoerabujima,16965,Confirmed Eruption,Shindake,2,?,<,1840,,0,,0,,Observations: Reported,,,,,,,,30.443,130.217
+283080,Midagahara,17530,Confirmed Eruption,Jigoku-dani,2,,,1839,,6,,10,,Observations: Reported,,,,,,,,36.571,137.59
+282110,Asosan,17283,Confirmed Eruption,Naka-dake,2,,,1838,,3,,4,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17282,Confirmed Eruption,Naka-dake,2,,,1837,,10,,8,,Observations: Reported,,,,,,,,32.884,131.104
+283080,Midagahara,17529,Confirmed Eruption,Jigoku-dani,1,,,1836,,7,,9,,Observations: Reported,,,,,,,,36.571,137.59
+284040,Miyakejima,18267,Confirmed Eruption,West flank (east and SE of Ako),2,,,1835,,11,?,11,,Observations: Reported,,,,,,,,34.094,139.526
+282110,Asosan,17281,Confirmed Eruption,Naka-dake,2,,,1835,,5,,1,,Observations: Reported,,,,,,,,32.884,131.104
+282021,Yokoatejima,16911,Confirmed Eruption,,2,?,,1835,30,0,,0,,Observations: Reported,,,,,,,,28.797,128.997
+283220,Chokaisan,18033,Confirmed Eruption,,2,?,,1834,,7,,9,,Observations: Reported,,1834,,7,,0,,39.099,140.049
+283190,Zaozan [Zaosan],17975,Confirmed Eruption,Okama,2,,,1833,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+282090,Kirishimayama,17141,Confirmed Eruption,Shinmoe-dake,2,,,1832,,4,,20,,Observations: Reported,,,,,,,,31.934,130.862
+283190,Zaozan [Zaosan],17974,Confirmed Eruption,Okama,2,,,1831,,11,,22,,Observations: Reported,,,,,,,,38.144,140.44
+282110,Asosan,17280,Confirmed Eruption,Naka-dake,2,,,1830,,8,,11,,Observations: Reported,,1832,,8,,0,,32.884,131.104
+282110,Asosan,17278,Confirmed Eruption,Naka-dake,2,,,1830,,2,,16,,Observations: Reported,,1830,,3,,0,,32.884,131.104
+283190,Zaozan [Zaosan],17973,Confirmed Eruption,Okama,2,,,1830,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+282020,Io-Torishima,16914,Confirmed Eruption,,1,?,,1829,,12,,1,,Observations: Reported,,1829,,12,,16,,27.881,128.223
+282110,Asosan,17277,Confirmed Eruption,Naka-dake,2,,,1829,,6,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17276,Confirmed Eruption,Naka-dake,2,,,1828,,6,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17275,Confirmed Eruption,Naka-dake,2,,,1827,,11,,12,,Observations: Reported,,1828,,1,,0,,32.884,131.104
+282110,Asosan,17274,Confirmed Eruption,Naka-dake,2,,,1827,,5,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17273,Confirmed Eruption,Naka-dake,2,,,1826,,10,,3,,Observations: Reported,,1826,,11,,22,,32.884,131.104
+283190,Zaozan [Zaosan],17972,Confirmed Eruption,,,,,1822,,5,,1,,Observations: Reported,,,,,,,,38.144,140.44
+285030,Toya,18597,Confirmed Eruption,"Foot of Ko-Usu dome, Ogari-yama",4,,,1822,,3,,12,,Observations: Reported,,1822,,9,,0,,42.544,140.839
+282090,Kirishimayama,17140,Confirmed Eruption,Shinmoe-dake,2,,,1822,,1,,12,,Observations: Reported,,,,,,,,31.934,130.862
+284010,Izu-Oshima,18200,Confirmed Eruption,Mihara-yama,2,,,1822,,0,,0,,Observations: Reported,,1824,,0,,0,,34.724,139.394
+283220,Chokaisan,18032,Confirmed Eruption,Near Shinzan and Shichiko-zan,2,?,,1821,,5,,23,,Observations: Reported,,,,,,,,39.099,140.049
+283190,Zaozan [Zaosan],17971,Confirmed Eruption,Okama,2,,,1821,,1,,27,,Observations: Reported,,1821,,5,,1,,38.144,140.44
+284010,Izu-Oshima,18199,Confirmed Eruption,,3,,?,1821,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+285034,Kuttara,18588,Confirmed Eruption,West flank (Jigoku-dani),1,,,1820,100,0,,0,,Correlation: Tephrochronology,,,,,,,,42.491,141.16
+282110,Asosan,17272,Confirmed Eruption,Naka-dake and west flank (Yunotani),2,,,1816,,6,,9,,Observations: Reported,,1816,,7,,6,,32.884,131.104
+283110,Asamayama,17751,Confirmed Eruption,,3,,,1815,,2,,28,,Observations: Reported,,,,,,,,36.406,138.523
+282110,Asosan,17271,Confirmed Eruption,Naka-dake,2,,,1815,,2,,10,,Observations: Reported,,1815,,10,,0,,32.884,131.104
+282110,Asosan,17270,Confirmed Eruption,Naka-dake,2,,,1814,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282030,Suwanosejima,16922,Confirmed Eruption,SW ridge fissure and O-take,4,,,1813,,0,,0,,Observations: Reported,,1814,,0,,0,,29.638,129.714
+284040,Miyakejima,18266,Confirmed Eruption,Summit and NE flank?,2,,,1811,,1,,27,,Observations: Reported,,1811,,1,,28,,34.094,139.526
+283190,Zaozan [Zaosan],17970,Confirmed Eruption,Okama,2,,,1809,,6,,12,,Observations: Reported,,1809,,12,,29,,38.144,140.44
+283160,Bandaisan,17899,Confirmed Eruption,Numanotaira,2,,?,1808,,0,,0,,Observations: Reported,,,,,,,,37.601,140.072
+285070,Akan,18686,Confirmed Eruption,Me-Akan,,,?,1808,,0,,0,,Observations: Reported,,,,,,,,43.384,144.013
+283190,Zaozan [Zaosan],17969,Confirmed Eruption,Okama,2,,,1806,,7,,12,,Observations: Reported,,,,,,,,38.144,140.44
+282110,Asosan,17269,Confirmed Eruption,Naka-dake,2,,,1806,,6,?,0,,Observations: Reported,,1806,,10,?,0,,32.884,131.104
+283120,Kusatsu-Shiranesan,17823,Confirmed Eruption,Yu-gama,2,,,1805,,0,,0,,Observations: Reported,,,,,,,,36.618,138.528
+282110,Asosan,17268,Confirmed Eruption,Naka-dake,2,,,1804,,9,,5,,Observations: Reported,,,,,,,,32.884,131.104
+283190,Zaozan [Zaosan],17968,Confirmed Eruption,Okama,2,,,1804,,5,?,0,,Observations: Reported,,,,,,,,38.144,140.44
+285040,Shikotsu,18613,Confirmed Eruption,Tarumai,3,,,1804,,0,,0,,Observations: Reported,,1817,,0,,0,,42.688,141.38
+283110,Asamayama,17750,Confirmed Eruption,,2,,,1803,,11,,7,,Observations: Reported,,1803,,11,,21,,36.406,138.523
+284010,Izu-Oshima,18198,Confirmed Eruption,Mihara-yama,2,,,1803,,9,?,26,,Observations: Reported,,1803,,11,,14,,34.724,139.394
+283110,Asamayama,17749,Confirmed Eruption,,2,,,1803,,7,,4,,Observations: Reported,,,,,,,,36.406,138.523
+283220,Chokaisan,18031,Confirmed Eruption,Shinzan (foot of Kojin-yama),2,,,1800,,12,,0,,Observations: Reported,,1804,,7,?,0,,39.099,140.049
+283180,Azumayama,17926,Confirmed Eruption,Issaikyo (Oana),,,?,1800,,0,,0,,Observations: Reported,,,,,,,,37.735,140.244
+285082,Rausudake,18719,Confirmed Eruption,,3,,,1800,50,0,,0,,Correlation: Tephrochronology,,,,,,,,44.076,145.122
+282080,Aira,17070,Confirmed Eruption,Minami-dake,2,,,1799,,3,,27,,Observations: Reported,,,,,,,,31.593,130.657
+282080,Aira,17069,Confirmed Eruption,Minami-dake,2,,,1797,,0,,0,,Observations: Reported,,,,,,,,31.593,130.657
+282020,Io-Torishima,16913,Confirmed Eruption,Iwo-dake,2,,,1796,,10,,0,,Observations: Reported,,1796,,11,,0,,27.881,128.223
+283190,Zaozan [Zaosan],17967,Confirmed Eruption,Okama,2,,,1796,,3,,24,,Observations: Reported,,,,,,,,38.144,140.44
+283190,Zaozan [Zaosan],17966,Confirmed Eruption,SE side of Okama,2,,,1794,,9,,22,,Observations: Reported,,1794,,12,>,0,,38.144,140.44
+282080,Aira,17068,Confirmed Eruption,Minami-dake,2,,,1794,,0,,0,,Observations: Reported,,,,,,,,31.593,130.657
+282100,Unzendake,17177,Confirmed Eruption,"Fugen-dake (summit, NNE), Mayu-yama",2,,,1792,,2,,10,,Observations: Reported,,1792,,7,,22,,32.761,130.299
+284010,Izu-Oshima,18197,Confirmed Eruption,Mihara-yama,2,,,1792,,0,,0,,Observations: Reported,,,,,,,,34.724,139.394
+282080,Aira,17066,Confirmed Eruption,Minami-dake,2,,,1791,,9,,11,,Observations: Reported,,,,,,,,31.593,130.657
+283270,Iwakisan,18118,Confirmed Eruption,,2,,,1790,,10,,9,,Observations: Reported,,,,,,,,40.656,140.303
+282080,Aira,17065,Confirmed Eruption,Minami-dake,2,,,1790,,7,,29,,Observations: Reported,,,,,,,,31.593,130.657
+285010,Oshima-Oshima,18558,Confirmed Eruption,Nishi-yama,2,,,1790,,1,?,0,,Observations: Reported,,,,,,,,41.51,139.367
+284010,Izu-Oshima,18196,Confirmed Eruption,Mihara-yama,2,,,1789,,0,,0,,Observations: Reported,,,,,,,,34.724,139.394
+283290,Osorezan,18136,Confirmed Eruption,,,,<,1787,,0,,0,,Observations: Reported,,,,,,,,41.279,141.12
+283160,Bandaisan,17898,Confirmed Eruption,,2,?,<,1787,,0,,0,,Observations: Reported,,,,,,,,37.601,140.072
+282080,Aira,17064,Confirmed Eruption,,2,,,1785,,11,,20,,Observations: Reported,,,,,,,,31.593,130.657
+282080,Aira,17063,Confirmed Eruption,,3,,,1783,,9,,3,,Observations: Reported,,,,,,,,31.593,130.657
+283110,Asamayama,17748,Confirmed Eruption,,4,,,1783,,5,,9,,Observations: Reported,,1783,,8,,5,,36.406,138.523
+284010,Izu-Oshima,18195,Confirmed Eruption,Mihara-yama,2,,,1783,,0,,0,,Observations: Reported,,1786,,0,,0,,34.724,139.394
+283270,Iwakisan,18116,Confirmed Eruption,,2,,,1782,,12,,1,30,Observations: Reported,,1783,,3,,12,,40.656,140.303
+282080,Aira,17062,Confirmed Eruption,NE flank (offshore),2,?,,1782,,1,,18,,Observations: Reported,,,,,,,,31.593,130.657
+282110,Asosan,17267,Confirmed Eruption,Naka-dake,1,,,1781,,0,,0,,Observations: Reported,,1788,,0,,0,,32.884,131.104
+284060,Aogashima,18308,Confirmed Eruption,"Maru-yama, SW part of Ikenosawa crater",3,,,1780,,7,,27,,Observations: Reported,,1785,,5,?,0,,32.458,139.759
+284110,Kita-Ioto,18377,Confirmed Eruption,Funka-Asane,0,,,1780,,0,,0,,Observations: Reported,,,,,,,,25.424,141.284
+285070,Akan,18685,Confirmed Eruption,Me-Akan,1,,,1780,75,0,,0,,Observations: Reported,,,,,,,,43.384,144.013
+282080,Aira,17061,Confirmed Eruption,"NE flank, off NE coast, south flank",4,,,1779,,11,,8,,Observations: Reported,,1781,,5,,0,,31.593,130.657
+284010,Izu-Oshima,18194,Confirmed Eruption,Mihara-yama & flanks,3,,,1777,,8,,31,,Observations: Reported,,1779,,0,,0,,34.724,139.394
+283110,Asamayama,17746,Confirmed Eruption,,2,,,1777,,0,,0,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17745,Confirmed Eruption,,2,,,1776,,9,,5,,Observations: Reported,,,,,,,,36.406,138.523
+283090,Niigata-Yakeyama,17539,Confirmed Eruption,,3,,,1773,,0,,0,,Observations: Reported,,,,,,,,36.921,138.036
+282110,Asosan,17266,Confirmed Eruption,Naka-dake,2,,,1772,,0,,0,,Observations: Reported,,1780,,0,,0,,32.884,131.104
+282090,Kirishimayama,17139,Confirmed Eruption,Shinmoe-dake,2,,,1771,,0,,0,,Observations: Reported,,1772,,0,,0,,31.934,130.862
+283110,Asamayama,17744,Confirmed Eruption,Volcano Uncertain,,,,1769,,8,,6,,,,,,,,,,36.406,138.523
+285030,Toya,18596,Confirmed Eruption,Ko-Usu,4,,,1769,,1,,23,,Observations: Reported,,,,,,,,42.544,140.839
+282090,Kirishimayama,17138,Confirmed Eruption,Ohachi,2,,,1769,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+282090,Kirishimayama,17137,Confirmed Eruption,Iwo-yama (NW flank of Karakuni-dake),0,,,1768,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+282110,Asosan,17265,Confirmed Eruption,Naka-dake,3,?,,1765,,1,?,0,,Observations: Reported,,1765,,10,?,0,,32.884,131.104
+284040,Miyakejima,18265,Confirmed Eruption,"Oyama, SSW flank (Shinmio maar)",4,,,1763,,8,,17,,Observations: Reported,,1769,,0,,0,,34.094,139.526
+283110,Asamayama,17743,Confirmed Eruption,,2,,,1762,,4,,0,,Observations: Reported,,,,,,,,36.406,138.523
+285010,Oshima-Oshima,18556,Confirmed Eruption,Nishi-yama,2,,,1759,,8,,19,,Observations: Reported,,,,,,,,41.51,139.367
+282080,Aira,17059,Confirmed Eruption,Minami-dake,2,,,1756,,9,,9,,Observations: Reported,,,,,,,,31.593,130.657
+283110,Asamayama,17742,Confirmed Eruption,,2,,,1755,,7,,5,,Observations: Reported,,1755,,8,,6,,36.406,138.523
+283110,Asamayama,17741,Confirmed Eruption,,2,,,1754,,8,,7,,Observations: Reported,,1754,,8,,19,,36.406,138.523
+283110,Asamayama,17740,Confirmed Eruption,,2,?,,1752,,9,,0,,Observations: Reported,,1752,,10,,0,,36.406,138.523
+282080,Aira,17058,Confirmed Eruption,"Minami-dake summit, west flank?",2,,,1749,,9,,0,,Observations: Reported,,,,,,,,31.593,130.657
+283070,Yakedake,17498,Confirmed Eruption,,2,,,1746,,4,,18,,Observations: Reported,,1746,,4,,19,,36.227,137.587
+283210,Kurikomayama,17998,Confirmed Eruption,,2,,,1744,,2,,3,,Observations: Reported,,,,,,,,38.961,140.788
+282080,Aira,17057,Confirmed Eruption,Minami-dake,2,?,,1742,,4,,6,,Observations: Reported,,,,,,,,31.593,130.657
+285010,Oshima-Oshima,18555,Confirmed Eruption,Nishi-yama,4,,,1741,,8,?,18,,Observations: Reported,,1742,,5,,0,,41.51,139.367
+283220,Chokaisan,18029,Confirmed Eruption,Small crater at foot of Kojin-yama,2,?,,1740,,6,?,0,,Observations: Reported,?,1747,,0,,0,,39.099,140.049
+285040,Shikotsu,18612,Confirmed Eruption,Tarumai,5,,,1739,,8,,19,,Observations: Reported,,1739,,8,,31,,42.688,141.38
+285060,Taisetsuzan,18668,Confirmed Eruption,Asahi-dake,,,>,1739,,0,,0,,Correlation: Tephrochronology,,,,,,,,43.664,142.854
+283110,Asamayama,17739,Confirmed Eruption,,2,,,1733,,7,,30,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17738,Confirmed Eruption,,2,,,1732,,7,,30,,Observations: Reported,,,,,,,,36.406,138.523
+283240,Iwatesan,18066,Confirmed Eruption,NE flank of Yakushi-dake,2,,,1732,,1,,22,,Observations: Reported,,1732,,10,?,0,,39.853,141.001
+283110,Asamayama,17737,Confirmed Eruption,,2,,,1731,,0,,0,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17736,Confirmed Eruption,,2,,,1729,,11,,0,,Observations: Reported,,1729,,12,,0,,36.406,138.523
+283110,Asamayama,17735,Confirmed Eruption,,2,,,1729,,2,,0,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17734,Confirmed Eruption,,2,,,1728,,11,,10,,Observations: Reported,,,,,,,,36.406,138.523
+283210,Kurikomayama,17997,Confirmed Eruption,Tsurugi-yama,1,?,,1726,10,0,,0,,Observations: Reported,,,,,,,,38.961,140.788
+283110,Asamayama,17733,Confirmed Eruption,,2,,,1723,,8,,20,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17732,Confirmed Eruption,,2,,,1722,,11,,18,,Observations: Reported,,1723,,2,,5,,36.406,138.523
+283110,Asamayama,17731,Confirmed Eruption,,1,,,1721,,6,,22,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17730,Confirmed Eruption,,2,,,1720,,6,,6,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17729,Confirmed Eruption,Volcano Uncertain,,,,1719,,6,,10,,,,1719,,6,,11,,36.406,138.523
+282090,Kirishimayama,17136,Confirmed Eruption,Shinmoe-dake,2,,,1719,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+283110,Asamayama,17728,Confirmed Eruption,,2,,,1718,,9,,26,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17727,Confirmed Eruption,,2,,,1717,,9,,23,,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,17135,Confirmed Eruption,Shinmoe-dake,3,,,1717,,9,,19,,Observations: Reported,,,,,,,,31.934,130.862
+282090,Kirishimayama,17134,Confirmed Eruption,Shinmoe-dake,3,,,1716,,11,,9,,Observations: Reported,,1717,,2,,13,,31.934,130.862
+282090,Kirishimayama,17133,Confirmed Eruption,Shinmoe-dake,3,,,1716,,3,,11,,Observations: Reported,,,,,,,,31.934,130.862
+283110,Asamayama,17726,Confirmed Eruption,,2,,,1713,,6,,29,,Observations: Reported,,,,,,,,36.406,138.523
+284040,Miyakejima,18264,Confirmed Eruption,SW flank (Kuwanoki-daira),3,?,,1712,,2,,4,,Observations: Reported,,1714,,0,,0,,34.094,139.526
+283110,Asamayama,17725,Confirmed Eruption,,2,,,1711,,4,,13,,Observations: Reported,,,,,,,,36.406,138.523
+283180,Azumayama,17925,Confirmed Eruption,Issaikyo (Oana area),1,,?,1711,,0,,0,,Observations: Reported,,,,,,,,37.735,140.244
+283110,Asamayama,17724,Confirmed Eruption,,2,,,1710,,3,,25,,Observations: Reported,,1710,,4,,13,,36.406,138.523
+282110,Asosan,17263,Confirmed Eruption,Naka-dake,2,,,1709,,2,,13,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17723,Confirmed Eruption,,2,,,1708,,12,,29,,Observations: Reported,,1709,,1,,8,,36.406,138.523
+283030,Fujisan,17452,Confirmed Eruption,SE flank (Hoei Craters),5,,,1707,,12,,16,,Observations: Reported,,1708,,2,?,24,,35.361,138.728
+285040,Shikotsu,18611,Confirmed Eruption,Eniwa (crater 3),2,,,1707,30,0,,0,,Correlation: Tephrochronology,,,,,,,,42.688,141.38
+283110,Asamayama,17722,Confirmed Eruption,,2,,,1706,,11,,20,,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,17132,Confirmed Eruption,Ohachi,2,,,1706,,1,,28,,Observations: Reported,,,,,,,,31.934,130.862
+282080,Aira,17056,Confirmed Eruption,Minami-dake,2,?,,1706,,1,,0,,Observations: Reported,,,,,,,,31.593,130.657
+283110,Asamayama,17721,Confirmed Eruption,,2,,,1704,,2,,5,,Observations: Reported,,1704,,2,,9,,36.406,138.523
+283110,Asamayama,17720,Confirmed Eruption,,2,,,1703,,0,,0,,Observations: Reported,,,,,,,,36.406,138.523
+283030,Fujisan,17451,Confirmed Eruption,,2,?,,1700,,0,,0,,Observations: Reported,,,,,,,,35.361,138.728
+283110,Asamayama,17719,Confirmed Eruption,,2,,,1695,,6,,23,,Observations: Reported,,,,,,,,36.406,138.523
+284010,Izu-Oshima,18193,Confirmed Eruption,,,,,1695,,4,?,12,,Observations: Reported,,,,,,,,34.724,139.394
+285020,Hokkaido-Komagatake,18563,Confirmed Eruption,,4,,,1694,,7,,4,,Observations: Reported,,1694,,7,,6,,42.063,140.677
+283190,Zaozan [Zaosan],17965,Confirmed Eruption,Okama,2,,,1694,,5,,29,,Observations: Reported,,1694,,8,?,30,,38.144,140.44
+282110,Asosan,17261,Confirmed Eruption,Naka-dake,2,,,1691,,4,,0,,Observations: Reported,,1691,,8,,0,,32.884,131.104
+282090,Kirishimayama,17131,Confirmed Eruption,Ohachi,2,?,,1690,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+285030,Toya,18595,Confirmed Eruption,Usu,,,,1690,10,0,,0,,Correlation: Tephrochronology,,,,,,,,42.544,140.839
+283240,Iwatesan,17575,Confirmed Eruption,,3,,,1686,,3,,26,,Observations: Reported,,1686,,3,,27,,39.853,141.001
+284010,Izu-Oshima,18192,Confirmed Eruption,,3,,,1684,,2,,14,,Observations: Reported,,1690,,0,,0,,34.724,139.394
+282110,Asosan,17260,Confirmed Eruption,Naka-dake,2,,,1683,,6,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282090,Kirishimayama,17130,Confirmed Eruption,Ohachi,2,?,,1678,,3,,1,,Observations: Reported,,,,,,,,31.934,130.862
+282080,Aira,17055,Confirmed Eruption,Minami-dake,2,?,,1678,,3,,1,,Observations: Reported,,,,,,,,31.593,130.657
+283260,Akita-Yakeyama,18079,Confirmed Eruption,Karenuma,2,,,1678,,2,?,22,,Observations: Reported,,,,,,,,39.964,140.757
+282090,Kirishimayama,17129,Confirmed Eruption,Ohachi,2,?,,1677,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+282120,Kujusan,17363,Confirmed Eruption,,2,?,,1675,,6,?,0,,Observations: Reported,,,,,,,,33.086,131.249
+282110,Asosan,17259,Confirmed Eruption,Naka-dake,2,,,1675,,2,,16,,Observations: Reported,,,,,,,,32.884,131.104
+283190,Zaozan [Zaosan],17964,Confirmed Eruption,Okama,2,,,1670,,4,,26,,Observations: Reported,,1670,,9,,26,,38.144,140.44
+284060,Aogashima,18307,Confirmed Eruption,Ikenosawa crater,2,,,1670,,0,,0,,Observations: Reported,,1680,,0,,0,,32.458,139.759
+283110,Asamayama,17718,Confirmed Eruption,,2,,,1669,,4,,5,,Observations: Reported,,1669,,4,,15,,36.406,138.523
+283190,Zaozan [Zaosan],17963,Confirmed Eruption,Okama,3,,,1669,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+283190,Zaozan [Zaosan],17962,Confirmed Eruption,Okama,2,?,,1668,,8,,0,,Observations: Reported,,,,,,,,38.144,140.44
+282110,Asosan,17257,Confirmed Eruption,Naka-dake,2,,,1668,,8,,0,,Observations: Reported,,1669,,0,,0,,32.884,131.104
+282110,Asosan,17256,Confirmed Eruption,Naka-dake,2,,,1668,,2,,0,,Observations: Reported,,,,,,,,32.884,131.104
+285040,Shikotsu,18610,Confirmed Eruption,Tarumai,5,,,1667,,9,,23,,Observations: Reported,,1667,,9,?,26,,42.688,141.38
+282020,Io-Torishima,16912,Confirmed Eruption,,,,,1664,,0,,0,,Observations: Reported,,,,,,,,27.881,128.223
+282100,Unzendake,17175,Confirmed Eruption,NE flank of Fugen-dake (1200 m),2,?,,1663,,12,,11,,Observations: Reported,,1663,,12,>,27,,32.761,130.299
+285030,Toya,18594,Confirmed Eruption,Usu,5,,,1663,,8,,16,,Observations: Reported,,1663,,9,,5,4,42.544,140.839
+282100,Unzendake,17174,Confirmed Eruption,Fugen-dake (Tsukumo-jima Pond),2,?,,1663,,4,,0,,Observations: Reported,,1663,,5,,0,,32.761,130.299
+282090,Kirishimayama,17075,Confirmed Eruption,Ohachi,2,?,,1662,,9,,0,,Observations: Reported,,1664,,0,,0,,31.934,130.862
+282120,Kujusan,17362,Confirmed Eruption,,2,?,,1662,,1,?,26,,Observations: Reported,,,,,,,,33.086,131.249
+283110,Asamayama,17717,Confirmed Eruption,,2,,,1661,,10,,21,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17716,Confirmed Eruption,,2,,,1661,,4,,14,,Observations: Reported,,1661,,4,,27,,36.406,138.523
+283110,Asamayama,17715,Confirmed Eruption,,2,,,1660,,4,?,8,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17714,Confirmed Eruption,,2,,,1659,,7,,24,,Observations: Reported,,,,,,,,36.406,138.523
+283050,Hakusan,17483,Confirmed Eruption,Midoriga-ike,2,?,,1659,,4,,21,,Observations: Reported,,1659,,8,,8,,36.155,136.771
+283220,Chokaisan,18026,Confirmed Eruption,,,,,1659,,4,,0,,Observations: Reported,,1663,1,0,,0,,39.099,140.049
+282090,Kirishimayama,17074,Confirmed Eruption,Ohachi,2,?,,1659,,2,,0,,Observations: Reported,,1661,,0,,0,,31.934,130.862
+283050,Hakusan,17482,Confirmed Eruption,,2,?,,1658,,10,?,0,,Observations: Reported,,,,,,,,36.155,136.771
+283110,Asamayama,17713,Confirmed Eruption,,2,,,1658,,7,,24,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17712,Confirmed Eruption,,2,,,1657,,11,,25,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17711,Confirmed Eruption,,2,,,1656,,12,,10,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17710,Confirmed Eruption,,2,,,1655,,11,,25,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17708,Confirmed Eruption,,2,,,1652,,4,,12,,Observations: Reported,,,,,,,,36.406,138.523
+284060,Aogashima,18306,Confirmed Eruption,Ikenosawa crater,3,,,1652,,0,,0,,Observations: Reported,,,,,,,,32.458,139.759
+283110,Asamayama,17574,Confirmed Eruption,,2,,,1651,,4,,12,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17706,Confirmed Eruption,,2,,,1649,,8,?,17,,Observations: Reported,,1649,,8,?,18,,36.406,138.523
+282110,Asosan,17255,Confirmed Eruption,Naka-dake,2,,,1649,,7,,0,,Observations: Reported,,1649,,8,,0,,32.884,131.104
+283140,Nikko-Shiranesan,17858,Confirmed Eruption,Shirane-san,2,,,1649,,2,,0,,Observations: Reported,,,,,,,,36.799,139.376
+283110,Asamayama,17705,Confirmed Eruption,,2,,,1648,,8,?,30,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17704,Confirmed Eruption,,2,,,1648,,3,?,20,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17703,Confirmed Eruption,,2,,,1647,,2,,18,,Observations: Reported,,1647,,3,,25,,36.406,138.523
+283110,Asamayama,17702,Confirmed Eruption,,2,,,1645,,2,?,24,,Observations: Reported,,1645,,5,,21,,36.406,138.523
+283110,Asamayama,17701,Confirmed Eruption,,2,,,1644,,2,,20,,Observations: Reported,,,,,,,,36.406,138.523
+284040,Miyakejima,18262,Confirmed Eruption,"SW flank (SE of Ako, Kuwanoki-daira?)",3,,,1643,,3,,31,,Observations: Reported,,1643,,4,,0,,34.094,139.526
+282080,Aira,17053,Confirmed Eruption,Minami-dake,2,?,,1642,,4,,6,,Observations: Reported,,,,,,,,31.593,130.657
+283190,Zaozan [Zaosan],17961,Confirmed Eruption,Okama,2,?,,1641,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+285020,Hokkaido-Komagatake,18562,Confirmed Eruption,,5,,,1640,,7,,31,,Observations: Reported,,1640,,10,,9,,42.063,140.677
+285030,Toya,18593,Confirmed Eruption,Usu,,,,1638,,7,,25,,Observations: Reported,,,,,,,,42.544,140.839
+282110,Asosan,17254,Confirmed Eruption,Naka-dake,2,,,1637,,9,,29,,Observations: Reported,,1637,,10,,5,,32.884,131.104
+284010,Izu-Oshima,18191,Confirmed Eruption,,,,,1637,,8,,26,,Observations: Reported,,1638,,4,,0,,34.724,139.394
+282090,Kirishimayama,17073,Confirmed Eruption,Shinmoe-dake,2,?,,1637,,0,,0,,Observations: Reported,,1638,,0,,0,,31.934,130.862
+284010,Izu-Oshima,18190,Confirmed Eruption,,,,,1634,,0,,0,,Observations: Reported,,,,,,,,34.724,139.394
+282110,Asosan,17253,Confirmed Eruption,Naka-dake,2,,,1631,,12,,0,,Observations: Reported,,,,,,,,32.884,131.104
+283190,Zaozan [Zaosan],17960,Confirmed Eruption,Okama,2,?,,1630,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+282090,Kirishimayama,13782,Confirmed Eruption,Ohachi,2,?,,1628,,10,,26,,Observations: Reported,,,,,,,,31.934,130.862
+285030,Toya,18592,Confirmed Eruption,Usu,,,,1626,,5,,19,,Observations: Reported,,1626,,7,?,0,,42.544,140.839
+283140,Nikko-Shiranesan,17857,Confirmed Eruption,Shirane-san,3,,,1625,,0,,0,,Observations: Reported,,,,,,,,36.799,139.376
+283190,Zaozan [Zaosan],17959,Confirmed Eruption,Okama,3,,,1623,,5,?,15,,Observations: Reported,,1624,,11,?,15,,38.144,140.44
+284010,Izu-Oshima,18189,Confirmed Eruption,,,,,1623,,0,,0,,Observations: Reported,,,,,,,,34.724,139.394
+283190,Zaozan [Zaosan],17958,Confirmed Eruption,Okama,2,?,,1622,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+282110,Asosan,17252,Confirmed Eruption,Naka-dake,2,,,1620,,6,,3,,Observations: Reported,,,,,,,,32.884,131.104
+282090,Kirishimayama,17005,Confirmed Eruption,,2,?,,1620,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+283190,Zaozan [Zaosan],17957,Confirmed Eruption,Okama,2,?,,1620,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+283270,Iwakisan,18110,Confirmed Eruption,,2,,,1618,,1,,31,,Observations: Reported,,,,,,,,40.656,140.303
+282090,Kirishimayama,17127,Confirmed Eruption,Ohachi,2,?,,1615,,0,,0,,Observations: Reported,,1618,,0,,0,,31.934,130.862
+282110,Asosan,17251,Confirmed Eruption,Naka-dake,2,,,1613,,8,,8,,Observations: Reported,,,,,,,,32.884,131.104
+282090,Kirishimayama,17126,Confirmed Eruption,Ohachi,2,?,,1613,,0,,0,,Observations: Reported,,1614,,0,,0,,31.934,130.862
+284010,Izu-Oshima,18188,Confirmed Eruption,,,,,1612,,10,,15,180,Observations: Reported,,,,,,,,34.724,139.394
+282110,Asosan,17250,Confirmed Eruption,Naka-dake,2,,,1612,,8,,12,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17249,Confirmed Eruption,Naka-dake,2,,,1611,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17700,Confirmed Eruption,,2,,,1609,,4,,5,,Observations: Reported,,,,,,,,36.406,138.523
+284050,Hachijojima,18300,Confirmed Eruption,Submarine flank,2,,,1606,,1,,23,,Observations: Reported,,,,,,,,33.137,139.766
+283110,Asamayama,17699,Confirmed Eruption,,2,,,1605,,12,,0,,Observations: Reported,,1606,,2,,0,,36.406,138.523
+284050,Hachijojima,18299,Confirmed Eruption,Nishi-yama SE flank,2,,,1605,,10,,27,,Observations: Reported,,,,,,,,33.137,139.766
+283270,Iwakisan,18108,Confirmed Eruption,Torinoumi,3,?,,1604,,2,,7,,Observations: Reported,,,,,,,,40.656,140.303
+284010,Izu-Oshima,18187,Confirmed Eruption,,,,,1600,,10,,0,180,Observations: Reported,,,,,,,,34.724,139.394
+283270,Iwakisan,18107,Confirmed Eruption,Torinoumi,2,,,1600,,7,,23,,Observations: Reported,,1600,,7,,25,,40.656,140.303
+283270,Iwakisan,18106,Confirmed Eruption,Torinoumi,2,,,1600,,2,,22,,Observations: Reported,,,,,,,,40.656,140.303
+283110,Asamayama,17697,Confirmed Eruption,,3,?,,1600,,1,,14,,Observations: Reported,,1600,,1,?,28,,36.406,138.523
+285070,Akan,18684,Confirmed Eruption,Me-Akan,,,,1600,50,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+282030,Suwanosejima,16921,Confirmed Eruption,,4,+,?,1600,,0,,0,,Correlation: Tephrochronology,,,,,,,,29.638,129.714
+282110,Asosan,17248,Confirmed Eruption,Naka-dake,2,,,1598,,12,,0,,Observations: Reported,,1599,,0,,0,,32.884,131.104
+283110,Asamayama,17696,Confirmed Eruption,,2,,,1598,,5,,13,,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,17125,Confirmed Eruption,Ohachi,2,?,,1598,,0,,0,,Observations: Reported,,1600,,0,,0,,31.934,130.862
+283110,Asamayama,17695,Confirmed Eruption,,2,,,1597,,4,,17,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17694,Confirmed Eruption,,3,,,1596,,5,,1,,Observations: Reported,,1596,,9,,0,,36.406,138.523
+284040,Miyakejima,18261,Confirmed Eruption,SE flank,2,,,1595,,11,,22,,Observations: Reported,,,,,,,,34.094,139.526
+283110,Asamayama,17693,Confirmed Eruption,,2,?,,1595,,6,,1,,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,17123,Confirmed Eruption,,2,?,,1595,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+282110,Asosan,17247,Confirmed Eruption,Naka-dake,2,,,1592,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17692,Confirmed Eruption,,3,?,,1591,,11,,29,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17691,Confirmed Eruption,,2,?,,1591,,4,,15,45,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17690,Confirmed Eruption,,2,?,,1590,,4,,15,45,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,17122,Confirmed Eruption,Ohachi,2,?,,1588,,4,,7,,Observations: Reported,,,,,,,,31.934,130.862
+282090,Kirishimayama,17121,Confirmed Eruption,Ohachi,2,?,,1587,,5,,24,,Observations: Reported,,,,,,,,31.934,130.862
+282110,Asosan,17246,Confirmed Eruption,Naka-dake,2,,,1587,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+283070,Yakedake,17497,Confirmed Eruption,,3,^,,1585,,12,?,0,,Observations: Reported,,,,,,,,36.227,137.587
+282090,Kirishimayama,17120,Confirmed Eruption,Ohachi,2,?,,1585,,11,?,0,,Observations: Reported,,,,,,,,31.934,130.862
+282110,Asosan,17097,Confirmed Eruption,Naka-dake,2,,,1584,,8,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17245,Confirmed Eruption,Naka-dake,2,,,1583,,12,,14,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17689,Confirmed Eruption,,2,,,1582,,7,,3,,Observations: Reported,,,,,,,,36.406,138.523
+282110,Asosan,17244,Confirmed Eruption,Naka-dake,2,,,1582,,2,,17,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17688,Confirmed Eruption,,2,,,1582,,2,,16,,Observations: Reported,,,,,,,,36.406,138.523
+283050,Hakusan,17480,Confirmed Eruption,,2,,,1582,,0,,0,,Observations: Reported,,,,,,,,36.155,136.771
+283050,Hakusan,17479,Confirmed Eruption,Jigoku-no-oana,3,,,1579,,9,,27,1,Observations: Reported,,,,,,,,36.155,136.771
+282110,Asosan,17243,Confirmed Eruption,Naka-dake,2,,,1576,,11,,15,,Observations: Reported,,,,,,,,32.884,131.104
+282090,Kirishimayama,17119,Confirmed Eruption,Ohachi,2,?,,1576,,0,,0,,Observations: Reported,,1578,,0,,0,,31.934,130.862
+282090,Kirishimayama,17118,Confirmed Eruption,Ohachi,2,?,,1574,,2,,0,,Observations: Reported,,,,,,,,31.934,130.862
+282110,Asosan,17242,Confirmed Eruption,Naka-dake,2,,,1574,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17241,Confirmed Eruption,Naka-dake,2,,,1573,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+285050,Tokachidake,18643,Confirmed Eruption,Maru-yama,2,?,,1570,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+282090,Kirishimayama,17117,Confirmed Eruption,Ohachi,3,,,1566,,10,,31,,Observations: Reported,,,,,,,,31.934,130.862
+282090,Kirishimayama,17116,Confirmed Eruption,,2,?,,1566,,5,,6,,Observations: Reported,,,,,,,,31.934,130.862
+282110,Asosan,17240,Confirmed Eruption,Naka-dake,2,,,1564,,12,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17238,Confirmed Eruption,Naka-dake,2,,,1562,,3,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282050,Kuchinoerabujima,16964,Confirmed Eruption,Furudake,,,,1560,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+282110,Asosan,17237,Confirmed Eruption,Naka-dake,2,,,1558,,0,,0,,Observations: Reported,,1559,,0,,0,,32.884,131.104
+283050,Hakusan,17478,Confirmed Eruption,SW of Midoriga-ike,3,,,1554,,5,,0,,Observations: Reported,,1556,,0,,0,,36.155,136.771
+282090,Kirishimayama,17115,Confirmed Eruption,Ohachi,2,?,,1554,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+284010,Izu-Oshima,18186,Confirmed Eruption,,3,,,1552,,10,,7,,Observations: Reported,,1552,,10,,15,,34.724,139.394
+283280,Hakkodasan,18135,Confirmed Eruption,SW flank of O-dake (Jigoku-numa),1,,,1550,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.659,140.877
+285070,Akan,18683,Confirmed Eruption,Me-Akan,,,?,1550,,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+285040,Shikotsu,18609,Confirmed Eruption,Eniwa (crater 2),2,,,1550,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,42.688,141.38
+283050,Hakusan,17477,Confirmed Eruption,,3,?,,1548,,0,,0,,Observations: Reported,,,,,,,,36.155,136.771
+283050,Hakusan,17476,Confirmed Eruption,,3,,,1547,,3,,4,,Observations: Reported,,1547,,10,?,0,,36.155,136.771
+283131,Hiuchigatake,17847,Confirmed Eruption,Miike-dake lava dome,2,,,1544,,7,,28,,Observations: Reported,,,,,,,,36.955,139.285
+284100,Kaitoku Seamount,18373,Confirmed Eruption,West flank of Nishi-Kaitokuba,0,,,1543,,0,,0,,Observations: Reported,,,,,,,,26.127,141.102
+282110,Asosan,17236,Confirmed Eruption,Naka-dake,2,,,1542,,4,,29,,Observations: Reported,,,,,,,,32.884,131.104
+284040,Miyakejima,18260,Confirmed Eruption,SE flank,2,,,1535,,3,,0,,Observations: Reported,,,,,,,,34.094,139.526
+282110,Asosan,17235,Confirmed Eruption,Naka-dake,2,,,1533,,7,,17,,Observations: Reported,,,,,,,,32.884,131.104
+283110,Asamayama,17685,Confirmed Eruption,,2,,,1528,,0,,0,,Observations: Reported,,,,,,,,36.406,138.523
+283110,Asamayama,17684,Confirmed Eruption,,2,,,1527,,5,,0,,Observations: Reported,,,,,,,,36.406,138.523
+282090,Kirishimayama,17114,Confirmed Eruption,Ohachi,2,?,,1524,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+282110,Asosan,17234,Confirmed Eruption,Naka-dake,2,,,1522,,2,,15,,Observations: Reported,,,,,,,,32.884,131.104
+284050,Hachijojima,18298,Confirmed Eruption,Nishi-yama,2,,,1518,,2,,0,,Observations: Reported,,1523,,0,,0,,33.137,139.766
+283030,Fujisan,17448,Confirmed Eruption,,2,?,,1511,,9,,1,30,Observations: Reported,,,,,,,,35.361,138.728
+282110,Asosan,17233,Confirmed Eruption,Naka-dake,2,,,1506,,4,,6,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17232,Confirmed Eruption,Naka-dake,2,,,1505,,2,,0,,Observations: Reported,,,,,,,,32.884,131.104
+285040,Shikotsu,18608,Confirmed Eruption,Eniwa (crater 1),2,,,1500,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,42.688,141.38
+284050,Hachijojima,18297,Confirmed Eruption,Nishi-yama,2,,,1487,,12,,7,,Observations: Reported,,,,,,,,33.137,139.766
+282110,Asosan,17231,Confirmed Eruption,Naka-dake,2,,,1485,,1,,5,,Observations: Reported,,,,,,,,32.884,131.104
+282080,Aira,17052,Confirmed Eruption,Minami-dake,2,?,,1478,,9,,23,,Observations: Reported,,,,,,,,31.593,130.657
+282110,Asosan,17230,Confirmed Eruption,Naka-dake,2,,,1473,,5,,16,,Observations: Reported,,1474,,4,,15,45,32.884,131.104
+282080,Aira,17051,Confirmed Eruption,"NE and SW flanks, summit crater",5,?,,1471,,11,,3,,Observations: Reported,,1476,,10,>,8,,31.593,130.657
+284010,Izu-Oshima,18185,Confirmed Eruption,,2,,?,1471,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+283120,Kusatsu-Shiranesan,17822,Confirmed Eruption,,,,,1470,150,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,36.618,138.528
+282050,Kuchinoerabujima,16963,Confirmed Eruption,Furudake,,,,1470,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+284040,Miyakejima,18259,Confirmed Eruption,Oyama,3,,,1469,,12,,24,,Observations: Reported,,,,,,,,34.094,139.526
+282080,Aira,17050,Confirmed Eruption,Minami-dake,2,,,1468,,0,,0,,Observations: Reported,,,,,,,,31.593,130.657
+283070,Yakedake,17496,Confirmed Eruption,,2,,?,1460,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+283210,Kurikomayama,17996,Confirmed Eruption,,1,,,1450,50,0,,0,,Correlation: Tephrochronology,,,,,,,,38.961,140.788
+283240,Iwatesan,17573,Confirmed Eruption,Nishi-Iwate and Higashi-Iwate,,,,1450,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,39.853,141.001
+284010,Izu-Oshima,18184,Confirmed Eruption,,,,,1442,,8,,0,,Observations: Reported,,1443,,0,,0,,34.724,139.394
+282050,Kuchinoerabujima,16962,Confirmed Eruption,Shindake,,,,1440,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+283070,Yakedake,17495,Confirmed Eruption,,,,?,1440,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+282110,Asosan,17229,Confirmed Eruption,Naka-dake,2,,,1438,,1,,9,,Observations: Reported,,1438,,2,,18,,32.884,131.104
+283030,Fujisan,17447,Confirmed Eruption,North flank (Onagare lava?),2,?,,1435,,12,,31,60,Observations: Reported,,,,,,,,35.361,138.728
+282110,Asosan,17228,Confirmed Eruption,Naka-dake,2,,,1434,,5,,10,,Observations: Reported,,1434,,5,,18,,32.884,131.104
+282060,Kikai,16993,Confirmed Eruption,Iwo-dake,,,,1430,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+284010,Izu-Oshima,18183,Confirmed Eruption,"Summit, S flank",4,,,1421,,5,,14,,Observations: Reported,,,,,,,,34.724,139.394
+284010,Izu-Oshima,18182,Confirmed Eruption,,2,,,1416,,9,,2,,Observations: Reported,?,1417,,0,,0,,34.724,139.394
+284010,Izu-Oshima,18181,Confirmed Eruption,,,,,1415,,5,,21,,Observations: Reported,,,,,,,,34.724,139.394
+283150,Nasudake,17880,Confirmed Eruption,Chausu-dake,3,,,1410,,3,,5,,Observations: Reported,,,,,,,,37.125,139.963
+283150,Nasudake,17879,Confirmed Eruption,Chausu-dake,3,,,1408,,2,,24,,Observations: Reported,,,,,,,,37.125,139.963
+283150,Nasudake,17878,Confirmed Eruption,Chausu-dake,3,,,1404,,2,,11,,Observations: Reported,,,,,,,,37.125,139.963
+283190,Zaozan [Zaosan],17956,Confirmed Eruption,Goshiki-dake area,3,,,1400,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+283150,Nasudake,17877,Confirmed Eruption,Chausu-dake,3,,,1397,,2,,17,,Observations: Reported,,,,,,,,37.125,139.963
+283260,Akita-Yakeyama,18078,Confirmed Eruption,,,,,1390,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.964,140.757
+282110,Asosan,17225,Confirmed Eruption,Naka-dake,2,,,1387,,6,,19,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17224,Confirmed Eruption,Naka-dake,2,,,1377,,5,,6,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17223,Confirmed Eruption,Naka-dake,2,,,1376,,6,,20,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17222,Confirmed Eruption,Naka-dake,2,,,1375,,12,,20,,Observations: Reported,,1376,,1,,31,,32.884,131.104
+283090,Niigata-Yakeyama,17538,Confirmed Eruption,,3,,,1361,,0,,0,,Observations: Reported,,,,,,,,36.921,138.036
+285082,Rausudake,18718,Confirmed Eruption,,3,,,1350,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,44.076,145.122
+285011,Esan,18550,Confirmed Eruption,NW E-san,,,?,1350,,0,,0,,Correlation: Tephrochronology,,,,,,,,41.805,141.166
+282110,Asosan,17219,Confirmed Eruption,Naka-dake,2,,,1343,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17218,Confirmed Eruption,Naka-dake,2,,,1340,,2,,3,,Observations: Reported,,1340,,2,,25,,32.884,131.104
+282060,Kikai,16992,Confirmed Eruption,Iwo-dake,,,,1340,30,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+283280,Hakkodasan,18134,Confirmed Eruption,SW flank of O-dake (Jigoku-numa),1,,,1340,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.659,140.877
+284010,Izu-Oshima,18180,Confirmed Eruption,,3,,,1338,,9,,15,5,Observations: Reported,,1338,,11,,15,5,34.724,139.394
+282110,Asosan,17217,Confirmed Eruption,Naka-dake,2,,,1335,,2,,7,,Observations: Reported,,1335,,3,,26,,32.884,131.104
+282110,Asosan,17216,Confirmed Eruption,Naka-dake,2,,,1331,,12,,0,,Observations: Reported,,1333,,6,,0,,32.884,131.104
+282110,Asosan,17215,Confirmed Eruption,Naka-dake,2,,,1331,,4,,0,,Observations: Reported,,1331,,4,,0,,32.884,131.104
+283180,Azumayama,17924,Confirmed Eruption,Issaikyo,1,,,1331,,0,,0,,Observations: Reported,,,,,,,,37.735,140.244
+282110,Asosan,17214,Confirmed Eruption,Naka-dake,2,,,1324,,9,,7,,Observations: Reported,,,,,,,,32.884,131.104
+285080,Kussharo,18725,Confirmed Eruption,Atosanupuri,,,,1320,300,0,,0,,Correlation: Tephrochronology,,,,,,,,43.615,144.427
+284010,Izu-Oshima,18179,Confirmed Eruption,NW flank,3,,?,1307,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+282110,Asosan,17213,Confirmed Eruption,Naka-dake,2,,,1305,,5,,2,,Observations: Reported,,,,,,,,32.884,131.104
+283240,Iwatesan,17572,Confirmed Eruption,Higashi-Iwate (Myoko-dake),3,,,1300,50,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+282110,Asosan,17212,Confirmed Eruption,Naka-dake,2,,,1286,,8,,30,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17211,Confirmed Eruption,Naka-dake,2,,,1281,,7,,0,,Observations: Reported,,1281,,8,,0,,32.884,131.104
+282110,Asosan,17210,Confirmed Eruption,Naka-dake,2,,,1274,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17209,Confirmed Eruption,Naka-dake,2,,,1273,,8,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17208,Confirmed Eruption,Naka-dake,2,,,1272,,11,,29,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17207,Confirmed Eruption,Naka-dake,2,,,1272,,4,,16,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17206,Confirmed Eruption,Naka-dake,2,,,1271,,1,,5,,Observations: Reported,,,,,,,,32.884,131.104
+283070,Yakedake,17494,Confirmed Eruption,,,,?,1270,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+282110,Asosan,17205,Confirmed Eruption,Naka-dake,2,,,1269,,8,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17204,Confirmed Eruption,Naka-dake,2,,,1265,,12,?,1,,Observations: Reported,,,,,,,,32.884,131.104
+285070,Akan,18682,Confirmed Eruption,Me-Akan (Ponmachineshiri),,,,1250,300,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+285050,Tokachidake,18642,Confirmed Eruption,,3,,?,1250,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+284010,Izu-Oshima,18178,Confirmed Eruption,,1,,?,1245,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+282110,Asosan,17203,Confirmed Eruption,Naka-dake,2,,,1240,,0,,0,,Observations: Reported,,,,,,,,32.884,131.104
+282110,Asosan,17202,Confirmed Eruption,Naka-dake,2,,,1239,,2,,8,,Observations: Reported,,,,,,,,32.884,131.104
+283050,Hakusan,17475,Confirmed Eruption,,3,,?,1239,,0,,0,,Observations: Reported,,,,,,,,36.155,136.771
+282090,Kirishimayama,17112,Confirmed Eruption,Ohachi,4,P,,1235,,1,,25,,Observations: Reported,,,,,,,,31.934,130.862
+283190,Zaozan [Zaosan],17953,Confirmed Eruption,Okama,2,?,,1230,,11,?,29,,Observations: Reported,,,,,,,,38.144,140.44
+283190,Zaozan [Zaosan],17952,Confirmed Eruption,Okama,3,,,1227,,10,?,0,,Observations: Reported,,,,,,,,38.144,140.44
+283031,Yokodake,17388,Confirmed Eruption,Yoko-dake,,,,1200,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.087,138.32
+282043,Kuchinoshima,16951,Confirmed Eruption,,,,,1190,40,0,,0,,Isotopic: 14C (calibrated),,,,,,,,29.968,129.926
+282090,Kirishimayama,17111,Confirmed Eruption,Ohachi,2,?,,1184,,2,,7,,Observations: Reported,,,,,,,,31.934,130.862
+283190,Zaozan [Zaosan],17951,Confirmed Eruption,Okama,2,?,,1183,,5,?,28,,Observations: Reported,,,,,,,,38.144,140.44
+284010,Izu-Oshima,18177,Confirmed Eruption,,4,,?,1183,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+283020,Hakoneyama,17386,Confirmed Eruption,Owakudani,,,,1170,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.233,139.021
+282090,Kirishimayama,17109,Confirmed Eruption,Ohachi,2,?,,1167,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+284040,Miyakejima,18258,Confirmed Eruption,NE flank?,3,,,1154,,11,,0,,Observations: Reported,,,,,,,,34.094,139.526
+282090,Kirishimayama,17108,Confirmed Eruption,,2,?,,1113,,2,,27,,Observations: Reported,,,,,,,,31.934,130.862
+282090,Kirishimayama,17107,Confirmed Eruption,Ohachi,2,?,,1112,,3,,9,,Observations: Reported,,,,,,,,31.934,130.862
+282050,Kuchinoerabujima,16961,Confirmed Eruption,Furudake,,,,1110,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+283110,Asamayama,17679,Confirmed Eruption,,5,,,1108,,8,,29,,Observations: Reported,,1108,,10,,0,,36.406,138.523
+283230,Akita-Komagatake,18049,Confirmed Eruption,,2,,?,1100,,0,,0,,Correlation: Tephrochronology,,,,,,,,39.761,140.799
+282050,Kuchinoerabujima,16960,Confirmed Eruption,Shindake,,,,1100,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+284040,Miyakejima,18257,Confirmed Eruption,,2,,,1085,,0,,0,,Observations: Reported,,,,,,,,34.094,139.526
+283030,Fujisan,17445,Confirmed Eruption,,2,?,,1083,,4,,17,,Observations: Reported,,,,,,,,35.361,138.728
+285081,Mashu,18714,Confirmed Eruption,Kamuinupuri,5,,,1080,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.572,144.561
+285050,Tokachidake,18641,Confirmed Eruption,,,,,1050,200,0,,0,,Correlation: Tephrochronology,,,,,,,,43.418,142.686
+283050,Hakusan,17473,Confirmed Eruption,Midoriga-ike,3,?,,1042,,0,,0,,Observations: Reported,,,,,,,,36.155,136.771
+283030,Fujisan,17444,Confirmed Eruption,"Summit, SSE flank (Nishi-Asakizuka)",2,,,1033,,1,?,19,,Observations: Reported,,,,,,,,35.361,138.728
+282060,Kikai,16991,Confirmed Eruption,Iwo-dake,,,,1030,40,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+282060,Kikai,16990,Confirmed Eruption,Iwo-dake,,,,1010,40,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+282090,Kirishimayama,17106,Confirmed Eruption,Ohachi,,,?,1000,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.934,130.862
+283030,Fujisan,17442,Confirmed Eruption,South flank ?,2,?,,999,,3,,0,,Observations: Reported,,,,,,,,35.361,138.728
+283090,Niigata-Yakeyama,17537,Confirmed Eruption,,,,,989,,0,,0,,Observations: Reported,,,,,,,,36.921,138.036
+282050,Kuchinoerabujima,16959,Confirmed Eruption,Furudake,,,,970,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+283170,Adatarayama,17909,Confirmed Eruption,Numanotaira,,,,950,50,0,,0,,Correlation: Tephrochronology,,,,,,,,37.647,140.281
+285050,Tokachidake,18640,Confirmed Eruption,,,,,950,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+285070,Akan,18681,Confirmed Eruption,Me-Akan (Ponmachineshiri),,,?,950,,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+282090,Kirishimayama,17105,Confirmed Eruption,,2,?,,945,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+283220,Chokaisan,18021,Confirmed Eruption,,,,,939,,5,,15,,Observations: Reported,,,,,,,,39.099,140.049
+283030,Fujisan,17439,Confirmed Eruption,North flank (Kenmarubi II?),2,,,937,,12,,18,,Observations: Reported,,,,,,,,35.361,138.728
+283030,Fujisan,17438,Confirmed Eruption,North flank (Kenmarubi I),2,?,,932,,11,,19,,Observations: Reported,,,,,,,,35.361,138.728
+283271,Towada,18099,Confirmed Eruption,Goshikiiwa (NE rim Nakanoumi crater),5,,,915,,8,,17,,Observations: Reported,,,,,,,,40.51,140.88
+283090,Niigata-Yakeyama,17536,Confirmed Eruption,,4,,,887,,0,,0,,Observations: Reported,,,,,,,,36.921,138.036
+284010,Izu-Oshima,18174,Confirmed Eruption,,4,,?,886,,6,?,29,,Observations: Reported,,,,,,,,34.724,139.394
+284020,Niijima,18249,Confirmed Eruption,Mukai-yama,4,+,,886,,6,,29,,Observations: Reported,,,,,,,,34.397,139.27
+282070,Ata,17030,Confirmed Eruption,Kaimon,4,,,885,,8,,29,,Observations: Reported,,885,,9,,28,,31.22,130.57
+283190,Zaozan [Zaosan],17950,Confirmed Eruption,Okama,3,,?,884,,0,,0,,Observations: Reported,,,,,,,,38.144,140.44
+282070,Ata,17028,Confirmed Eruption,Kaimon,4,,,874,,3,,29,,Observations: Reported,,874,,7,?,0,,31.22,130.57
+283220,Chokaisan,18018,Confirmed Eruption,,2,,,871,,5,,5,,Observations: Reported,,,,,,,,39.099,140.049
+283030,Fujisan,17437,Confirmed Eruption,,2,?,,870,,8,,0,,Observations: Reported,,,,,,,,35.361,138.728
+282110,Asosan,17199,Confirmed Eruption,Naka-dake,2,,,867,,6,?,20,,Observations: Reported,,,,,,,,32.884,131.104
+282130,Yufu-Tsurumi,17368,Confirmed Eruption,,3,,,867,,3,,4,,Observations: Reported,,867,,5,,4,15,33.282,131.39
+282110,Asosan,17198,Confirmed Eruption,Naka-dake,3,?,,864,,11,,9,,Observations: Reported,,,,,,,,32.884,131.104
+283030,Fujisan,17436,Confirmed Eruption,"NW flank (Nagao-yama, Kudari-yama)",3,,,864,,6,?,12,,Observations: Reported,,866,,2,,1,30,35.361,138.728
+282090,Kirishimayama,17104,Confirmed Eruption,,2,?,,858,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+282090,Kirishimayama,17103,Confirmed Eruption,,2,?,,857,,0,,0,,Observations: Reported,,,,,,,,31.934,130.862
+284020,Niijima,18248,Confirmed Eruption,Achi-yama,2,,?,856,,0,,0,,Observations: Reported,?,857,,0,,0,,34.397,139.27
+284010,Izu-Oshima,18173,Confirmed Eruption,,4,,?,854,,9,?,14,,Observations: Reported,?,856,,0,,0,,34.724,139.394
+284040,Miyakejima,18256,Confirmed Eruption,Oyama and East flank (Mi-ike maar),4,,?,850,,0,,0,,Observations: Reported,,,,,,,,34.094,139.526
+284050,Hachijojima,18296,Confirmed Eruption,Nishi-yama summit and SE flank,,,,850,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.137,139.766
+285090,Shiretoko-Iozan,18726,Confirmed Eruption,,,,,850,500,0,,0,,Correlation: Tephrochronology,,,,,,,,44.133,145.161
+282090,Kirishimayama,17102,Confirmed Eruption,,2,?,,843,,0,,0,,Observations: Reported,,848,,0,,0,,31.934,130.862
+284030,Kozushima,17576,Confirmed Eruption,Tenjo-san,4,,,838,,8,?,2,,Observations: Reported,,,,,,,,34.219,139.153
+284010,Izu-Oshima,18172,Confirmed Eruption,"Summit, SE flank",3,,?,838,,8,?,0,,Observations: Reported,,,,,,,,34.724,139.394
+283200,Naruko,17994,Confirmed Eruption,,1,,,837,,5,,27,,Observations: Reported,,,,,,,,38.729,140.734
+282090,Kirishimayama,17101,Confirmed Eruption,Ohachi,3,,,837,,0,,0,,Observations: Reported,?,839,,0,,0,,31.934,130.862
+284040,Miyakejima,18255,Confirmed Eruption,,3,,,832,,6,,23,,Observations: Reported,,,,,,,,34.094,139.526
+283220,Chokaisan,18013,Confirmed Eruption,,,,,830,,1,,0,,Observations: Reported,,,,,,,,39.099,140.049
+283030,Fujisan,17435,Confirmed Eruption,NW flank (Koriana),2,,,830,,0,,0,,Observations: Reported,,,,,,,,35.361,138.728
+282060,Kikai,16989,Confirmed Eruption,Iwo-dake,,,,830,40,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+283030,Fujisan,17434,Confirmed Eruption,,2,?,,826,,12,,31,30,Observations: Reported,,,,,,,,35.361,138.728
+284010,Izu-Oshima,18171,Confirmed Eruption,,3,,?,822,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+283220,Chokaisan,18012,Confirmed Eruption,,,,,817,7,0,,0,,Observations: Reported,,,,,,,,39.099,140.049
+283090,Niigata-Yakeyama,17535,Confirmed Eruption,,,,?,813,,0,,0,,Observations: Reported,,,,,,,,36.921,138.036
+283230,Akita-Komagatake,18048,Confirmed Eruption,,3,,?,807,,0,,0,,Observations: Reported,,,,,,,,39.761,140.799
+283160,Bandaisan,17894,Confirmed Eruption,O-Bandai,3,,,806,,0,,0,,Observations: Reported,,,,,,,,37.601,140.072
+283030,Fujisan,17433,Confirmed Eruption,"Summit, NE and NW flanks (Tenjin-yama)",4,,,800,,4,,11,,Observations: Reported,,802,,2,>,6,,35.361,138.728
+283140,Nikko-Shiranesan,17856,Confirmed Eruption,,,,?,800,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.799,139.376
+282090,Kirishimayama,17100,Confirmed Eruption,Ohachi (Katazoe Scoria),4,,,788,,4,,18,,Observations: Reported,,,,,,,,31.934,130.862
+283030,Fujisan,17432,Confirmed Eruption,,3,,,781,,7,,0,,Observations: Reported,,781,,7,,0,,35.361,138.728
+282080,Aira,17049,Confirmed Eruption,,0,?,,778,,0,,0,,Observations: Reported,,,,,,,,31.593,130.657
+282130,Yufu-Tsurumi,17367,Confirmed Eruption,,0,,,771,,0,,0,,Observations: Reported,,,,,,,,33.282,131.39
+282070,Ata,17025,Confirmed Eruption,Kaimon,4,,?,770,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+282080,Aira,17048,Confirmed Eruption,,3,^,,766,,7,,20,,Observations: Reported,,,,,,,,31.593,130.657
+282080,Aira,17047,Confirmed Eruption,East flank (Nabe-yama),4,,,764,,1,,0,,Observations: Reported,,,,,,,,31.593,130.657
+282060,Kikai,16988,Confirmed Eruption,Iwo-dake,3,,?,750,,0,,0,,Correlation: Tephrochronology,,,,,,,,30.793,130.305
+282043,Kuchinoshima,16950,Confirmed Eruption,,,,,750,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,29.968,129.926
+284040,Miyakejima,18254,Confirmed Eruption,NE flank,3,,,750,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.094,139.526
+282090,Kirishimayama,17099,Confirmed Eruption,Ohachi,3,,,742,,12,,28,,Observations: Reported,,,,,,,,31.934,130.862
+282070,Ata,17024,Confirmed Eruption,Kaimon,4,,?,720,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283030,Fujisan,17431,Confirmed Eruption,"NW flank (Kori-ike, Hakudairyuo)",2,,,720,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+282080,Aira,17046,Confirmed Eruption,,3,^,,716,,0,,0,,Observations: Reported,,718,,0,,0,,31.593,130.657
+284010,Izu-Oshima,18170,Confirmed Eruption,"Summit, N & S flanks",3,,?,713,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+283220,Chokaisan,18009,Confirmed Eruption,,,,,711,3,0,,0,,Observations: Reported,,,,,,,,39.099,140.049
+282080,Aira,13772,Confirmed Eruption,,3,^,,708,,0,,0,,Observations: Reported,,,,,,,,31.593,130.657
+283050,Hakusan,17468,Confirmed Eruption,,,,,706,,9,?,0,,Observations: Reported,,,,,,,,36.155,136.771
+284010,Izu-Oshima,18169,Confirmed Eruption,,3,,?,700,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+285080,Kussharo,18724,Confirmed Eruption,Atosanupuri,,,?,700,,0,,0,,Correlation: Tephrochronology,,,,,,,,43.615,144.427
+282090,Kirishimayama,17098,Confirmed Eruption,Ohachi,,,?,700,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.934,130.862
+283070,Yakedake,17493,Confirmed Eruption,,2,,,686,,0,,0,,Observations: Reported,,,,,,,,36.227,137.587
+283110,Asamayama,17677,Confirmed Eruption,Volcano Uncertain,3,,,685,,4,,0,,,,,,,,,,36.406,138.523
+284010,Izu-Oshima,18168,Confirmed Eruption,,,,?,684,,11,,29,,Observations: Reported,,,,,,,,34.724,139.394
+284010,Izu-Oshima,18167,Confirmed Eruption,,4,,?,680,,0,,0,,Observations: Reported,,681,,3,>,26,,34.724,139.394
+282070,Ata,17023,Confirmed Eruption,Kaimon,4,+,?,660,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+284010,Izu-Oshima,18166,Confirmed Eruption,,3,,?,654,,0,,0,,Observations: Reported,,,,,,,,34.724,139.394
+283002,Sanbesan,17372,Confirmed Eruption,,,,,650,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.141,132.622
+283070,Yakedake,17492,Confirmed Eruption,,1,,?,630,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+284010,Izu-Oshima,18165,Confirmed Eruption,,3,,?,625,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+282070,Ata,17022,Confirmed Eruption,Kaimon,4,,?,600,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+282050,Kuchinoerabujima,16958,Confirmed Eruption,Shindake,,,,600,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+285070,Akan,18680,Confirmed Eruption,Akan-Fuji,,,,600,300,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+285050,Tokachidake,18639,Confirmed Eruption,,,,,600,300,0,,0,,Correlation: Tephrochronology,,,,,,,,43.418,142.686
+283180,Azumayama,17923,Confirmed Eruption,,,,,600,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+284010,Izu-Oshima,18164,Confirmed Eruption,,3,,?,600,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+284010,Izu-Oshima,18163,Confirmed Eruption,,3,,?,580,,0,,0,,Sidereal: Varve Count,,,,,,,,34.724,139.394
+283260,Akita-Yakeyama,18076,Confirmed Eruption,,,,?,570,,0,,0,,Correlation: Tephrochronology,,,,,,,,39.964,140.757
+283122,Harunasan,17815,Confirmed Eruption,Futatsu-dake,5,,,550,10,6,,1,30,Correlation: Anthropology,,,,,,,,36.477,138.851
+285082,Rausudake,18717,Confirmed Eruption,,4,,,550,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,44.076,145.122
+282070,Ata,17021,Confirmed Eruption,Kaimon,2,,?,550,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283030,Fujisan,17430,Confirmed Eruption,South flank (Takabachi),3,,?,530,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283122,Harunasan,17814,Confirmed Eruption,Futatsu-dake,4,+,,520,10,6,,1,30,Correlation: Anthropology,,,,,,,,36.477,138.851
+283030,Fujisan,17429,Confirmed Eruption,"SE flank (Makuiwa, Nishi-Futatsuzuka)",2,,,520,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283050,Hakusan,17467,Confirmed Eruption,,,,,500,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.155,136.771
+284040,Miyakejima,17590,Confirmed Eruption,Daihannya-yama,3,,,500,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.094,139.526
+283030,Fujisan,17428,Confirmed Eruption,SE flank (Kita-Kansu-yama),3,?,,470,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283122,Harunasan,17813,Confirmed Eruption,Futatsu-dake,3,,,450,50,0,,0,,Correlation: Tephrochronology,,,,,,,,36.477,138.851
+283280,Hakkodasan,18133,Confirmed Eruption,O-dake,1,,?,450,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.659,140.877
+285080,Kussharo,18723,Confirmed Eruption,Atosanupuri,,,?,450,,0,,0,,Correlation: Tephrochronology,,,,,,,,43.615,144.427
+282110,Asosan,17195,Confirmed Eruption,Naka-dake,3,,,440,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.884,131.104
+283230,Akita-Komagatake,18047,Confirmed Eruption,Me-dake,,,,400,500,0,,0,,Correlation: Tephrochronology,,,,,,,,39.761,140.799
+283030,Fujisan,17427,Confirmed Eruption,SE flank (Akatsuka),2,,?,400,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+282060,Kikai,16987,Confirmed Eruption,Iwo-dake,3,,,390,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+283030,Fujisan,17426,Confirmed Eruption,SSE flank (Obuchi Craters),,,,370,200,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+282120,Kujusan,17361,Confirmed Eruption,Kuro-dake,3,,,370,40,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.086,131.249
+283110,Asamayama,17676,Confirmed Eruption,,4,,,350,10,11,,15,15,Correlation: Anthropology,,,,,,,,36.406,138.523
+283030,Fujisan,17425,Confirmed Eruption,SE flank (Kurotsuka),3,,,350,300,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+285081,Mashu,18713,Confirmed Eruption,Kamuinupuri,2,,,350,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.572,144.561
+285050,Tokachidake,18638,Confirmed Eruption,,,,,350,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+284010,Izu-Oshima,18162,Confirmed Eruption,Summit and east flank,4,,,340,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.724,139.394
+283150,Nasudake,17876,Confirmed Eruption,Chausu-dake,2,,,330,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.125,139.963
+284040,Miyakejima,17589,Confirmed Eruption,Sabigahama,3,?,,320,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+283190,Zaozan [Zaosan],17948,Confirmed Eruption,Goshiki-dake area,4,,,300,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+283030,Fujisan,17424,Confirmed Eruption,NW flank (Oniwa-Okuniwa),1,,?,300,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+282070,Ata,17020,Confirmed Eruption,Kaimon,3,,?,270,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+284040,Miyakejima,17588,Confirmed Eruption,,4,,,260,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+284010,Izu-Oshima,18161,Confirmed Eruption,,3,,,250,100,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283030,Fujisan,17423,Confirmed Eruption,NW flank (Kita-Koriike),2,,?,250,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283150,Nasudake,17875,Confirmed Eruption,Chausu-dake,3,,,250,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.125,139.963
+285070,Akan,18679,Confirmed Eruption,Akan-Fuji,,,?,250,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.384,144.013
+285010,Oshima-Oshima,18554,Confirmed Eruption,Nishi-yama,,,,250,150,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,41.51,139.367
+283030,Fujisan,17422,Confirmed Eruption,SE flank,,,,240,150,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283030,Fujisan,17421,Confirmed Eruption,NE flank (Hinokimarubi lava flow),2,,?,220,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283050,Hakusan,17466,Confirmed Eruption,,,,?,200,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.155,136.771
+283030,Fujisan,17420,Confirmed Eruption,NW flank (Sajiki-yama),2,,?,200,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+285034,Kuttara,18587,Confirmed Eruption,,,,,200,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,42.491,141.16
+282070,Ata,17019,Confirmed Eruption,Kaimon,4,,?,150,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+285081,Mashu,18712,Confirmed Eruption,Kamuinupuri,4,,,150,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.572,144.561
+284010,Izu-Oshima,18160,Confirmed Eruption,,3,,,150,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.724,139.394
+283240,Iwatesan,17571,Confirmed Eruption,Higashi-Iwate,,,?,150,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,39.853,141.001
+282070,Ata,17018,Confirmed Eruption,Kaimon,4,,?,130,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283030,Fujisan,17419,Confirmed Eruption,NW flank (Ohira-yama),2,,?,100,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+285070,Akan,18678,Confirmed Eruption,Akan-Fuji,,,,100,100,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+285082,Rausudake,18716,Confirmed Eruption,SW flank (Tencho-zan),3,,,80,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,44.076,145.122
+283030,Fujisan,17418,Confirmed Eruption,NW flank (Futatsuzuka),2,,?,50,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283120,Kusatsu-Shiranesan,17821,Confirmed Eruption,Yu-gama,2,,?,50,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.618,138.528
+282070,Ata,17017,Confirmed Eruption,Kaimon,3,,?,30,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+285050,Tokachidake,18637,Confirmed Eruption,,,,,1,50,,,,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+285070,Akan,18677,Confirmed Eruption,Akan-Fuji,4,P,?,-50,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.384,144.013
+285040,Shikotsu,18607,Confirmed Eruption,Tarumai,3,,?,-50,,0,,0,,Correlation: Tephrochronology,,,,,,,,42.688,141.38
+283020,Hakoneyama,17385,Confirmed Eruption,NE of Kamiyama,,,?,-50,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.233,139.021
+283060,Norikuradake,17486,Confirmed Eruption,,3,,?,-50,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.106,137.554
+283230,Akita-Komagatake,18046,Confirmed Eruption,,2,,,-50,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.761,140.799
+283280,Hakkodasan,18132,Confirmed Eruption,O-dake,1,,?,-50,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.659,140.877
+283170,Adatarayama,17908,Confirmed Eruption,Numanotaira,,,,-50,900,0,,0,,Correlation: Tephrochronology,,,,,,,,37.647,140.281
+284040,Miyakejima,17587,Confirmed Eruption,Taira-yama,3,,,-50,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.094,139.526
+282070,Ata,17016,Confirmed Eruption,Kaimon,4,,?,-80,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+284030,Kozushima,18252,Confirmed Eruption,NW tip of island (Kobe-yama),,,,-100,950,0,,0,,Chem/Bio: Hydration Rind,,,,,,,,34.219,139.153
+282120,Kujusan,17360,Confirmed Eruption,Komekubo crater,4,,,-100,300,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.086,131.249
+283030,Fujisan,17417,Confirmed Eruption,South flank,,,,-100,150,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+285040,Shikotsu,18606,Confirmed Eruption,Eniwa volcano (east side of summit),2,,,-100,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,42.688,141.38
+284010,Izu-Oshima,18159,Confirmed Eruption,,3,,?,-150,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+284050,Hachijojima,18295,Confirmed Eruption,Nishi-yama,,,,-150,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.137,139.766
+283180,Azumayama,17922,Confirmed Eruption,Issaikyo,,,,-150,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+283030,Fujisan,17416,Confirmed Eruption,,,,,-190,100,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+282130,Yufu-Tsurumi,17366,Confirmed Eruption,Yufu-dake summit and N flank (Ikeshiro),4,,,-200,50,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,33.282,131.39
+283050,Hakusan,17465,Confirmed Eruption,Kengamine,4,,?,-200,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.155,136.771
+283230,Akita-Komagatake,18045,Confirmed Eruption,"Minami-dake, Ko-dake",,,,-200,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.761,140.799
+283150,Nasudake,17874,Confirmed Eruption,Chausu-dake,2,?,?,-250,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.125,139.963
+285082,Rausudake,18715,Confirmed Eruption,,,,,-270,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,44.076,145.122
+282070,Ata,17015,Confirmed Eruption,Kaimon,4,,?,-270,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+282060,Kikai,16985,Confirmed Eruption,Iwo-dake,,,,-280,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+285070,Akan,18676,Confirmed Eruption,Akan-Fuji,,,,-300,100,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+283070,Yakedake,17491,Confirmed Eruption,,4,,?,-350,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.227,137.587
+283230,Akita-Komagatake,18044,Confirmed Eruption,,3,,,-350,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.761,140.799
+283240,Iwatesan,17570,Confirmed Eruption,Higashi-Iwate,,,?,-350,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,39.853,141.001
+284050,Hachijojima,18294,Confirmed Eruption,NW flank of Higashi-yama,3,,,-350,500,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+282091,Fukue,17089,Confirmed Eruption,Hino-take,,,?,-400,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.657,128.849
+283070,Yakedake,17490,Confirmed Eruption,,,,?,-400,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+283031,Yokodake,17387,Confirmed Eruption,Yoko-dake,,,>,-400,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.087,138.32
+283140,Nikko-Shiranesan,17855,Confirmed Eruption,,,,?,-400,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.799,139.376
+285011,Esan,18549,Confirmed Eruption,,,,,-440,46,0,,0,,Isotopic: 14C (calibrated),,,,,,,,41.805,141.166
+283240,Iwatesan,17569,Confirmed Eruption,Nishi-Iwate (O-jigokudani area),,,?,-450,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+283220,Chokaisan,18005,Confirmed Eruption,,,,?,-450,,0,,0,,Correlation: Tephrochronology,,,,,,,,39.099,140.049
+283030,Fujisan,17415,Confirmed Eruption,,,,,-520,300,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.361,138.728
+283160,Bandaisan,17893,Confirmed Eruption,Numanotaira,,,?,-550,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.601,140.072
+283120,Kusatsu-Shiranesan,17820,Confirmed Eruption,Yu-gama,3,,?,-550,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.618,138.528
+283270,Iwakisan,18103,Confirmed Eruption,Torinoumi lava dome,,,,-550,500,0,,0,,Correlation: Tephrochronology,,,,,,,,40.656,140.303
+285040,Shikotsu,18605,Confirmed Eruption,Tarumai,5,,?,-550,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,42.688,141.38
+285070,Akan,18675,Confirmed Eruption,Akan-Fuji,,,?,-550,,0,,0,,Correlation: Tephrochronology,,,,,,,,43.384,144.013
+285060,Taisetsuzan,18667,Confirmed Eruption,Asahi-dake,,,,-550,500,0,,0,,Correlation: Tephrochronology,,,,,,,,43.664,142.854
+283170,Adatarayama,17907,Confirmed Eruption,Numanotaira,3,,,-590,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.647,140.281
+284060,Aogashima,18305,Confirmed Eruption,SE flank (Kintagaura),4,,,-600,200,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,32.458,139.759
+284010,Izu-Oshima,18158,Confirmed Eruption,,3,,,-600,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+284040,Miyakejima,17586,Confirmed Eruption,,3,,,-600,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+282110,Asosan,17194,Confirmed Eruption,,,,,-630,50,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,32.884,131.104
+282080,Aira,16986,Confirmed Eruption,Minami-dake,,,?,-650,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+282070,Ata,17014,Confirmed Eruption,Kaimon,4,,?,-650,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283220,Chokaisan,18004,Confirmed Eruption,Higashi-Chokai,,,?,-650,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,39.099,140.049
+282070,Ata,17013,Confirmed Eruption,Kaimon,2,,?,-700,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283150,Nasudake,17873,Confirmed Eruption,Chausu-dake,3,,,-700,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.125,139.963
+283090,Niigata-Yakeyama,17534,Confirmed Eruption,,3,,,-700,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.921,138.036
+283010,Izu-Tobu,17377,Confirmed Eruption,"Iwano-yama, Iyuzan, and other vents",3,,?,-750,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.9,139.098
+283100,Myokosan,17668,Confirmed Eruption,,,,,-750,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+283271,Towada,18098,Confirmed Eruption,Nakanoumi,4,+,?,-750,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.51,140.88
+284030,Kozushima,18251,Confirmed Eruption,"N tip of island (Anano-yama, Hanatabe)",,,,-750,700,0,,0,,Chem/Bio: Hydration Rind,,,,,,,,34.219,139.153
+283030,Fujisan,17414,Confirmed Eruption,,,,,-780,500,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.361,138.728
+283200,Naruko,17993,Confirmed Eruption,,,,<,-800,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.729,140.734
+285070,Akan,18674,Confirmed Eruption,Me-Akan (Ponmachineshiri),,,,-800,250,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,43.384,144.013
+285010,Oshima-Oshima,18553,Confirmed Eruption,Nishi-yama,,,,-800,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,41.51,139.367
+284120,Ioto,18402,Confirmed Eruption,Motoyama,,,,-850,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,24.751,141.289
+283070,Yakedake,17489,Confirmed Eruption,,,,?,-850,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+282043,Kuchinoshima,16949,Confirmed Eruption,,,,?,-900,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,29.968,129.926
+283080,Midagahara,17527,Confirmed Eruption,Jigoku-dani,,,?,-900,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.571,137.59
+284010,Izu-Oshima,18157,Confirmed Eruption,SE flank,2,,,-900,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.724,139.394
+283030,Fujisan,17413,Confirmed Eruption,Upper SE flank,5,,>,-930,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+284040,Miyakejima,17585,Confirmed Eruption,"Hatchodaira caldera, S flank (Furumio maar)",4,+,,-950,200,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+283180,Azumayama,17921,Confirmed Eruption,Issaikyo,,,,-950,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+282120,Kujusan,17359,Confirmed Eruption,Komekubo crater,4,,,-990,940,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.086,131.249
+283030,Fujisan,17412,Confirmed Eruption,,,,,-1010,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.361,138.728
+283030,Fujisan,17411,Confirmed Eruption,NW flank (Omuro-yama),4,+,?,-1030,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283020,Hakoneyama,17384,Confirmed Eruption,NE of Kamiyama,,,?,-1050,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.233,139.021
+283220,Chokaisan,18003,Confirmed Eruption,West flank (Saruana crater),0,,?,-1050,,0,,0,,Correlation: Tephrochronology,,,,,,,,39.099,140.049
+283270,Iwakisan,18102,Confirmed Eruption,Summit and central lava dome,,,?,-1050,,0,,0,,Correlation: Tephrochronology,,,,,,,,40.656,140.303
+284010,Izu-Oshima,18156,Confirmed Eruption,,,,,-1050,200,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+285011,Esan,18548,Confirmed Eruption,NW E-san,,,?,-1050,,0,,0,,Correlation: Tephrochronology,,,,,,,,41.805,141.166
+285032,Yoteizan,18585,Confirmed Eruption,NW flank (Hangetsu-ko),,,?,-1050,,0,,0,,Correlation: Tephrochronology,,,,,,,,42.827,140.812
+282080,Aira,17044,Confirmed Eruption,,,,?,-1050,,0,,0,,Correlation: Magnetism,,,,,,,,31.593,130.657
+282060,Kikai,16984,Confirmed Eruption,Inamura-dake,2,,,-1090,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+284060,Aogashima,18304,Confirmed Eruption,NNW flank,,,,-1100,300,0,,0,,Correlation: Tephrochronology,,,,,,,,32.458,139.759
+283120,Kusatsu-Shiranesan,17819,Confirmed Eruption,Moto-Shirane,4,,,-1120,150,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,36.618,138.528
+283110,Asamayama,17675,Confirmed Eruption,,,,,-1130,1430,0,,0,,Correlation: Tephrochronology,,,,,,,,36.406,138.523
+282050,Kuchinoerabujima,16957,Confirmed Eruption,Furudake,,,,-1140,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+283010,Izu-Tobu,17376,Confirmed Eruption,Kawagodaira,4,+,,-1150,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.9,139.098
+284050,Hachijojima,18293,Confirmed Eruption,SE flank of Nishi-yama (Kanda-yama),,,,-1150,700,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+283280,Hakkodasan,18131,Confirmed Eruption,O-dake,1,,?,-1150,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.659,140.877
+283240,Iwatesan,17568,Confirmed Eruption,Nishi-Iwate,,,?,-1150,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,39.853,141.001
+282100,Unzendake,17171,Confirmed Eruption,Fugendake-Sancho,,,,-1150,500,0,,0,,Radiogenic: Thermoluminescence,,,,,,,,32.761,130.299
+284060,Aogashima,18303,Confirmed Eruption,,,,,-1200,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.458,139.759
+284010,Izu-Oshima,18155,Confirmed Eruption,,,,?,-1200,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283020,Hakoneyama,17383,Confirmed Eruption,NW side of Kami-yama (Kanmuriga-take),2,,?,-1200,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.233,139.021
+283100,Myokosan,17667,Confirmed Eruption,,,,?,-1200,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+284020,Niijima,18247,Confirmed Eruption,,,,?,-1250,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.397,139.27
+284040,Miyakejima,17584,Confirmed Eruption,,3,,?,-1250,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+284050,Hachijojima,18292,Confirmed Eruption,Nishi-yama,,,,-1250,800,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+283240,Iwatesan,17567,Confirmed Eruption,Higashi-Iwate,3,,?,-1250,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+283260,Akita-Yakeyama,18075,Confirmed Eruption,,,,,-1250,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.964,140.757
+282110,Asosan,17193,Confirmed Eruption,,,,,-1270,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,32.884,131.104
+283030,Fujisan,17410,Confirmed Eruption,,,,,-1300,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.361,138.728
+283030,Fujisan,17409,Confirmed Eruption,,5,,?,-1350,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283200,Naruko,17992,Confirmed Eruption,,,,,-1350,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.729,140.734
+285050,Tokachidake,18636,Confirmed Eruption,Ground Crater,3,,?,-1350,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+282110,Asosan,17192,Confirmed Eruption,Komezuka,3,,?,-1350,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.884,131.104
+283200,Naruko,17991,Confirmed Eruption,,,,<,-1400,,0,,0,,Correlation: Tephrochronology,,,,,,,,38.729,140.734
+283020,Hakoneyama,17382,Confirmed Eruption,NW side of Kami-yama (Kanmuriga-take),,,,-1400,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.233,139.021
+283150,Nasudake,17872,Confirmed Eruption,Chausu-dake,2,?,,-1440,500,0,,0,,Correlation: Tephrochronology,,,,,,,,37.125,139.963
+283030,Fujisan,17408,Confirmed Eruption,,,,,-1450,100,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283230,Akita-Komagatake,18043,Confirmed Eruption,,,,,-1450,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.761,140.799
+284040,Miyakejima,17583,Confirmed Eruption,NW flank (NGS scoria layer),,,,-1450,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+284010,Izu-Oshima,18154,Confirmed Eruption,,,,?,-1450,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+285060,Taisetsuzan,18666,Confirmed Eruption,Asahi-dake,,,,-1450,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.664,142.854
+282100,Unzendake,17170,Confirmed Eruption,Fugen-dake (Kazaana),,,,-1450,500,0,,0,,Radiogenic: Thermoluminescence,,,,,,,,32.761,130.299
+282050,Kuchinoerabujima,16956,Confirmed Eruption,Shindake,,,,-1450,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+282070,Ata,17012,Confirmed Eruption,"Mizunashi, Kagami, Ikezoko maars",,,?,-1450,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+282070,Ata,17011,Confirmed Eruption,Kaimon,4,,?,-1500,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283240,Iwatesan,17566,Confirmed Eruption,Higashi-Iwate,,,,-1500,300,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+283030,Fujisan,17407,Confirmed Eruption,,,,,-1510,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.361,138.728
+283170,Adatarayama,17906,Confirmed Eruption,Numanotaira,,,,-1550,1100,0,,0,,Correlation: Tephrochronology,,,,,,,,37.647,140.281
+285080,Kussharo,18722,Confirmed Eruption,Atosanupuri,,,,-1550,2000,0,,0,,Correlation: Tephrochronology,,,,,,,,43.615,144.427
+282070,Ata,17010,Confirmed Eruption,Nabeshima-dake,,,?,-1550,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283190,Zaozan [Zaosan],17947,Confirmed Eruption,Goshiki-dake,,,?,-1600,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+282070,Ata,17009,Confirmed Eruption,Kaimon,3,,?,-1610,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283240,Iwatesan,17565,Confirmed Eruption,Nishi-Iwate (O-jigokudani area),,,?,-1650,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+282110,Asosan,17191,Confirmed Eruption,Ojo-dake,3,,?,-1650,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.884,131.104
+285061,Maruyama,18662,Confirmed Eruption,Maru-yama,2,,?,-1700,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,143.031
+282120,Kujusan,17358,Confirmed Eruption,Taisen-Minami,,,,-1720,300,0,,0,,Correlation: Tephrochronology,,,,,,,,33.086,131.249
+283090,Niigata-Yakeyama,17533,Confirmed Eruption,,,,?,-1750,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.921,138.036
+285050,Tokachidake,18635,Confirmed Eruption,,,,,-1750,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+282070,Ata,17008,Confirmed Eruption,Kaimon,4,,?,-1780,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283160,Bandaisan,17892,Confirmed Eruption,Numanotaira,,,,-1800,1250,0,,0,,Correlation: Tephrochronology,,,,,,,,37.601,140.072
+283180,Azumayama,17920,Confirmed Eruption,Issaikyo,,,,-1800,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+284040,Miyakejima,17582,Confirmed Eruption,South flank (Mizutamari maar),3,,,-1800,50,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+284060,Aogashima,18302,Confirmed Eruption,Northwest flank,2,?,,-1800,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.458,139.759
+282060,Kikai,16983,Confirmed Eruption,Inamura-dake,,,,-1830,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+282110,Asosan,17190,Confirmed Eruption,,,,,-1830,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,32.884,131.104
+283030,Fujisan,17406,Confirmed Eruption,,,,,-1850,150,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283090,Niigata-Yakeyama,17532,Confirmed Eruption,,,,,-1900,1050,0,,0,,Correlation: Tephrochronology,,,,,,,,36.921,138.036
+283002,Sanbesan,17371,Confirmed Eruption,Taihei-zan,4,,?,-1920,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.141,132.622
+283150,Nasudake,17871,Confirmed Eruption,Chausu-dake,2,?,,-2000,1450,0,,0,,Correlation: Tephrochronology,,,,,,,,37.125,139.963
+283140,Nikko-Shiranesan,17854,Confirmed Eruption,,,,?,-2000,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.799,139.376
+284040,Miyakejima,17581,Confirmed Eruption,,3,,,-2000,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.094,139.526
+283190,Zaozan [Zaosan],17946,Confirmed Eruption,Goshiki-dake,,,,-2000,500,0,,0,,Correlation: Tephrochronology,,,,,,,,38.144,140.44
+283240,Iwatesan,17564,Confirmed Eruption,Nishi-yama,,,?,-2000,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+282070,Ata,17007,Confirmed Eruption,Kaimon,4,,?,-2010,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+282080,Aira,17043,Confirmed Eruption,,,,?,-2050,,0,,0,,Correlation: Magnetism,,,,,,,,31.593,130.657
+282110,Asosan,17189,Confirmed Eruption,Kishima-dake,3,,?,-2050,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.884,131.104
+282090,Kirishimayama,17096,Confirmed Eruption,Shinmoe-dake (Mae-yama Pumice),3,,?,-2050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.934,130.862
+283240,Iwatesan,17563,Confirmed Eruption,Higashi-Iwate,,,,-2050,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+283262,Megata,18073,Confirmed Eruption,,,,?,-2050,,0,,0,,Correlation: Tephrochronology,,,,,,,,39.95,139.73
+284050,Hachijojima,18291,Confirmed Eruption,"SE of Nishi-yama, NE of Higashi-yama",5,,?,-2050,,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+283010,Izu-Tobu,17375,Confirmed Eruption,Yoichizaka,,,?,-2050,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.9,139.098
+283030,Fujisan,17405,Confirmed Eruption,,,,?,-2050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+285070,Akan,18673,Confirmed Eruption,"Kita-yama, Me-Akan (Ponmachineshiri)",,,?,-2050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,43.384,144.013
+285081,Mashu,18711,Confirmed Eruption,Kamuinupuri,4,,,-2050,40,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.572,144.561
+283010,Izu-Tobu,17374,Confirmed Eruption,Omuro-yama,4,,,-2100,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,34.9,139.098
+283100,Myokosan,17559,Confirmed Eruption,,,,,-2100,500,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+282100,Unzendake,17169,Confirmed Eruption,Mayu-yama (Tengu-yama),,,,-2150,800,0,,0,,Radiogenic: Thermoluminescence,,,,,,,,32.761,130.299
+282110,Asosan,17188,Confirmed Eruption,,,,?,-2150,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.884,131.104
+283280,Hakkodasan,18130,Confirmed Eruption,O-dake,3,,?,-2250,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.659,140.877
+283190,Zaozan [Zaosan],17945,Confirmed Eruption,Goshiki-dake area,,,,-2300,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+282110,Asosan,17187,Confirmed Eruption,,,,,-2350,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,32.884,131.104
+282120,Kujusan,17357,Confirmed Eruption,Danbaru,4,,,-2440,300,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.086,131.249
+283030,Fujisan,17404,Confirmed Eruption,,,,,-2450,500,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+284050,Hachijojima,18290,Confirmed Eruption,Nishi-yama,4,,,-2450,500,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+282060,Kikai,16982,Confirmed Eruption,Old Iwo-dake,,,,-2450,840,0,,0,,Correlation: Tephrochronology,,,,,,,,30.793,130.305
+284050,Hachijojima,18289,Confirmed Eruption,S flank of Higashi-yama (Myohoji),3,,,-2550,500,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+284010,Izu-Oshima,18153,Confirmed Eruption,,,,?,-2550,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283030,Fujisan,17403,Confirmed Eruption,,,,?,-2550,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283070,Yakedake,17488,Confirmed Eruption,,0,,?,-2550,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+283050,Hakusan,17464,Confirmed Eruption,,,,,-2550,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.155,136.771
+283110,Asamayama,17674,Confirmed Eruption,,4,,,-2550,500,0,,0,,Correlation: Anthropology,,,,,,,,36.406,138.523
+282110,Asosan,17186,Confirmed Eruption,Jigoku explosion crater,1,,?,-2550,,0,,0,,Correlation: Tephrochronology,,,,,,,,32.884,131.104
+283170,Adatarayama,17905,Confirmed Eruption,Numanotaira,3,,,-2600,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.647,140.281
+283190,Zaozan [Zaosan],17944,Confirmed Eruption,Goshiki-dake area,,,,-2600,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+282100,Unzendake,17168,Confirmed Eruption,Mayu-yama (Shichimen-zan),,,,-2640,500,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.761,130.299
+282090,Kirishimayama,17095,Confirmed Eruption,Mi-ike,4,,?,-2650,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.934,130.862
+285050,Tokachidake,18634,Confirmed Eruption,,,,,-2650,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.418,142.686
+282070,Ata,17006,Confirmed Eruption,Ikeda-ko caldera,5,,,-2690,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.22,130.57
+283240,Iwatesan,17562,Confirmed Eruption,Higashi-Iwate,,,,-2700,200,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+284050,Hachijojima,18288,Confirmed Eruption,Between Nishi-yama & Higashi-yama,3,,,-2700,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.137,139.766
+282100,Unzendake,17167,Confirmed Eruption,Fugen-dake,,,,-2720,300,0,,0,,Isotopic: 14C (calibrated),,,,,,,,32.761,130.299
+283180,Azumayama,17919,Confirmed Eruption,Issaikyo,,,,-2750,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+283100,Myokosan,17558,Confirmed Eruption,,4,,,-2750,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.891,138.114
+285060,Taisetsuzan,18665,Confirmed Eruption,Asahi-dake,,,,-2800,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.664,142.854
+285081,Mashu,18710,Confirmed Eruption,Kamuinupuri,3,,,-2800,750,0,,0,,Correlation: Tephrochronology,,,,,,,,43.572,144.561
+283030,Fujisan,17402,Confirmed Eruption,,,,,-2800,300,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283280,Hakkodasan,18129,Confirmed Eruption,O-dake,2,,?,-2850,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.659,140.877
+282110,Asosan,17185,Confirmed Eruption,Naka-dake,0,,?,-2850,,0,,0,,Correlation: Tephrochronology,,,,,,,,32.884,131.104
+282080,Aira,17042,Confirmed Eruption,Kita-dake,4,,?,-2900,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+284040,Miyakejima,17580,Confirmed Eruption,,4,,,-2900,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+283100,Myokosan,17557,Confirmed Eruption,,,,?,-2900,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+283240,Iwatesan,17561,Confirmed Eruption,Nishi-Iwate,,,,-2950,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+283180,Azumayama,17918,Confirmed Eruption,Issaikyo,1,,,-3000,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+283240,Iwatesan,17560,Confirmed Eruption,Higashi-Iwate,,,?,-3050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,39.853,141.001
+283260,Akita-Yakeyama,18074,Confirmed Eruption,Onigajo lava dome,,,?,-3050,,0,,0,,Radiogenic: Thermoluminescence,,,,,,,,39.964,140.757
+283142,Omanago Group,17851,Confirmed Eruption,Mitsu-dake,,,?,-3050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,36.795,139.507
+283030,Fujisan,17401,Confirmed Eruption,,,,?,-3050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+285070,Akan,18672,Confirmed Eruption,"Nishi-yama, O-Akan",,,?,-3050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,43.384,144.013
+282080,Aira,17041,Confirmed Eruption,Kita-dake,4,,?,-3050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+282090,Kirishimayama,17094,Confirmed Eruption,Takachiho-mine,3,,?,-3050,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.934,130.862
+282120,Kujusan,17356,Confirmed Eruption,"Iwaigo-dake, Ogigahana, Hizengajo",,,,-3110,500,0,,0,,Correlation: Tephrochronology,,,,,,,,33.086,131.249
+285060,Taisetsuzan,18664,Confirmed Eruption,Asahi-dake,,,,-3200,75,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.664,142.854
+283080,Midagahara,17526,Confirmed Eruption,Jigoku-dani,,,,-3200,2100,0,,0,,Correlation: Tephrochronology,,,,,,,,36.571,137.59
+282060,Kikai,16981,Confirmed Eruption,Old Iwo-dake,,,,-3250,75,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+283240,Iwatesan,18062,Confirmed Eruption,,0,,,-3250,500,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+283190,Zaozan [Zaosan],17943,Confirmed Eruption,Goshiki-dake area,,,,-3350,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+284050,Hachijojima,18287,Confirmed Eruption,Nishi-yama,,,,-3350,1300,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+283151,Numazawa,17865,Confirmed Eruption,,5,,?,-3400,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.444,139.566
+283100,Myokosan,17556,Confirmed Eruption,,,,?,-3450,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+283110,Asamayama,17673,Confirmed Eruption,,3,,?,-3450,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,36.406,138.523
+282050,Kuchinoerabujima,16955,Confirmed Eruption,Furudake,,,,-3480,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+283210,Kurikomayama,17995,Confirmed Eruption,,,,,-3540,2480,0,,0,,Correlation: Tephrochronology,,,,,,,,38.961,140.788
+283050,Hakusan,17463,Confirmed Eruption,,,,,-3550,500,0,,0,,Correlation: Tephrochronology,,,,,,,,36.155,136.771
+283002,Sanbesan,17370,Confirmed Eruption,,,,,-3550,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.141,132.622
+285070,Akan,18671,Confirmed Eruption,Me-Akan (Nakamachineshiri),3,,,-3550,500,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,43.384,144.013
+285081,Mashu,18709,Confirmed Eruption,Kamuinupuri,4,,,-3550,40,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.572,144.561
+285080,Kussharo,18721,Confirmed Eruption,Atosanupuri,,,?,-3550,,0,,0,,Correlation: Tephrochronology,,,,,,,,43.615,144.427
+285032,Yoteizan,18584,Confirmed Eruption,,,,?,-3550,,0,,0,,Correlation: Tephrochronology,,,,,,,,42.827,140.812
+282090,Kirishimayama,17093,Confirmed Eruption,Takachiho-mine (Mojihara Ash),3,,?,-3550,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.934,130.862
+282110,Asosan,17184,Confirmed Eruption,,,,,-3610,50,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,32.884,131.104
+284010,Izu-Oshima,18152,Confirmed Eruption,,,,?,-3650,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283030,Fujisan,17400,Confirmed Eruption,,,,,-3690,100,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283020,Hakoneyama,17381,Confirmed Eruption,Futago-yama,1,,,-3700,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.233,139.021
+283100,Myokosan,17555,Confirmed Eruption,,,,?,-3700,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+283120,Kusatsu-Shiranesan,17818,Confirmed Eruption,Shirane,2,,?,-3750,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.618,138.528
+284010,Izu-Oshima,18151,Confirmed Eruption,,,,?,-3750,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283240,Iwatesan,18061,Confirmed Eruption,Higashi-Iwate,,,,-3750,100,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+282120,Kujusan,17355,Confirmed Eruption,Taisen-Hokubu lava dome,4,,,-3780,500,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.086,131.249
+283160,Bandaisan,17891,Confirmed Eruption,,,,?,-3850,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.601,140.072
+283190,Zaozan [Zaosan],17942,Confirmed Eruption,Goshiki-dake area,,,,-3850,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+285011,Esan,18547,Confirmed Eruption,NW E-san,,,,-3900,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,41.805,141.166
+283050,Hakusan,17462,Confirmed Eruption,,,,,-3900,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.155,136.771
+283100,Myokosan,17554,Confirmed Eruption,,,,?,-4000,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+284010,Izu-Oshima,18150,Confirmed Eruption,,,,,-4000,300,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+282100,Unzendake,17166,Confirmed Eruption,Fugen-dake (Shimanomine),,,,-4050,3000,0,,0,,Radiogenic: Fission track,,,,,,,,32.761,130.299
+283270,Iwakisan,18101,Confirmed Eruption,West summit lava dome,,,?,-4050,,0,,0,,Correlation: Tephrochronology,,,,,,,,40.656,140.303
+284041,Mikurajima,17578,Confirmed Eruption,Tsubunegamori & Yasukajigamori domes,,,,-4100,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.874,139.602
+283110,Asamayama,17672,Confirmed Eruption,,,,,-4100,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.406,138.523
+283030,Fujisan,17399,Confirmed Eruption,,,,,-4120,300,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283140,Nikko-Shiranesan,17853,Confirmed Eruption,,,,,-4150,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.799,139.376
+283271,Towada,18097,Confirmed Eruption,Goshikiiwa (Nakanoumi),5,+,?,-4150,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.51,140.88
+283190,Zaozan [Zaosan],17941,Confirmed Eruption,Goshiki-dake area,,,,-4150,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+283180,Azumayama,17917,Confirmed Eruption,Azuma Ko-Fuji,3,,,-4150,500,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+284010,Izu-Oshima,18149,Confirmed Eruption,,,,?,-4250,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283170,Adatarayama,17904,Confirmed Eruption,Numanotaira,3,,,-4300,850,0,,0,,Correlation: Tephrochronology,,,,,,,,37.647,140.281
+283100,Myokosan,17553,Confirmed Eruption,,,,?,-4300,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.891,138.114
+285020,Hokkaido-Komagatake,18561,Confirmed Eruption,,4,P,?,-4350,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,42.063,140.677
+283150,Nasudake,17870,Confirmed Eruption,Chausu-dake,2,?,,-4350,950,0,,0,,Correlation: Tephrochronology,,,,,,,,37.125,139.963
+283240,Iwatesan,18060,Confirmed Eruption,Higashi-Iwate,,,,-4350,500,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+284020,Niijima,18246,Confirmed Eruption,Niijima-yama,,,?,-4350,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.397,139.27
+282060,Kikai,16980,Confirmed Eruption,Kikai caldera,7,,?,-4350,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,30.793,130.305
+282090,Kirishimayama,17092,Confirmed Eruption,Old Takachiho,4,,?,-4350,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.934,130.862
+283200,Naruko,17990,Confirmed Eruption,,,,>,-4400,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.729,140.734
+283240,Iwatesan,18059,Confirmed Eruption,Higashi-Iwate,0,,,-4450,500,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+284010,Izu-Oshima,18148,Confirmed Eruption,,,,?,-4450,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+282120,Kujusan,17354,Confirmed Eruption,"Tachi-san, Gakurokuji",,,,-4490,500,0,,0,,Correlation: Tephrochronology,,,,,,,,33.086,131.249
+285020,Hokkaido-Komagatake,18560,Confirmed Eruption,,,,,-4500,150,0,,0,,Correlation: Tephrochronology,,,,,,,,42.063,140.677
+285070,Akan,18670,Confirmed Eruption,Me-Akan (Ponmachineshiri),,,,-4550,500,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,43.384,144.013
+284011,Toshima,18137,Confirmed Eruption,Kajiana crater,0,,,-4550,2550,0,,0,,Correlation: Tephrochronology,,,,,,,,34.52,139.279
+283180,Azumayama,17916,Confirmed Eruption,Issaikyo-Minami,,,,-4550,1000,0,,0,,Correlation: Tephrochronology,,,,,,,,37.735,140.244
+283143,Takaharayama,17852,Confirmed Eruption,Fuji-san lava dome,4,?,?,-4570,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.9,139.777
+285020,Hokkaido-Komagatake,18559,Confirmed Eruption,,5,,,-4600,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,42.063,140.677
+285030,Toya,20968,Confirmed Eruption,Usu,,,,-4600,200,,,,,Isotopic: 14C (calibrated),,,,,,,,42.544,140.839
+283160,Bandaisan,17890,Confirmed Eruption,,,,?,-4650,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.601,140.072
+284050,Hachijojima,18286,Confirmed Eruption,Nishi-yama,5,,?,-4650,,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+283110,Asamayama,17671,Confirmed Eruption,,,,,-4700,500,0,,0,,Correlation: Tephrochronology,,,,,,,,36.406,138.523
+283030,Fujisan,17398,Confirmed Eruption,,,,,-4730,500,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283100,Myokosan,17552,Confirmed Eruption,,5,?,,-4750,300,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.891,138.114
+282080,Aira,17040,Confirmed Eruption,Kita-dake,,,?,-4800,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+283240,Iwatesan,18058,Confirmed Eruption,Nishi-Iwate,,,,-4850,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+285031,Niseko,18583,Confirmed Eruption,,,,?,-4900,,0,,0,,Correlation: Tephrochronology,,,,,,,,42.875,140.659
+283240,Iwatesan,18057,Confirmed Eruption,Higashi-Iwate,,,,-4900,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+284010,Izu-Oshima,18147,Confirmed Eruption,,,,,-4920,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283050,Hakusan,17461,Confirmed Eruption,,,,?,-5000,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,36.155,136.771
+284050,Hachijojima,18285,Confirmed Eruption,Higashi-yama south flank,3,,,-5020,370,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+284041,Mikurajima,17577,Confirmed Eruption,,,,?,-5050,,0,,0,,Correlation: Tephrochronology,,,,,,,,33.874,139.602
+283160,Bandaisan,17889,Confirmed Eruption,,,,?,-5050,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.601,140.072
+282070,Ata,17004,Confirmed Eruption,"Unagi, Narikawa and Yamakawa maars",,,?,-5050,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.22,130.57
+283030,Fujisan,17397,Confirmed Eruption,,,,,-5070,200,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283250,Hachimantai,18071,Confirmed Eruption,,,,?,-5350,,0,,0,,Correlation: Tephrochronology,,,,,,,,39.958,140.854
+282080,Aira,17039,Confirmed Eruption,Kita-dake,,,?,-5400,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+283180,Azumayama,17915,Confirmed Eruption,Goshiki-numa,1,,,-5400,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+284010,Izu-Oshima,18146,Confirmed Eruption,,,,,-5450,75,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283190,Zaozan [Zaosan],17940,Confirmed Eruption,Goshiki-dake area,,,?,-5500,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+283030,Fujisan,17396,Confirmed Eruption,,,,,-5540,200,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283150,Nasudake,17869,Confirmed Eruption,Chausu-dake,3,,,-5550,500,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.125,139.963
+284010,Izu-Oshima,18145,Confirmed Eruption,,,,?,-5550,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283271,Towada,18096,Confirmed Eruption,Goshikiiwa,3,?,?,-5550,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.51,140.88
+285081,Mashu,18708,Confirmed Eruption,,6,,,-5550,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,43.572,144.561
+283190,Zaozan [Zaosan],17939,Confirmed Eruption,Goshiki-dake,,,?,-5600,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+283240,Iwatesan,18056,Confirmed Eruption,Nishi-Iwate,,,,-5650,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+283180,Azumayama,17914,Confirmed Eruption,Oke-numa,2,,,-5700,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.735,140.244
+282090,Kirishimayama,17091,Confirmed Eruption,Old Takachiho,3,,,-5700,1350,0,,0,,Correlation: Tephrochronology,,,,,,,,31.934,130.862
+285011,Esan,20943,Confirmed Eruption,East flank (Misaka lava dome),0,?,,-5770,924,,,,,Isotopic: 14C (calibrated),,,,,,,,41.805,141.166
+285080,Kussharo,18720,Confirmed Eruption,Atosanupuri,,,,-5800,2250,0,,0,,Correlation: Tephrochronology,,,,,,,,43.615,144.427
+285041,Rishirizan,18603,Confirmed Eruption,,,,,-5830,300,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,45.179,141.242
+283230,Akita-Komagatake,18042,Confirmed Eruption,,3,,,-5950,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.761,140.799
+284020,Niijima,18245,Confirmed Eruption,,,,?,-5950,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.397,139.27
+282080,Aira,17038,Confirmed Eruption,Kita-dake,,,?,-5950,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+283020,Hakoneyama,17380,Confirmed Eruption,Kami-yama,3,,,-6000,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,35.233,139.021
+283030,Fujisan,17395,Confirmed Eruption,,,,?,-6050,,0,,0,,Correlation: Tephrochronology,,,,,,,,35.361,138.728
+283150,Nasudake,17868,Confirmed Eruption,Chausu-dake,2,?,?,-6050,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.125,139.963
+283131,Hiuchigatake,17846,Confirmed Eruption,Akanagure lava dome,,,?,-6050,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.955,139.285
+284010,Izu-Oshima,18144,Confirmed Eruption,,,,,-6050,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+282080,Aira,17037,Confirmed Eruption,Kita-dake,5,,?,-6050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+283230,Akita-Komagatake,18041,Confirmed Eruption,,,,,-6150,300,0,,0,,Correlation: Tephrochronology,,,,,,,,39.761,140.799
+283170,Adatarayama,17903,Confirmed Eruption,Numanotaira,3,,,-6150,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.647,140.281
+282081,Yonemaru-Sumiyoshiike,17033,Confirmed Eruption,Yonemaru,3,,?,-6200,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.771,130.592
+283030,Fujisan,17394,Confirmed Eruption,,,,,-6240,300,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283271,Towada,18095,Confirmed Eruption,Goshikiiwa,4,,?,-6250,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.51,140.88
+282081,Yonemaru-Sumiyoshiike,17032,Confirmed Eruption,Sumiyoshi-ike,2,,?,-6250,,0,,0,,Correlation: Tephrochronology,,,,,,,,31.771,130.592
+283120,Kusatsu-Shiranesan,17817,Confirmed Eruption,,,,,-6270,200,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,36.618,138.528
+283240,Iwatesan,18055,Confirmed Eruption,Nishi-Iwate,,,,-6300,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.853,141.001
+283230,Akita-Komagatake,18040,Confirmed Eruption,,3,,,-6350,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.761,140.799
+283160,Bandaisan,17888,Confirmed Eruption,,,,?,-6350,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.601,140.072
+282080,Aira,17035,Confirmed Eruption,Kita-dake,,,?,-6350,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+283110,Asamayama,17670,Confirmed Eruption,,,,,-6400,1050,0,,0,,Correlation: Tephrochronology,,,,,,,,36.406,138.523
+283240,Iwatesan,18054,Confirmed Eruption,,,,,-6450,1600,0,,0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+284040,Miyakejima,17579,Confirmed Eruption,NW flank,4,,,-6450,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.094,139.526
+284010,Izu-Oshima,18143,Confirmed Eruption,,,,?,-6550,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283120,Kusatsu-Shiranesan,17816,Confirmed Eruption,Shirane,3,,?,-6550,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.618,138.528
+283050,Hakusan,17460,Confirmed Eruption,,,,,-6550,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.155,136.771
+285030,Toya,18589,Confirmed Eruption,Usu,,,,-6550,1500,0,,0,,Isotopic: 14C (calibrated),,,,,,,,42.544,140.839
+283030,Fujisan,17393,Confirmed Eruption,,,,<,-6580,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283170,Adatarayama,17902,Confirmed Eruption,Numanotaira,3,,,-6650,100,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.647,140.281
+284010,Izu-Oshima,18142,Confirmed Eruption,,,,?,-6650,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+285011,Esan,18546,Confirmed Eruption,Esan lava dome,3,,,-6670,27,0,,0,,Isotopic: 14C (calibrated),,,,,,,,41.805,141.166
+282043,Kuchinoshima,16948,Confirmed Eruption,"Yoko-dake, Mae-dake",,,,-6750,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,29.968,129.926
+283001,Abu,17369,Confirmed Eruption,Kasa-yama,,,?,-6850,,0,,0,,Radiogenic: Thermoluminescence,,,,,,,,34.5,131.6
+285040,Shikotsu,18604,Confirmed Eruption,Tarumai,5,,?,-6950,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,42.688,141.38
+285070,Akan,18669,Confirmed Eruption,Me-Akan (Nakamachineshiri),4,,?,-7050,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,43.384,144.013
+283050,Hakusan,17459,Confirmed Eruption,,,,,-7050,500,0,,0,,Correlation: Tephrochronology,,,,,,,,36.155,136.771
+283262,Megata,18072,Confirmed Eruption,,,,?,-7050,,0,,0,,Correlation: Tephrochronology,,,,,,,,39.95,139.73
+282090,Kirishimayama,17090,Confirmed Eruption,Shinmoe-dake (Setao Pumice),3,,,-7050,2350,0,,0,,Correlation: Tephrochronology,,,,,,,,31.934,130.862
+283230,Akita-Komagatake,18039,Confirmed Eruption,,,,,-7100,900,0,,0,,Correlation: Tephrochronology,,,,,,,,39.761,140.799
+284010,Izu-Oshima,18141,Confirmed Eruption,,,,,-7150,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+282120,Kujusan,17353,Confirmed Eruption,Sensui-zan,,,,-7180,2640,0,,0,,Correlation: Tephrochronology,,,,,,,,33.086,131.249
+283110,Asamayama,17669,Confirmed Eruption,,,,,-7200,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.406,138.523
+283060,Norikuradake,17485,Confirmed Eruption,Ichino-ike,3,,,-7250,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.106,137.554
+283271,Towada,18093,Confirmed Eruption,Goshikiiwa,5,?,?,-7250,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.51,140.88
+283080,Midagahara,17525,Confirmed Eruption,Jigoku-dani,,,,-7300,1000,0,,0,,Correlation: Tephrochronology,,,,,,,,36.571,137.59
+283030,Fujisan,17392,Confirmed Eruption,,,,,-7310,500,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283070,Yakedake,17487,Confirmed Eruption,Akandana-yama,0,,?,-7450,,0,,0,,Correlation: Tephrochronology,,,,,,,,36.227,137.587
+283160,Bandaisan,17887,Confirmed Eruption,,,,?,-7450,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.601,140.072
+283030,Fujisan,17391,Confirmed Eruption,,,,,-7530,300,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283050,Hakusan,17458,Confirmed Eruption,,,,,-7550,50,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.155,136.771
+283190,Zaozan [Zaosan],17938,Confirmed Eruption,Goshiki-dake area,,,?,-7600,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,38.144,140.44
+284010,Izu-Oshima,18140,Confirmed Eruption,,,,?,-7650,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+284050,Hachijojima,18284,Confirmed Eruption,Nishi-yama,,,,-7650,3000,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+283060,Norikuradake,17484,Confirmed Eruption,Kengamine,3,,,-7700,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.106,137.554
+282080,Aira,17034,Confirmed Eruption,Kita-dake,,,?,-7750,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+283030,Fujisan,17390,Confirmed Eruption,,,,,-7820,200,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283150,Nasudake,17867,Confirmed Eruption,Chausu-dake,3,,?,-7850,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,37.125,139.963
+283230,Akita-Komagatake,18038,Confirmed Eruption,,4,,,-7850,200,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.761,140.799
+283250,Hachimantai,18070,Confirmed Eruption,,,,,-7900,150,0,,0,,Isotopic: 14C (calibrated),,,,,,,,39.958,140.854
+284050,Hachijojima,18283,Confirmed Eruption,Nishi-yama,4,,,-8020,2640,0,,0,,Correlation: Tephrochronology,,,,,,,,33.137,139.766
+282110,Asosan,17183,Confirmed Eruption,Jigoku explosion crater,1,,?,-8050,,0,,0,,Isotopic: Ar/Ar,,,,,,,,32.884,131.104
+284030,Kozushima,18250,Confirmed Eruption,Jogo-yama,,,?,-8050,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.219,139.153
+284010,Izu-Oshima,18139,Confirmed Eruption,,,,,-8050,500,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283270,Iwakisan,18100,Confirmed Eruption,Torinoumi lava dome,,,?,-8050,,0,,0,,Isotopic: K/Ar,,,,,,,,40.656,140.303
+283170,Adatarayama,17901,Confirmed Eruption,Numanotaira,3,,?,-8050,,0,,0,,Correlation: Tephrochronology,,,,,,,,37.647,140.281
+283010,Izu-Tobu,17373,Confirmed Eruption,Akakubo,3,,?,-8050,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.9,139.098
+285034,Kuttara,18586,Confirmed Eruption,Hiyori-yama lava dome,,,?,-8050,,0,,0,,Correlation: Tephrochronology,,,,,,,,42.491,141.16
+282080,Aira,17036,Confirmed Eruption,Wakamiko Caldera,6,,,-8050,1000,,,,,Isotopic: 14C (uncalibrated),,,,,,,,31.593,130.657
+283271,Towada,18092,Confirmed Eruption,Goshikiiwa,5,,?,-8250,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.51,140.88
+283230,Akita-Komagatake,18036,Confirmed Eruption,,4,,,-8300,300,0,,0,,Correlation: Tephrochronology,,,,,,,,39.761,140.799
+284010,Izu-Oshima,18138,Confirmed Eruption,,,,?,-8450,,0,,0,,Correlation: Tephrochronology,,,,,,,,34.724,139.394
+283030,Fujisan,17389,Confirmed Eruption,South flank? (Mishima),,,>,-8540,,0,,0,,Isotopic: 14C (uncalibrated),,,,,,,,35.361,138.728
+283150,Nasudake,17866,Confirmed Eruption,Chausu-dake,2,?,,-8550,1500,0,,0,,Correlation: Tephrochronology,,,,,,,,37.125,139.963
+283230,Akita-Komagatake,18035,Confirmed Eruption,,3,?,,-8800,300,0,,0,,Correlation: Tephrochronology,,,,,,,,39.761,140.799
+282120,Kujusan,17352,Confirmed Eruption,,4,,,-9160,1190,0,,0,,Isotopic: 14C (calibrated),,,,,,,,33.086,131.249
+283271,Towada,18091,Confirmed Eruption,Nakanoumi,3,,?,-9490,,0,,0,,Isotopic: 14C (calibrated),,,,,,,,40.51,140.88
+282050,Kuchinoerabujima,16954,Confirmed Eruption,Furudake,,,,-9520,300,0,,0,,Isotopic: 14C (calibrated),,,,,,,,30.443,130.217
+283141,Nantaisan,17850,Confirmed Eruption,,,,,-9540,500,0,,0,,Isotopic: 14C (calibrated),,,,,,,,36.765,139.491
